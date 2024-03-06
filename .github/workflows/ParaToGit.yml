@@ -14,6 +14,7 @@ jobs:
     - name: Run build script
       id: check_error
       run: |
+        using: 'node20'
         # curl -O -J -L --header "Authorization: ${{ secrets.PARATRANZ_ROOT }}" https://paratranz.cn/api/projects/8405/artifacts/download
         wget --header "Authorization: ${{ secrets.PARATRANZ_ROOT }}" -O download https://paratranz.cn/api/projects/8405/artifacts/download
     - name: Extrack
