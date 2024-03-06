@@ -428,7 +428,7 @@ ForgeEffect_天蚕宝衣2,<#EFD09F>Reflect</color>,<#EFD09F>สะท้อน</
 ForgeEffect_兽王宝甲1,<#EFD09F>Neutralized</color>,<#EFD09F>ต่อต้าน</color>
 ForgeEffect_兽王宝甲2,<#EFD09F>Endurant</color>,<#EFD09F>ทนทาน</color>
 ForgeEffect_霹雳宝铠1,<#EFD09F>Neutralized</color>,<#EFD09F>ต่อต้าน</color>
-ForgeEffect_霹雳宝铠2,<#EFD09F>Force Utilization</color>,<#EFD09F>ใช้พลังให้เป็นประโยชน์</color>
+ForgeEffect_霹雳宝铠2,<#EFD09F>Force Utilization</color>,<#EFD09F>ยืมพลัง</color>
 ForgeEffect_紫薇1,<#EFD09F>Regenerate</color>,<#EFD09F>ฟื้นฟู</color>
 ForgeEffect_紫薇2,<#EFD09F>Protection</color>,<#EFD09F>การปกป้อง</color>
 ForgeEffect_狻猊1,<#EFD09F>Vengeful</color>,<#EFD09F>อาฆาต</color>
@@ -436,7 +436,7 @@ ForgeEffect_狻猊2,<#EFD09F>Reverse Impact</color>,<#EFD09F>กระแทก�
 ForgeEffect_真武1,<#EFD09F>Concentrate</color>,<#EFD09F>เพ่งสมาธิ</color>
 ForgeEffect_真武2,<#EFD09F>Reverse Impact</color>,<#EFD09F>กระแทกกลับ</color>
 ForgeEffect_碧霞1,<#EFD09F>Elegant</color>,<#EFD09F>สง่างาม</color>
-ForgeEffect_碧霞2,<#EFD09F>Force Utilization</color>,<#EFD09F>ใช้พลังให้เป็นประโยชน์</color>
+ForgeEffect_碧霞2,<#EFD09F>Force Utilization</color>,<#EFD09F>ยืมพลัง</color>
 ForgeEffect_不动山1,<#EFD09F>Protection</color>,<#EFD09F>การปกป้อง</color>
 ForgeEffect_不动山2,<#EFD09F>Barrier</color>,<#EFD09F>เกราะคุ้มกัน</color>
 ForgeEffect_锦襕袈裟1,<#EFD09F>Reflect</color>,<#EFD09F>สะท้อน</color>
@@ -646,12 +646,12 @@ BuffPropPair_官差服1,The <#29F161>final damage received is reduced by {官差
 BuffPropPair_逍遥衣1,<#29F161>Gift effect is increased by {逍遥衣1多效果1%}</color>.,<#29F161>ประสิทธิภาพของของขวัญเพิ่มขึ้น {逍遥衣1多效果1%}</color>.
 BuffPropPair_精铁内甲1,The <#29F161>final damage received is reduced by {精铁内甲1多效果1%}</color> when attacked.,เมื่อถูกโจมตี <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {精铁内甲1多效果1%}</color>
 BuffPropPair_锁子铠1,The <#29F161>final damage received is reduced by {锁子铠1多效果1%}</color> when attacked.,เมื่อถูกโจมตี <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {锁子铠1多效果1%}</color>
-BuffPropPair_僧袍1,"When the protagonist's Benevolence is above 0, the <#29F161>damage received is reduced by {僧袍1多效果1%}</color>.","เมื่อ""คุณธรรม""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {僧袍1多效果1%}</color>"
+BuffPropPair_僧袍1,"When the protagonist's Benevolence is above 0, the <#29F161>damage received is reduced by {僧袍1多效果1%}</color>.","เมื่อ""ศีลธรรม""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {僧袍1多效果1%}</color>"
 BuffPropPair_道袍1,"Each time you are attacked, <#29F161>{道袍1多效果1%} of the damage is reflected back to the opponent</color>.",เมื่อถูกโจมตีแต่ละครั้ง<#29F161>สะท้อนความเสียหายจะกลับไปยังคู่ต่อสู้ {道袍1多效果1%}</color>
 BuffPropPair_夜行衣1,"When the protagonist's Propriety is below 0, the <#29F161>damage received is reduced by {夜行衣1多效果1%}</color>.","เมื่อ""มารยาท""ของตัวเอกน้อยกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {夜行衣1多效果1%}</color>."
 BuffPropPair_儒生服1,"When the protagonist's Propriety is above 0, the <#29F161>damage received is reduced by {儒生服1多效果1%}</color>.","เมื่อ""มารยาท""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {儒生服1多效果1%}</color>."
 BuffPropPair_赤翎服1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {赤翎服1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {窄袖衣1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
-BuffPropPair_飞鱼锦服1,"When the protagonist's Benevolence is above 0, the <#29F161>damage received is reduced by {飞鱼锦服1多效果1%}</color>.","เมื่อ""คุณธรรม""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {飞鱼锦服1多效果1%}</color>."
+BuffPropPair_飞鱼锦服1,"When the protagonist's Benevolence is above 0, the <#29F161>damage received is reduced by {飞鱼锦服1多效果1%}</color>.","เมื่อ""ศีลธรรม""ของตัวเอกมากกว่า 0, <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {飞鱼锦服1多效果1%}</color>."
 BuffPropPair_侠客装1,"When your FameLevel is higher than the enemy's, the <#29F161>damage received is reduced by {侠客装1多效果1%}</color>.","เมื่อระดับชื่อเสียงของคุณสูงกว่าศัตรู, <#29F161>ลดความเสียหายที่ได้รับลง {侠客装1多效果1%}</color>."
 BuffPropPair_蚕丝衣1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {蚕丝衣1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {蚕丝衣1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
 BuffPropPair_青红襦1,"When attacked by male enemies, the <#29F161>final damage received is reduced by {青红襦1多效果1%}</color> (only effective when equipped by females).",เมื่อถูกโจมตีจากศัตรูที่เป็นผู้ชาย <#29F161>ลดความเสียหายสุดท้ายที่ได้รับลง {青红襦1多效果1%}</color> (มีผลกับตัวละครหญิงที่สวมใส่เท่านั้น)
@@ -691,3 +691,15 @@ BuffPropPair_太虚袍3,"When your FameLevel is higher than the enemy's, the <#2
 BuffPropPair_广袖流仙裙1,"When attacked by male enemies, the <#29F161>final damage you receive is reduced by {广袖流仙裙1多效果1%}</color> (only effective for female Equip).",เมื่อถูกโจมตีโดยศัตรูที่เป็นผู้ชาย <#29F161>ความเสียหายสุดท้ายที่ได้รับจะลดลง {广袖流仙裙1多效果1%}</color> (มีผลกับตัวละครเพศหญิงเท่านั้น)
 BuffPropPair_广袖流仙裙2,"When attacked by male enemies, your <#29F161>Evasion increases by {广袖流仙裙2多效果1%}</color> (only effective for female Equip).",เมื่อถูกโจมตีโดยศัตรูที่เป็นผู้ชาย <#29F161>การหลบหลีกของคุณจะเพิ่มขึ้น {广袖流仙裙2多效果1%}</color> (มีผลกับตัวละครเพศหญิงเท่านั้น)
 BuffPropPair_广袖流仙裙3,"When attacked, you gain an additional <#29F161>{广袖流仙裙3多效果1} points of Spirit</color>.","เมื่อถูกโจมตี, จะได้รับ <#29F161>{广袖流仙裙3多效果1} แต้มพลังใจเพิ่มเติม</color>"
+ForgeEffect_亮银枪1,<#EFD09F>Chasing</color>,<#EFD09F>ไล่ตาม</color>
+ForgeEffect_龙胆1,<#EFD09F>Energy Abundance</color>,<#EFD09F>พลังงานล้นเหลือ</color>
+ForgeEffect_龙胆2,<#EFD09F>Critical Damage</color>,<#EFD09F>ความเสียหายคริติคอล</color>
+ForgeEffect_碧玉杖1,<#EFD09F>Penetrating</color>,<#EFD09F>ทะลุทะลวง</color>
+ForgeEffect_镇岳1,<#EFD09F>Blunt</color>,<#EFD09F>ทื่อด้าน</color>
+ForgeEffect_镇岳2,<#EFD09F>Berserk</color>,<#EFD09F>บ้าคลั่ง</color>
+BuffPropPair_亮银枪1,"When Attack triggers enemy's Parry, own Combo increases by <#29F161>{亮银枪1多效果1%}</color>.","เมื่อโจมตีหากศัตรูเกิดปัดป้อง, อัตราโจมตีต่อเนื่องของตนเองจะเพิ่มขึ้น <#29F161>{亮银枪1多效果1%}</color>."
+BuffPropPair_龙胆1,"When Attack is external, for every additional 50 points of Spirit, <#29F161>final Damage Increases{龙胆1多效果1%}</color>.",เมื่อโจมตีเป็นการโจมตีภายนอก ทุกๆ 50 แต้มของพลังใจเพิ่มเติม <#29F161>เพิ่มความเสียหายสุดท้าย{龙胆1多效果1%}</color>.
+BuffPropPair_龙胆2,"When Attack triggers Critical, it causes <#FE2929>{龙胆2多效果1} points of Internal Injury and {龙胆2多效果1} points of Sealed</color> to the enemy.",เมื่อโจมตีเกิดผลคริติคอล ทำให้ศัตรูได้รับ <#FE2929>บาดเจ็บภายใน {龙胆2多效果1} แต้ม และสกัดจุด {龙胆2多效果1} แต้ม</color>
+BuffPropPair_碧玉杖1,"When Attack, it reduces the enemy's <#29F161>{碧玉杖1多效果1%} basic Defense</color>.",เมื่อโจมตี <#29F161>ลดพลังป้องกันศัตรูลง {碧玉杖1多效果1%}</color>
+BuffPropPair_镇岳1,"When Attack triggers Critical, <#29F161>Critical Damage Increases{镇岳1多效果1%}</color>.",เมื่อการโจมตีทำให้เกิดคริติคอล <#29F161>ความเสียหายคริติคอลจะเพิ่มขึ้น{镇岳1多效果1%}</color>
+BuffPropPair_镇岳2,"When Attack triggers enemy's Parry, it reduces the enemy's <#FE2929>{镇岳2多效果1} points of Energy</color>.",เมื่อการโจมตีทำให้ศัตรูเกิดปัดป้อง <#FE2929>ลดค่าปราณเคลื่อนที่ของศัตรูลง {镇岳2多效果1} แต้ม</color> 

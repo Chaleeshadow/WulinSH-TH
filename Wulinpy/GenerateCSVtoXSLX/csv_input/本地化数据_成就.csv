@@ -1,55 +1,55 @@
-﻿﻿UIPropPoints,Initial available aptitude: <color=#ffffff>{0}</color>
+﻿﻿UIPropPoints,Initial available aptitude: <color=#ffffff>{0}</color>,ความถนัดที่มีอยู่เริ่มต้น: <color=#ffffff>{0}</color>
 UITraitPoints,Initial achievement points: <color=#ffffff>{0}</color>,แต้มความสำเร็จเริ่มต้น: <color=#ffffff>{0}</color>
-UIPropPointsTip,"Every time you Unlock<#00ff00>{0}</color> achievements, you can allocate an additional attribute point when creating a character. The maximum additional attribute points are <#00ff00>{1}</color>, and the current additional attribute points are <#00ff00>{2}</color>"
-UITraitPointsTip,"Start with <#00ff00>{0}</color> achievement points. Each time you Unlock an achievement, you can get additional achievement points. You can use these points to choose suitable traits when starting the game."
+UIPropPointsTip,"Every time you Unlock<#00ff00>{0}</color> achievements, you can allocate an additional attribute point when creating a character. The maximum additional attribute points are <#00ff00>{1}</color>, and the current additional attribute points are <#00ff00>{2}</color>",ทุกครั้งที่คุณปลดล็อคความสำเร็จ<#00ff00>{0}</color> คุณสามารถจัดสรรค่าคุณลักษณะเพิ่มเติมได้เมื่อสร้างตัวละคร คุณลักษณะเพิ่มเติมสูงสุดคือ <#00ff00>{1}</color> และคุณลักษณะเพิ่มเติมในปัจจุบันคือ <#00ff00>{2}</color>
+UITraitPointsTip,"Start with <#00ff00>{0}</color> achievement points. Each time you Unlock an achievement, you can get additional achievement points. You can use these points to choose suitable traits when starting the game.",เริ่มต้นด้วยคะแนนความสำเร็จ <#00ff00>{0}</color> แต่ละครั้งที่คุณปลดล็อคความสำเร็จ คุณจะได้รับคะแนนความสำเร็จเพิ่มเติม คุณสามารถใช้คะแนนเหล่านี้เพื่อเลือกลักษณะที่เหมาะสมเมื่อเริ่มเกม
 AchievementComplated,Unlock achievement <#ffff00>{0}</color>,ปลดล็อคความสำเร็จ <#ffff00>{0}</color>
 AchievementTraitPoints,You can get <#236c0f>{0}</color> achievement points,ได้รับแต้มความสำเร็จ <#236c0f>{0}</color> แต้ม
 AchievementPrizeTitle0,Initial items:,สิ่งของเริ่มต้น:
 AchievementPrizeTitle1,Initial traits:,คุณสมบัติเริ่มต้น:
-AchievementBottom,Tip 1: Achievement points from Unlock achievements can be used to choose suitable traits at the start of the game\nTip 2: Initial items from Unlock achievements can be chosen as starting items at the start of the game
+AchievementBottom,"Tip 1: Achievement points from Unlock achievements can be used to choose suitable traits at the start of the game\nTip 2: Initial items from Unlock achievements can be chosen as starting items at the start of the game","เคล็ดลับที่ 1: คะแนนความสำเร็จจากการปลดล็อคความสำเร็จสามารถใช้เพื่อเลือกคุณสมบัติที่เหมาะสมเมื่อเริ่มเกม\nเคล็ดลับที่ 2: สามารถเลือกไอเท็มเริ่มต้นจากการปลดล็อคความสำเร็จเป็นไอเท็มเริ่มต้นเมื่อเริ่มเกม"
 AchievementLockSecretName,？？？？？？,？？？？？？
 AchievementLockSecretTip,？？？？？？？？？？？,？？？？？？？？？？？
 AchievementName_1,Undefeated,ไร้พ่าย
-AchievementName_2,Replenishing qi and blood
+AchievementName_2,Replenishing qi and blood,ฟื้นปราณและเลือด
 AchievementName_3,Ultra Speed,ความเร็วสูงสุด
 AchievementName_4,Effective Learner,เรียนรู้อย่างมุ่งมั่น
-AchievementName_5,Survival Instinct,สัญชาตญาณการอยู่รอด
+AchievementName_5,Survival instinct,สัญชาตญาณการอยู่รอด
 AchievementName_6,Throwing Master,ปรมาจารย์อาวุธลับ
-AchievementName_7,Poisonous Body
+AchievementName_7,Poisonous Body,กายพิษ
 AchievementName_8,Fast Runner,นักวิ่งลมกรด
 AchievementName_9,Poison Expert,ผู้เชี่ยวชาญพิษ
 AchievementName_10,Medical Expert,เชี่ยวชาญการแพทย์
 AchievementName_11,Medical Master,ปรมาจารย์แพทย์
-AchievementName_12,Pretentious
+AchievementName_12,Pretentious,อวดรู้
 AchievementName_13,Power of Money,พลังเงินตรา
 AchievementName_14,Weapon Expert,เชี่ยวชาญอาวุธ
 AchievementName_15,Burning Spirit,จิตวิญญาณลุกโชน
-AchievementName_16,Sleight of Hand
+AchievementName_16,Sleight of Hand,มืออันว่องไว
 AchievementName_17,Discerning Eyes,สายตาที่เฉียบคม
-AchievementName_18,Authentic Taoist
+AchievementName_18,Authentic Taoist,ลัทธิเต๋าแท้
 AchievementName_19,Easy as Pie,ง่ายเหมือนปอกกล้วย
 AchievementName_20,Dexterous Hands,มือที่ชำนาญ
-AchievementName_21,Eye for Details
-AchievementName_22,Survival Expert
-AchievementName_23,Scoundrel's Way
+AchievementName_21,Eye for Details,ใส่ใจรายละเอียด
+AchievementName_22,Survival Expert,เชี่ยวชาญการเอาตัวรอด
+AchievementName_23,Scoundrel's Way,วิถีวายร้าย
 AchievementName_24,Weapon Master,ปรมาจารย์อาวุธ
 AchievementName_25,Cowardice,ความขลาดเขลา
 AchievementName_26,The Saint,วิญญูชน
 AchievementName_27,The Devil,มารร้าย
-AchievementName_28,Village Hermits
-AchievementName_29,Chicken Hero
-AchievementName_30,Dead by poison,ความตายจากพิษ
+AchievementName_28,Village Hermits,ปราชญ์ชาวบ้าน
+AchievementName_29,Chicken Hero,วีรบุรุษไก่อ่อน
+AchievementName_30,Dead by poison,ตายด้วยพิษ
 AchievementName_31,Jianghu Master,ผู้นำยุทธภพ
-AchievementName_32,Jianghu Conqueror,ผู้พิชิตยุทธภพ
+AchievementName_32,Jianghu Conqueror,จอมมารยุทธภพ
 AchievementName_33,Master of Fist,ปรมาจารย์หมัดมวย
 AchievementName_34,Master of Sword,ปรมาจารย์กระบี่
 AchievementName_35,Master of Blade,ปรมาจารย์ดาบ
 AchievementName_36,Master of Long Weapon,ปรมาจารย์ด้านอาวุธยาว
 AchievementName_37,Master of Short Weapon,ปรมาจารย์ด้านอาวุธสั้น
 AchievementName_38,Master of Music,ปรมาจารย์ดนตรี
-AchievementName_39,Feigning Weakness
+AchievementName_39,Feigning Weakness,แสร้งทำเป็นอ่อนแอ
 AchievementName_40,Destroy Blue Wind Camp,ทลายค่ายวายุคราม
-AchievementName_41,Destroy Nest of Swallow,ทลายรังนกนางแอ่น
+AchievementName_41,Destroy Swallow Nest,ทลายรังนกนางแอ่น
 AchievementName_42,Destroy Crime Investigation Bureau,ทลายสำนักสืบสวน
 AchievementName_43,Destroy Langya Sword Pavillion,ทลายศาลากระบี่หลางหยา
 AchievementName_44,Destroy Taoist Sect,ทลายสำนักเต๋า
@@ -101,33 +101,33 @@ AchievementName_89,Prominent,โดดเด่น
 AchievementName_90,Revered,น่ายกย่อง
 AchievementName_91,Historical,ประวัติศาตร์
 AchievementName_92,Legendary,ตำนาน
-AchievementName_93,Blessing of Love
-AchievementName_94,The Romanticist
+AchievementName_93,Blessing of Love,พรแห่งรัก
+AchievementName_94,The Romanticist,คนโรแมนติก
 AchievementName_95,Gambler,นักพนัน
 AchievementName_96,God of Gambling,เทพแห่งการเดิมพัน
-AchievementName_97,Peak of Jianghu,อันดับหนึ่งของยุทธภพ
+AchievementName_97,Peak of Jianghu,หนึ่งในใต้หล้า
 AchievementName_98,Enlightened Monk,พระผู้ตรัสรู้
-AchievementName_99,Cake of God
-AchievementName_100,Direct Assault
-AchievementName_101,Imperial Noble
-AchievementName_102,Top Achiever,ความสำเร็จสูงสุด
+AchievementName_99,Cake of God,เค้กของพระเจ้า
+AchievementName_100,Direct Assault,โจมตีโดยตรง
+AchievementName_101,Imperial Noble,ขุนนางแต่งตั้ง
+AchievementName_102,Top Achiever,ผู้ประสบความสำเร็จสูงสุด
 AchievementName_103,Destroy Shifa Temple,ทำลายอารามฉีฟา
 AchievementName_104,Join a Sect,เข้าร่วมสำนัก
 AchievementName_105,Foreign Duke,อ๋องต่างแดน
-AchievementName_106,Destroy Yan Empire,ทำลายอาณาจักรหยาน
+AchievementName_106,Destroy Yan Empire,ทำลายแคว้นเยี่ยน
 AchievementName_107,Joining Sect,เข้าร่วมสำนัก
 AchievementName_108,Destroy Confucius Temple,ทำลายวัดขงจื้อ
-AchievementName_109,Confucius's Glory
-AchievementName_110,Heart of Buddha
-AchievementName_111,Sage of Confucianism
-AchievementName_112,Challenging Fate
-AchievementName_113,Spirit of Steel
-AchievementName_114,Hellish Journey
+AchievementName_109,Confucius's Glory,ความรุ่งโรจน์ของขงจื๊อ
+AchievementName_110,Heart of Buddha,หัวใจของพระพุทธ
+AchievementName_111,Sage of Confucianism,ปราชญ์แห่งลัทธิขงจื๊อ
+AchievementName_112,Challenging Fate,ท้าทายโชคชะตา
+AchievementName_113,Spirit of Steel,จิตวิญญาณเหล็กกล้า
+AchievementName_114,Hellish Journey,การเดินทางที่ชั่วร้าย
 AchievementName_115,Best of the Best,ที่สุดของที่สุด
-AchievementName_116,Nine Factions Sect Master
-AchievementName_117,Dominating the Martial World
+AchievementName_116,Nine Factions Sect Master,เจ้าสำนักนิกายเก้าฝ่าย
+AchievementName_117,Dominating the Martial World,ยึดครองยุทธภพ
 AchievementName_118,Guardian of the Homeland,ผู้พิทักษ์บ้านเกิด
-AchievementName_119,Sole Possessor of Supremacy
+AchievementName_119,Sole Possessor of Supremacy,ผู้ครอบครองอำนาจสูงสุดแต่เพียงผู้เดียว
 AchievementName_120,Join a Faction,เข้าร่วมฝ่าย
 AchievementName_121,Join a Faction,เข้าร่วมฝ่าย
 AchievementTip_1,Main Character's Strength stat reaches 15.,"""พละกำลัง""ของตัวละครหลักเพิ่มถึง 15"
@@ -141,39 +141,39 @@ AchievementTip_8,Main Character's Qinggong stat reaches 200.,"""ตัวเบ�
 AchievementTip_9,Main Character's Toxicology stat reaches 100.,"""ศาสตร์พิษ"" ของตัวละครหลักเพิ่มถึง 100"
 AchievementTip_10,Main Character's Medical stat reaches 100.,"""วิชาแพทย์"" ของตัวละครหลักเพิ่มถึง 100"
 AchievementTip_11,Main Character's Medical stat reaches 200.,"""วิชาแพทย์"" ของตัวละครหลักเพิ่มถึง 200"
-AchievementTip_12,Achieve 100 relationship with 20 NPCs.
+AchievementTip_12,Achieve 100 relationship with 20 NPCs.,ความสัมพันธ์กับ NPC ถึง 100 ทั้งหมด 20 คน
 AchievementTip_13,Gain a total of 100 Guans.,ได้รับเงินทั้งหมด 100 ตำลึง
-AchievementTip_14,Complete all Langya Sword Pavillion events.
-AchievementTip_15,Complete all Blue Wind Camp events.
-AchievementTip_16,Complete all Nest of Swallow events.
-AchievementTip_17,Complete all Crime Investigation Bureau events.
-AchievementTip_18,Complete all Taoist Sect events.
-AchievementTip_19,Reach max level of any Resource skill.
-AchievementTip_20,Reach max level of any Craft skill.
-AchievementTip_21,Reach max level of any Appraise skill.
-AchievementTip_22,Reach max level of any Survival skill.
-AchievementTip_23,Reach max level of any Rogue skill.
-AchievementTip_24,Any weapon stat reaches 200.
-AchievementTip_25,Courage stat reaches -100.
-AchievementTip_26,All six personality stats reaches 100.
-AchievementTip_27,All six personality stats reaches -100.
-AchievementTip_28,"Recruit all Nameless Village characters (Hunter, Informant, Blacksmith, Doctor, Innkeeper).","ชวนตัวละครจากหมู่บ้านไร้นามทั้งหมดเข้าทีม (นักล่า, คนส่งข่าว, ช่างตีเหล็ก, หมอ, เจ้าของโรงเตี๊ยม)"
-AchievementTip_29,"Trigger ""Chicken Hero"" ending."
-AchievementTip_30,"Trigger ""Death by Poison"" ending."
-AchievementTip_31,Achieve Jianghu Master ending.
-AchievementTip_32,Achieve Jianghu Conqueror ending.
+AchievementTip_14,Complete all Langya Sword Pavillion events.,สำเร็จเหตุการณ์ทั้งหมดของศาลากระบี่หลางหยา
+AchievementTip_15,Complete all Blue Wind Camp events.,สำเร็จเหตุการณ์ทั้งหมดของค่ายวายุคราม
+AchievementTip_16,Complete all Swallow Nest events.,สำเร็จเหตุการณ์ทั้งหมดของรังนกนางแอ่น
+AchievementTip_17,Complete all Crime Investigation Bureau events.,สำเร็จเหตุการณ์ทั้งหมดของสำนักสืบสวน
+AchievementTip_18,Complete all Taoist Sect events.,สำเร็จเหตุการณ์ทั้งหมดของสำนักเต๋า
+AchievementTip_19,Reach max level of any Resource skill.,เข้าถึงระดับสูงสุดของทักษะทรัพยากรใด ๆ
+AchievementTip_20,Reach max level of any Craft skill.,เข้าถึงระดับสูงสุดของทักษะสร้างใด ๆ
+AchievementTip_21,Reach max level of any Appraise skill.,เข้าถึงระดับสูงสุดของทักษะประเมินใด ๆ
+AchievementTip_22,Reach max level of any Survival skill.,เข้าถึงระดับสูงสุดของทักษะเอาตัวรอดใด ๆ
+AchievementTip_23,Reach max level of any Rogue skill.,เข้าถึงระดับสูงสุดของทักษะกลโกงใด ๆ
+AchievementTip_24,Any weapon stat reaches 200.,สถานะอาวุธใดๆ ถึง 200
+AchievementTip_25,Courage stat reaches -100.,ค่าความกล้าหาญถึง -100
+AchievementTip_26,All six personality stats reaches 100.,ค่าบุคลิกภาพทั้งหกถึง 100
+AchievementTip_27,All six personality stats reaches -100.,ค่าบุคลิกภาพทั้งหกถึง -100
+AchievementTip_28,"Recruit all Nameless Village characters (Hunter, Informant, Blacksmith, Doctor, Innkeeper).","ชวนตัวละครจากหมู่บ้านไร้นามทั้งหมดเข้าทีม (นายพราน, คนส่งข่าว, ช่างตีเหล็ก, หมอ, เจ้าของโรงเตี๊ยม)"
+AchievementTip_29,"Trigger ""Chicken Hero"" ending.","เข้าสู่ฉากจบ ""วีรบุรุษไก่อ่อน"""
+AchievementTip_30,"Trigger ""Death by Poison"" ending.","เข้าสู่ฉากจบ ""ตายด้วยพิษ"""
+AchievementTip_31,Achieve Jianghu Master ending.,"บรรลุฉากจบ ""ผู้นำยุทธภพ"""
+AchievementTip_32,Achieve Jianghu Conqueror ending.,"บรรลุฉากจบ ""จอมมารยุทธภพ"""
 AchievementTip_33,Main Character's Fist stat reaches 200.,"""หมัด"" ของตัวละครหลักเพิ่มถึง 200"
 AchievementTip_34,Main Character's Sword stat reaches 200.,"""กระบี่"" ของตัวละครหลักเพิ่มถึง 200"
 AchievementTip_35,Main Character's Blade stat reaches 200.,"""ดาบ"" ของตัวละครหลักเพิ่มถึง 200"
 AchievementTip_36,Main Character's Long stat reaches 200.,"""อาวุธยาว"" ของตัวละครหลักเพิ่มถึง 200"
 AchievementTip_37,Main Character's Short stat reaches 200.,"""อาวุธสั้น"" ของตัวละครหลักเพิ่มถึง 200"
 AchievementTip_38,Main Character's Musical stat reaches 200.,"""ดนตรี"" ของตัวละครหลักเพิ่มถึง 200"
-AchievementTip_39,"At the start of the game, defeat Nest of Swallow's reinforcement force."
-AchievementTip_40,Destroy Blue Wind Camp in an official way.
-AchievementTip_41,Destroy Nest of Swallow in an official way.
-AchievementTip_42,Destroy Crime Investigation Bureau in an official way.
-AchievementTip_43,Destroy Langya Sword Pavillion in an official way.
-AchievementTip_44,Destroy Taoist Sect in an official way.
+AchievementTip_39,"At the start of the game, defeat Swallow Nest's reinforcement force.",เมื่อเริ่มเกม เอาชนะกำลังเสริมของรังนกนางแอ่น
+AchievementTip_40,Destroy Blue Wind Camp in an official way.,ทำลายค่ายวายุครามอย่างเป็นทางการ
+AchievementTip_41,Destroy Swallow Nest in an official way.,ทำลายรังนกนางแอ่นอย่างเป็นทางการ
+AchievementTip_42,Destroy Crime Investigation Bureau in an official way.,ทำลายสำนักสืบสวนอย่างเป็นทางการ
+AchievementTip_43,Destroy Langya Sword Pavillion in an official way.,ทำลายศาลากระบี่หลางหยาอย่างเป็นทางการ
+AchievementTip_44,Destroy Taoist Sect in an official way.,ทำลายสำนักเต๋าอย่างเป็นทางการ
 AchievementTip_45,Survive 3 days in Easy Mode.,มีชีวิตรอด 3 วันในโหมดง่าย
 AchievementTip_46,Survive 20 days in Easy Mode.,มีชีวิตรอด 20 วันในโหมดง่าย
 AchievementTip_47,Survive 40 days in Easy Mode.,มีชีวิตรอด 40 วันในโหมดง่าย
@@ -196,7 +196,7 @@ AchievementTip_63,Survive 60 days in Nightmare Mode.,มีชีวิตรอ
 AchievementTip_64,Survive 100 days in Nightmare Mode.,มีชีวิตรอด 100 วันในโหมดฝันร้าย
 AchievementTip_65,Gain a total of 1 Coin.,ได้รับเงินทั้งหมด 1 อีแปะ
 AchievementTip_66,Join the Blue Wind Camp.,เข้าร่วมค่ายวายุคราม
-AchievementTip_67,Join the Nest of Swallow.,เข้าร่วมรังนกนางแอ่น
+AchievementTip_67,Join the Swallow Nest.,เข้าร่วมรังนกนางแอ่น
 AchievementTip_68,Join the Crime Investigation Bureau.,เข้าร่วมสำนักสืบสวน
 AchievementTip_69,Join the Langya Sword Pavillion.,เข้าร่วมศาลากระบี่หลางหยา
 AchievementTip_70,Join the Taoist Sect.,เข้าร่วมสำนักเต๋า
@@ -222,48 +222,116 @@ AchievementTip_89,Fame reaches Level 7,ชื่อเสียงถึงร�
 AchievementTip_90,Fame reaches Level 8,ชื่อเสียงถึงระดับ 8
 AchievementTip_91,Fame reaches Level 9,ชื่อเสียงถึงระดับ 9
 AchievementTip_92,Fame reaches Level 10,ชื่อเสียงถึงระดับ 10
-AchievementTip_93,First time forming a good relationship with a female partner.
-AchievementTip_94,Formed a good relationship with 7 female partners.
-AchievementTip_95,Win all money from the dealer for the first time.
-AchievementTip_96,Win all money from the dealer 20 times in total.
-AchievementTip_97,"Trigger ""Peak of Jianghu"" ending."
-AchievementTip_98,"Trigger ""Enlightened Monk"" illustration."
-AchievementTip_99,"Win the ""Dragon Cooking Contest""."
-AchievementTip_100,Storm into Yan Army Camp and annihilate all enemies.
-AchievementTip_101,"Rescue the Emperor from Yan Army Camp, then take his offer."
-AchievementTip_102,"Win the titles Provincial Top Examiner, Country Top Examiner and Top Achiever.",คว้าตำแหน่งสูงสุดของการสอบภูมิภาค สูงสุดของการสอบประเทศ และผู้ประสบความสำเร็จสูงสุด
-AchievementTip_103,Destroy Shifa Temple in an official way.
+AchievementTip_93,First time forming a good relationship with a female partner.,ผูกสัมพันธ์กับคู่รักผู้หญิงครั้งแรก
+AchievementTip_94,Formed a good relationship with 7 female partners.,ผูกสัมพันธ์กับคู่รักหญิงทั้ง 7 คน
+AchievementTip_95,Win all money from the dealer for the first time.,ชนะเงินทั้งหมดจากเจ้ามือบ่อนเป็นครั้งแรก
+AchievementTip_96,Win all money from the dealer 20 times in total.,ชนะเงินทั้งหมดจากเจ้ามือบ่อนร่วม 20 ครั้ง
+AchievementTip_97,"Trigger ""Peak of Jianghu"" ending.","เข้าสู่ฉากจบ ""หนึ่งในใต้หล้า"""
+AchievementTip_98,"Trigger ""Enlightened Monk"" illustration.","เปิดใช้งานภาพประกอบ ""พระผู้ตรัสรู้"""
+AchievementTip_99,"Win the ""Dragon Cooking Contest"".","ชนะการ ""ประกวดเทศการทำอาหารมังกร"""
+AchievementTip_100,Storm into Yan Army Camp and annihilate all enemies.,บุกเข้าไปในค่ายกองทัพเยี่ยน และกวาดล้างศัตรูทั้งหมด
+AchievementTip_101,"After Duke Kang ascends the throne, receive his rewards.",หลังจากอ๋องคังขึ้นครองบัลลังก์ ไปรับรางวัลจากเขา
+AchievementTip_102,"Win the titles Provincial Top Examiner, Country Top Examiner and Top Achiever.",คว้าตำแหน่งสูงสุดของการสอบระดับภูมิภาค สูงสุดของการสอบระดับประเทศ และผู้ประสบความสำเร็จสูงสุด
+AchievementTip_103,Destroy Shifa Temple in an official way.,กวาดล้างอารามฉีฟาแบบเป็นทางการ
 AchievementTip_104,Join the Shifa Temple,เข้าร่วมอารามฉีฟา
-AchievementTip_105,"Trigger ""Foreign Duke"" ending."
-AchievementTip_106,Destroy Yan Army.,ทำลายค่ายกองทัพหยาน
+AchievementTip_105,"Trigger ""Foreign Duke"" ending.","เข้าสู่ฉากจบ ""อ๋องต่างแดน"""
+AchievementTip_106,Destroy Yan Army.,กวาดล้างค่ายกองทัพเยี่ยน
 AchievementTip_107,Join the Confucius Temple.,เข้าร่วมวัดขงจื้อ
-AchievementTip_108,Destroy Confucius Temple in an official way.
-AchievementTip_109,Complete all Confucius Temple events.
-AchievementTip_110,Complete all Shifa Temple events.
-AchievementTip_111,"Trigger ""Confucius Saint"" illustration."
-AchievementTip_112,Achieve True Ending in Freedom Mode 300.
-AchievementTip_113,Achieve True Ending in Freedom Mode 600.
-AchievementTip_114,Achieve True Ending in Freedom Mode 900.
-AchievementTip_115,Achieve True Ending in Freedom Mode 1200.
-AchievementTip_116,"Trigger the ""Nine Factions Sect Master"" ending."
-AchievementTip_117,"After becoming a disciple in Nameless Village, you can become a Jianghu Master or Jianghu Conqueror.",หลังจากเป็นศิษย์ในหมู่บ้านไร้นามแล้ว เจ้าสามารถเป็น ผู้นำยุทธภพ หรือ ผู้พิชิตยุทธภพ ได้
+AchievementTip_108,Destroy Confucius Temple in an official way.,กวาดล้างวัดขงจื้อแบบเป็นทางการ
+AchievementTip_109,Complete all Confucius Temple events.,สำเร็จเหตุการณ์ทั้งหมดของวัดขงจื้อ
+AchievementTip_110,Complete all Shifa Temple events.,สำเร็จเหตุการณ์ทั้งหมดของอารามฉีฟา
+AchievementTip_111,"Trigger ""Confucius Saint"" illustration.","เปิดใช้งานภาพประกอบ ""ปราชญ์แห่งขงจื๊อ"""
+AchievementTip_112,Achieve True Ending in Freedom Mode 300.,บรรลุฉากจบที่แท้จริงในโหมด Freedom 300.
+AchievementTip_113,Achieve True Ending in Freedom Mode 600.,บรรลุฉากจบที่แท้จริงในโหมด Freedom 600.
+AchievementTip_114,Achieve True Ending in Freedom Mode 900.,บรรลุฉากจบที่แท้จริงในโหมด Freedom 900.
+AchievementTip_115,Achieve True Ending in Freedom Mode 1200.,บรรลุฉากจบที่แท้จริงในโหมด Freedom 1200.
+AchievementTip_116,"Trigger the ""Nine Factions Sect Master"" ending.","เข้าสู่ฉากจบ ""เจ้าสำนักนิกายเก้าฝ่าย"""
+AchievementTip_117,"After becoming a disciple in Nameless Village, you can become a Jianghu Master or Jianghu Conqueror.",หลังจากเป็นศิษย์ในหมู่บ้านไร้นามแล้ว เจ้าสามารถเป็น ผู้นำยุทธภพ หรือ จอมมารยุทธภพ ได้
 AchievementTip_118,"After becoming a disciple in Nameless Village, you can trigger the ""Loyalty"" ending.","หลังจากเป็นลูกศิษย์ในหมู่บ้านไร้นามแล้ว เจ้าสามารถพบฉากจบของ ""ผู้ภักดี"" ได้"
 AchievementTip_119,"After becoming a disciple in Nameless Village, you can trigger the ""Number One in the World"" ending.","หลังจากเป็นลูกศิษย์ในหมู่บ้านไร้นามแล้ว เจ้าสามารถพบฉากจบของ ""หนึ่งเดียวในใต้หลา"" ได้"
 AchievementTip_120,Join the Ye Family Battalion.,เข้าร่วมกองพันตระกูลเย่
-AchievementTip_121,Join the Yan Yun Iron Army.,เข้าร่วมกองทัพเหล็กหยานหยุน
+AchievementTip_121,Join the Yan Yun Iron Army.,เข้าร่วมกองทัพเหล็กเยี่ยนหยุน
 AchievementName_122,Big Belly,อิ่มจนพุงกาง
-AchievementName_123,Welcome All
+AchievementName_123,Welcome All,ยินดีต้อนรับทุกท่าน
 AchievementName_124,Never Drunk,คอแข็ง
-AchievementName_125,Reincarnated Mengchang
-AchievementName_126,Beauties Like Clouds
-AchievementName_127,Richest in the World
+AchievementName_125,Reincarnated Mengchang,เหมิงชางกลับชาติมาเกิด
+AchievementName_126,Beauties Like Clouds,งดงามดังเมฆา
+AchievementName_127,Richest in the World,รวยที่สุดในโลก
 AchievementName_128,Special Guest,แขกคนพิเศษ
-AchievementName_129,Stargazing and Enlightenment
-AchievementTip_122,Eat 100 or more high-quality food.
-AchievementTip_123,Eat 100 or more high-quality toxins.
-AchievementTip_124,Drink 100 or more high-quality wines.
+AchievementName_129,Stargazing and Enlightenment,ดูดาวและตื่นรู้
+AchievementTip_122,Consume 20 Epic or above Food.,กินอาหารคุณภาพสูงระดับมหากาพย์หรือสูงกว่า 20 ครั้ง
+AchievementTip_123,Consume 20 Epic or above Toxic.,กินสิ่งมีพิษคุณภาพสูงระดับมหากาพย์หรือสูงกว่า 20 ครั้ง
+AchievementTip_124,Drink 20 Epic or above alcohol.,ดื่มสุราคุณภาพสูงระดับมหากาพย์หรือสูงกว่า 20 ครั้ง
 AchievementTip_125,100 NPC relations reach 100.,ค่าความสัมพันธ์กับ NPC จำนวน 100 คน ถึงระดับ 100 
-AchievementTip_126,Form a good relationship with 15 female partners.
-AchievementTip_127,Have 1000 coins in hand.
-AchievementTip_128,First time entering the easter egg scene in the game.
-AchievementTip_129,"Activate the ""Stargazing and Enlightenment"" illustration."
+AchievementTip_126,Form a good relationship with 15 female partners.,ผูกสัมพันธ์อันดีกับคู่รักหญิงสาว 15 คน
+AchievementTip_127,Have 1000 coins in hand.,"มี 1,000 ตำลึงอยู่ในมือ"
+AchievementTip_128,First time entering the easter egg scene in the game.,ครั้งแรกที่เข้าสู่ฉาก easter egg ในเกม
+AchievementTip_129,"Activate the ""Stargazing and Enlightenment"" illustration.","เปิดใช้งานภาพประกอบ ""ดูดาวและตื่นรู้"""
+AchievementName_130,Bond with Hua Siniang,ผูกสัมพันธ์กับฮวาซื่อเหนียง
+AchievementName_131,Bond with Luo Qianxue,ผูกสัมพันธ์กับลั่วเฉียนเสวี่ย
+AchievementName_132,Bond with Hua Qingqing,ผูกสัมพันธ์กับฮวาชิงชิง
+AchievementName_133,Bond with Ye Yinping,ผูกสัมพันธ์กับเย่หยินผิง
+AchievementName_134,Bond with Jiang Ziyan,ผูกสัมพันธ์กับเจียงจื่อเยียน
+AchievementName_135,Bond with Princess Fuqing,ผูกสัมพันธ์กับองค์หญิงฟู่ชิง
+AchievementName_136,Bond with Man Tuoluo,ผูกสัมพันธ์กับม่านถัวหลัว
+AchievementName_137,Bond with Qu Wangyou,ผูกสัมพันธ์กับฉู่หวังโหย่ว
+AchievementName_138,Bond with Han Hongyu,ผูกสัมพันธ์กับหานหงหยู
+AchievementName_139,Bond with Gu Qingcheng,ผูกสัมพันธ์กับกู่ชิงเฉิง
+AchievementName_140,Bond with Ya Qin,ผูกสัมพันธ์กับหยาฉิน
+AchievementName_141,Bond with Miao Caidie,ผูกสัมพันธ์กับเมี้ยวไฉตี้
+AchievementName_142,Bond with Ling Mengdie,ผูกสัมพันธ์กับหลิงเมิ่งเตี๋ย
+AchievementName_143,Bond with Yan Rurui,ผูกสัมพันธ์กับเหยียนรุรุย
+AchievementName_144,Bond with Yi Zhihua,ผูกสัมพันธ์กับยี่จื่อฮัว
+AchievementName_145,Bond with Yu Wei'er,ผูกสัมพันธ์กับหยูเว่ยเอ๋อ
+AchievementName_146,Bond with Wanyan Zhaoning,ผูกสัมพันธ์กับหวันเหยียนจ้าวหนิง
+AchievementName_147,Bond with Fu Yaoqin,ผูกสัมพันธ์กับฟู่เหยาฉิน
+AchievementTip_130,Form a bond with Hua Siniang.,สร้างความสนิทสนมและผูกสัมพันธ์กับฮวาซื่อเหนียง
+AchievementTip_131,Form a bond with Luo Qianxue.,สร้างความสนิทสนมและผูกสัมพันธ์กับลั่วเฉียนเสวี่ย
+AchievementTip_132,Form a bond with Hua Qingqing.,สร้างความสนิทสนมและผูกสัมพันธ์กับฮวาชิงชิง
+AchievementTip_133,Form a bond with Ye Yinping.,สร้างความสนิทสนมและผูกสัมพันธ์กับเย่หยินผิง
+AchievementTip_134,Form a bond with Jiang Ziyan.,สร้างความสนิทสนมและผูกสัมพันธ์กับเจียงจื่อเยียน
+AchievementTip_135,Form a bond with Princess Fuqing.,สร้างความสนิทสนมและผูกสัมพันธ์กับองค์หญิงฟู่ชิง
+AchievementTip_136,Form a bond with Man Tuoluo.,สร้างความสนิทสนมและผูกสัมพันธ์กับม่านถัวหลัว
+AchievementTip_137,Form a bond with Qu Wangyou.,สร้างความสนิทสนมและผูกสัมพันธ์กับฉู่หวังโหย่ว
+AchievementTip_138,Form a bond with Han Hongyu.,สร้างความสนิทสนมและผูกสัมพันธ์กับหานหงหยู
+AchievementTip_139,Form a bond with Gu Qingcheng.,สร้างความสนิทสนมและผูกสัมพันธ์กับกู่ชิงเฉิง
+AchievementTip_140,Form a bond with Ya Qin.,สร้างความสนิทสนมและผูกสัมพันธ์กับหยาฉิน
+AchievementTip_141,Form a bond with Miao Caidie.,สร้างความสนิทสนมและผูกสัมพันธ์กับเมี้ยวไฉตี้
+AchievementTip_142,Form a bond with Ling Mengdie.,สร้างความสนิทสนมและผูกสัมพันธ์กับหลิงเมิ่งเตี๋ย
+AchievementTip_143,Form a bond with Yan Rurui.,สร้างความสนิทสนมและผูกสัมพันธ์กับเหยียนรุรุย
+AchievementTip_144,Form a bond with Yi Zhihua.,สร้างความสนิทสนมและผูกสัมพันธ์กับยี่จื่อฮัว
+AchievementTip_145,Form a bond with Yu Wei'er.,สร้างความสนิทสนมและผูกสัมพันธ์กับหยูเว่ยเอ๋อ
+AchievementTip_146,Form a bond with Wanyan Zhaoning.,สร้างความสนิทสนมและผูกสัมพันธ์กับหวันเหยียนจ้าวหนิง
+AchievementTip_147,Form a bond with Fu Yaoqin.,สร้างความสนิทสนมและผูกสัมพันธ์กับฟู่เหยาฉิน
+AchievementName_148,Bond with Tang Wan Er,ผูกสัมพันธ์กับถังหว่านเอ๋อ
+AchievementName_149,Eliminate Jiuli Tribe,กวาดล้างเผ่าจิ่วลี่
+AchievementName_150,Eliminate Melody House,กวาดล้างตำหนักบทเพลง
+AchievementName_151,Eliminate Beast Manor,กวาดล้างหมู่ตึกหมื่นอสูร
+AchievementName_152,Eliminate Jiujiang Fotress.,กวาดล้างค่ายน้ำจิ่วเจียง
+AchievementName_153,Joining Sect,เข้าร่วมสำนัก
+AchievementName_154,Unbeatable,ไร้ผู้ต้าน
+AchievementName_155,Sky Breaker Tower Challenge,ท้าทายหอสูงเทียมฟ้า
+AchievementName_156,Sky Breaker Tower Challenge,ท้าทายหอสูงเทียมฟ้า
+AchievementName_157,Sky Breaker Tower Challenge,ท้าทายหอสูงเทียมฟ้า
+AchievementName_158,Sky Breaker Tower Challenge,ท้าทายหอสูงเทียมฟ้า
+AchievementName_159,Eliminate Cold Skin Gang,กวาดล้างพรรคมังสาเหมันต์
+AchievementName_160,Eliminate Holy Fire Sect,กวาดล้างนิกายไฟศักดิ์สิทธิ์
+AchievementName_161,Befriend Feng Xuanji,ทำความรู้จักกับเฟิงเสวียนจี
+AchievementName_162,Befriend Haitang Qiu,ทำความรู้จักกับไห่ถังฉิว
+AchievementName_163,Befriend Ding Haitang,ทำความรู้จักกับติงไห่ถัง
+AchievementTip_148,Form a bond with Tang Wan Er.,สร้างความสนิทสนมและผูกสัมพันธ์ถังหว่านเอ๋อ
+AchievementTip_149,Eliminate Jiuli Tribe in a fair and square manner.,กวาดล้างเผ่าจิ่วลี่อย่างเปิดเผย
+AchievementTip_150,Eliminate Melody House in a fair and square manner.,กวาดล้างตำหนักบทเพลงอย่างเปิดเผย
+AchievementTip_151,Eliminate Beast Manor in a fair and square manner.,กวาดล้างหมู่ตึกหมื่นอสูรอย่างเปิดเผย
+AchievementTip_152,Eliminate Jiujiang Fotress in a fair and square manner.,กวาดล้างค่ายน้ำจิ่วเจียงอย่างเปิดเผย
+AchievementTip_153,Join Jiujiang Fotress.,เข้าร่วมกับค่ายน้ำจิ่วเจียง
+AchievementTip_154,Achieve the true ending with a difficulty factor of 2000 in free mode.,บรรลุฉากจบที่แท้จริงในโหมด Freedom ด้วยปัจจัยความยาก 2000
+AchievementTip_155,Reach a high score of 200 in the Sky Breaker Tower.,บรรลุคะแนนสูงสุด 200 ในหอสูงเทียมฟ้า
+AchievementTip_156,Reach a high score of 500 in the Sky Breaker Tower.,บรรลุคะแนนสูงสุด 500 ในหอสูงเทียมฟ้า
+AchievementTip_157,Reach a high score of 800 in the Sky Breaker Tower.,บรรลุคะแนนสูงสุด 800 ในหอสูงเทียมฟ้า
+AchievementTip_158,Reach a high score of 1200 in the Sky Breaker Tower.,บรรลุคะแนนสูงสุด 1200 ในหอสูงเทียมฟ้า
+AchievementTip_159,Eliminate the Cold Skin Gang in a fair and square manner.,กวาดล้างพรรคมังสาเหมันต์อย่างเปิดเผย
+AchievementTip_160,Eradicate the Holy Fire Sect in a righteous and open manner.,กวาดล้างนิกายไฟศักดิ์สิทธิ์ ด้วยความซื่อสัตย์และยุติธรรม
+AchievementTip_161,Befriend Feng Xuanji.,เป็นสหายกับเฟิงเสวียนจี
+AchievementTip_162,Befriend Haitang Qiu.,เป็นสหายกับไห่ถังฉิว
+AchievementTip_163,Befriend Ding Haitang.,เป็นสหายกับติงไห่ถัง

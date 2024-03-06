@@ -19,92 +19,92 @@ KungfuDesc_混元棍法,"With the momentum of Mountain Breaker, shock the world.
 KungfuDesc_七杀枪法,"There are seven moves, each one directly attacking the enemy's vital points, each move is critical.",มีทั้งหมดเจ็ดท่า แต่ละท่าโจมตีจุดสำคัญของศัตรูโดยตรง แต่ละท่ามีคริติคอล
 KungfuDesc_高山流水,"A guqin tune passed down from ancient times, between the strings there are towering mountains and trickling streams.",เพลงกู่ฉินที่สืบทอดมาจากสมัยโบราณ ระหว่างสายมีภูเขาสูงตระหง่านและลำธารไหลริน
 KungfuDesc_银蛇流光,Strike the enemy off guard with the posture of a silver snake coming out of its hole.,จู่โจมศัตรูโดยไม่ทันระวัง ด้วยท่วงท่าอันตรายดังอสรพิษเกล็ดเงินพุ่งออกจากถ้ำ
-KungfuDesc_一刀绝尘,"Deal damage to enemies within a fan-shaped range (5-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   If breaking defense: additionally inflict 10% of the enemy's maximum HP in damage, and inflict 20 points of Bleeding.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 5 ตาราง) ด้านหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: สร้างสถานะเลือดไหล 10 แต้มแก่ศัตรู\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และสร้างสถานะเลือดไหล 20 แต้มแก่ศัตรู
+KungfuDesc_一刀绝尘,"Deal damage to enemies within a fan-shaped range (5-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   If breaking defense: additionally inflict 10% of the enemy's maximum HP in damage, and inflict 20 points of Bleeding.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 5 ตาราง) ด้านหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: สร้างสถานะเลือดไหล 10 แต้มแก่ศัตรู\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และสร้างสถานะเลือดไหล 20 แต้มแก่ศัตรู"
 KungfuDesc_太极十三势,"Deal damage to enemies within a 3-grid radius of yourself and knock them back 2 grids;\nIf not breaking defense: 35% chance to trigger Stagger, Disassembly, Slowed, Broken bone on the enemy;\n   If breaking defense: additionally inflict 15% of the enemy's maximum HP in damage, and trigger Stagger, Disassembly, Slowed, Broken bone on the enemy;","สร้างความเสียหายให้กับศัตรูภายในรัศมี 3 ช่องรอบตัวเอง และกระแทกพวกมันกลับไป 2 ช่อง\nหากไม่ทำลายการป้องกัน: มีโอกาส 35% ที่จะสร้างสถานะ ชะงัก, แยกส่วน, เชื่องช้า, กระดูกหัก ใส่ศัตรู;\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 15% ของ Max HP ของศัตรู และสร้างสถานะ ชะงัก, แยกส่วน, เชื่องช้า, กระดูกหัก ใส่ศัตรู;"
 KungfuDesc_平地惊雷,"Deal damage to enemies within a fan-shaped range (5-grid radius) in front of you;\nIf not breaking defense: no additional effects;\n   If breaking defense: additionally inflict 10% of the enemy's maximum HP in damage, 50% chance to trigger Vulnerable effect.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 5 ตาราง) ด้านหน้า;\nหากไม่ทำลายการป้องกัน: ไม่มีผลลัพธ์เพิ่มเติม\n      เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และมีโอกาส 50% ที่จะทำให้เกิดสถานะ ""เปราะบาง"""
-KungfuDesc_石灰漫天,"Deal damage to enemies within a fan-shaped range (4-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   If breaking defense: additionally inflict 5% of the enemy's maximum HP in damage, and inflict 20 points of Blinded.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 4 ตาราง) ที่อยู่ตรงหน้าคุณ\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะตาบอด 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 5% ของ Max HP ของศัตรู และเพิ่มสถานะตาบอด 20 แต้ม
-KungfuDesc_十字追魂,"Deal damage to enemies within a 5-grid radius and 1-grid radius around yourself;\nIf not breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   If breaking defense: additionally inflict 10% of the enemy's maximum HP in damage, and inflict 20 points of Bleeding.",สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่อง และรัศมี 1 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะเลือดไหล 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และเพิ่มสถานะเลือดไหล 20 แต้มแก่ศัตรู
+KungfuDesc_石灰漫天,"Deal damage to enemies within a fan-shaped range (4-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   If breaking defense: additionally inflict 5% of the enemy's maximum HP in damage, and inflict 20 points of Blinded.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 4 ตาราง) ที่อยู่ตรงหน้าคุณ\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะตาบอด 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 5% ของ Max HP ของศัตรู และเพิ่มสถานะตาบอด 20 แต้ม"
+KungfuDesc_十字追魂,"Deal damage to enemies within a 5-grid radius and 1-grid radius around yourself;\nIf not breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   If breaking defense: additionally inflict 10% of the enemy's maximum HP in damage, and inflict 20 points of Bleeding.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่อง และรัศมี 1 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะเลือดไหล 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และเพิ่มสถานะเลือดไหล 20 แต้มแก่ศัตรู"
 KungfuDesc_天罗地网,Summon 3 constables to assist in battle within a 3x5 area in front of you.,เรียกเจ้าหน้าที่ 3 นายมาช่วยในการต่อสู่ภายในพื้นที่ 3x5 ข้างหน้าคุณ
 KungfuDesc_人海战术,"Summon 5 soldiers to assist in battle within a 4x5 area in front of you, upgraded to 5 generals assisting in battle when your own Level reaches 60.",เรียกทหาร 5 นาย มาช่วยในการต่อสู้ตรงหน้า พัฒนาเป็นแม่ทัพ 5 นาย มาช่วยหากมีเลเวลถึง 60
-KungfuDesc_直捣黄龙,"Deal damage to enemies within a 6x3 range in front of you and knock them back 1 grid;\nIf not breaking defense: additionally reduce the enemy's Qi by 125 points;\n   If breaking defense: additionally inflict 15% of the enemy's maximum HP in damage, and reduce the enemy's Qi by 250 points.",สร้างความเสียหายให้กับศัตรูในระยะ 6x3 ข้างหน้าคุณ และกระแทกกลับไป 1 ช่อง\nหากไม่ทำลายการป้องกัน: ลดค่าปราณเคลื่อนของศัตรูลง 125 แต้ม\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 15% ของ Max Hp ของศัตรู และลดค่าปราณเคลื่อนของศัตรูลง 250 แต้ม
+KungfuDesc_直捣黄龙,"Deal damage to enemies within a 6x3 range in front of you and knock them back 1 grid;\nIf not breaking defense: additionally reduce the enemy's Qi by 125 points;\n   If breaking defense: additionally inflict 15% of the enemy's maximum HP in damage, and reduce the enemy's Qi by 250 points.","สร้างความเสียหายให้กับศัตรูในระยะ 6x3 ข้างหน้าคุณ และกระแทกกลับไป 1 ช่อง\nหากไม่ทำลายการป้องกัน: ลดค่าปราณเคลื่อนของศัตรูลง 125 แต้ม\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 15% ของ Max Hp ของศัตรู และลดค่าปราณเคลื่อนของศัตรูลง 250 แต้ม"
 KungfuDesc_前仆后继,"Increase the Action Speed of friendly characters within a 3-grid radius of yourself by 50%, which expires after 2 actions.","เพิ่มความเร็วท่าร่างของพรรคพวกภายในรัศมี 3 ช่องรอบตัว 50%, คงอยู่ 2 รอบ"
 KungfuDesc_浊浪排空,"Inflicts damage on enemies within a radius of 3 squares around oneself and knocks them back 1 square;\nWithout breaking defense: additionally inflicts 20 points of Internal Injury on the enemy;\n   Breaking defense: additionally inflicts 15% of the enemy's maximum HP in damage, and inflicts 40 points of Internal Injury, increases own Critical by 15% (lasts for 2 actions).","สร้างความเสียหายให้กับศัตรูภายในรัศมี 3 ช่องรอบๆ ตัว และกระแทกกลับไป 1 ช่อง\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะบาดเจ็บภายใน 20 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 15% ของ Max HP ของศัตรู และเพิ่มสถานะบาดเจ็บภายใน 40 แต้มแก่ศัตรู, เพิ่มค่าคริติคอลของตัวเอง 15% (ผลลัพธ์เกิดขึ้น 2 รอบ)"
 KungfuDesc_万剑归宗,"Inflicts damage on enemies within a radius of 4 squares around oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 20% of the enemy's maximum HP in damage, for every 3 points higher own Sword is than the enemy's Sword, inflicts 1 point of Bleeding on them.","สร้างความเสียหายแก่ศัตรูในรัศมี 4 ช่องรอบๆ ตัว;\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู, ทุกๆ ค่า""ความเชี่ยวชาญดาบ"" 3 แต้มที่สูงกว่าของศัตรู จะเพิ่มสถานะเลือดไหล 1 แต้มแก่ศัตรู."
 KungfuDesc_枯木逢春,Recovers 25% of lost HP for allies within a radius of 2 squares around oneself.,ฟื้นฟู HP ที่สูญเสียไป 25% ให้กับพันธมิตรภายในรัศมี 2 ช่องรอบๆ ตัวเอง
 KungfuDesc_儒门春秋,"Inflicts damage on enemies within a fan-shaped range (radius of 5 squares) in front of oneself;\nWithout breaking defense: 35% chance to trigger Confuse effect on the enemy;\n   Breaking defense: additionally inflicts 15% of the enemy's maximum HP in damage, and triggers Confuse effect; when Propriety is above 50, for every point above, reduces enemy's energy by 5 points.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะรูปพัด (รัศมี 5 ช่อง) ด้านหน้า\nหากไม่ทำลายการป้องกัน: มีโอกาส 35% ที่จะสร้างสถานะสับสนแก่ศัตรู;\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 15% ของ Max HP ของศัตรู และทำให้เกิดสถานะ""สับสน""; เมื่อค่า ""มารยาท"" ที่มากกว่า 50 ขึ้นไป, ทุกค่าจะลดค่าปราณเคลื่อนที่ของศัตรูลง 5 คะแนน"
 KungfuDesc_菩提金身,Allies within a radius of 3 squares around oneself gain 1 instance of No damage when hit effect.,พันธมิตรที่อยู่ในรัศมี 3 ช่องรอบๆ ตนเองจะได้รับความเสียหาย 1 ครั้งเมื่อถูกโจมตี
-KungfuDesc_退避三舍,"Inflicts damage on enemies within a radius of 3 squares around oneself and knocks them back 3 squares;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, and prevents them from moving in their next action.",สร้างความเสียหายให้กับศัตรูภายในรัศมี 3 ช่องรอบๆ ตัว และกระแทกกลับไป 3 ช่อง\nหากไม่ทำลายการป้องกัน: ไม่มีผลลัพธ์เพิ่มเติม\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และทำให้ศัตรูเดินไม่ได้ 1 รอบ.
+KungfuDesc_退避三舍,"Inflicts damage on enemies within a radius of 3 squares around oneself and knocks them back 3 squares;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, and prevents them from moving in their next action.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 3 ช่องรอบๆ ตัว และกระแทกกลับไป 3 ช่อง\nหากไม่ทำลายการป้องกัน: ไม่มีผลลัพธ์เพิ่มเติม\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และทำให้ศัตรูเดินไม่ได้ 1 รอบ."
 KungfuDesc_财迷心窍,"Inflicts damage on enemies within a radius of 3 squares around oneself;\nWithout breaking defense: 35% chance to trigger Charm effect on the enemy (lasts for 2 actions);\n   Breaking defense: additionally inflicts 20% of the enemy's maximum HP in damage, 75% chance to trigger Charm effect on the enemy (lasts for 2 actions).","สร้างความเสียหายให้กับศัตรูในรัศมี 3 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้เกิดสถานะ ""ลุ่มหลง"" แก่ศัตรู (เกิดผล 2 รอบ);\n   เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู และมีโอกาส 75% ที่จะสร้างสถานะ ""ลุ่มหลง"" กับศัตรู (เกิดผล 2 รอบ)"
 KungfuDesc_乾坤一掷,"Inflicts damage on enemies within a 5x1 range in front of oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 5% of the enemy's maximum HP in damage, for every 10 points higher own Throwing is than the enemy's Throwing, inflicts 1 point of Bleeding on them.","สร้างความเสียหายให้กับศัตรูในระยะ 5x1 ข้างหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 5% ของ Max HP ของศัตรู, ทุกๆ 10 แต้มที่ค่าอาวุธลับสูงกว่าของศัตรู จะทำให้ศัตรูติดสถานะเลือดไหล 1 แต้ม"
 KungfuDesc_暴雨梨花,"Inflicts damage on enemies within a fan-shaped range (radius of 4 squares) in front of oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, for every 7 points higher own Throwing is than the enemy's Throwing, inflicts 1 point of Bleeding on them.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะรูปพัด (รัศมี 4 ช่อง) ด้านหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม\n   เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู, ทุกๆ 7 แต้มของค่าอาวุธลับของตัวเองที่มากกว่าของศัตรู จะทำให้ศัตรูติดสถานะเลือดไหล 1 แต้ม"
 KungfuDesc_满天花雨,"Inflicts damage on enemies within a radius of 4 squares around oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 15% of the enemy's maximum HP in damage, for every 5 points higher own Throwing is than the enemy's Throwing, inflicts 1 point of Bleeding on them.","สร้างความเสียหายแก่ศัตรูรัศมี 4 ช่องรอบตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม\n   เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 15% ของ Max HP ของศัตรู, ทุกๆ 5 แต้มของค่าอาวุธลับของตัวเองที่มากกว่าของศัตรู จะทำให้ศัตรูติดสถานะเลือดไหล 1 แต้ม"
-KungfuDesc_撒石灰粉,"Deal damage to enemies within a fan-shaped range (4-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   If breaking defense: additionally inflict 5% of the enemy's maximum HP in damage, and inflict 20 points of Blinded.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 4 ตาราง) ที่อยู่ตรงหน้าคุณ\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะตาบอด 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 5% ของ Max HP ของศัตรู และเพิ่มสถานะตาบอด 20 แต้ม
+KungfuDesc_撒石灰粉,"Deal damage to enemies within a fan-shaped range (4-grid radius) in front of you;\nIf not breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   If breaking defense: additionally inflict 5% of the enemy's maximum HP in damage, and inflict 20 points of Blinded.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 4 ตาราง) ที่อยู่ตรงหน้าคุณ\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะตาบอด 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 5% ของ Max HP ของศัตรู และเพิ่มสถานะตาบอด 20 แต้ม"
 KungfuDesc_红莲业火,"Inflicts damage on enemies within a radius of 4 squares around oneself;\nWithout breaking defense: 25% chance to trigger Vulnerable effect on the enemy (lasts for 1 action);\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, 50% chance to trigger Vulnerable effect on the enemy (lasts for 1 action).","สร้างความเสียหายแก่ศัตรูในรัศมี 4 ช่องรอบตัว;\nหากไม่ทำลายการป้องกัน: โอกาส 25% ที่จะทำให้เกิดสถานะ ""เปราะบาง""ต่อศัตรู (มีผล 1 รอบ);\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP สูงสุดของศัตรู และมีโอกาส 50% ที่จะทำให้เกิดสถานะ ""เปราะบาง""ต่อศัตรู (มีผล 1 รอบ)."
 KungfuDesc_迷情熏香,"Inflicts damage on enemies within a range of 1 square in front of oneself;\nWithout breaking defense: no additional effects;\n   Breaking defense: additionally inflicts 5% of the enemy's maximum HP in damage, 50% chance to trigger Charm effect on the enemy (lasts for 1 action).","สร้างความเสียหายแก่ศัตรูในระยะ1 ช่องด้านหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 5% ของ Max HP สูงสุดของศัตรู และมีโอกาส 50% ที่จะทำให้เกิดสถานะ ""ลุ่มหลง""ต่อศัตรู (มีผล 1 รอบ)."
 KungfuDesc_七息断魂雾,"Inflicts damage on enemies within a fan-shaped range (radius of 4 squares) in front of oneself;\nWithout breaking defense: additionally inflicts 10 points of Poisoned on the enemy;\n   Breaking defense: additionally inflicts 10% of the enemy's maximum HP in damage, and inflicts 20 points of Poisoned, reduces enemy's current MP by 10%.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะรูปพัด (รัศมี 4 ช่อง) ด้านหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: สร้างพิษ 10 แต้มต่อศัตรู\n   เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู, สร้างพิษ 20 แต้ม ลด MP ปัจจุบันของศัตรูลง 10%"
 KungfuDesc_酥筋化骨香,"Inflict damage on enemies within a 4-tile radius of yourself;\nWithout breaking defense: additionally reduce enemy Action Speed by 10%, Critical, Parry, Evasion by 5% (lasts for 2 actions);\n   With breaking defense: additionally reduce enemy Action Speed by 20%, Critical, Parry, Evasion by 10% (lasts for 2 actions).","สร้างความเสียหายให้กับศัตรูภายในรัศมี 4 ช่องรอบตัวเอง\nหากไม่ทำลายการป้องกัน: ลดความเร็วท่าร่างของศัตรู 10%, คริติคอล, ปัดป้อง, หลบหลีก 5% (คงอยู่ 2 รอบ);\n     เมื่อป้องกันถูกทำลาย: ลดความเร็วท่าร่างของศัตรู 20%, คริติคอล, ปัดป้อง, หลบหลีก 10% (คงอยู่ 2 รอบ);"
-KungfuDesc_飞腿扬沙,"Inflict damage on enemies within a 3-tile horizontal range in front of you;\nWithout breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Blinded.",สร้างความเสียหายให้กับศัตรู 3 ช่องแนวนอนด้านหน้า\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะตาบอด 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และเพิ่มสถานะตาบอด 20 แต้ม
+KungfuDesc_飞腿扬沙,"Inflict damage on enemies within a 3-tile horizontal range in front of you;\nWithout breaking defense: additionally inflict 10 points of Blinded on the enemy;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Blinded.","สร้างความเสียหายให้กับศัตรู 3 ช่องแนวนอนด้านหน้า\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะตาบอด 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และเพิ่มสถานะตาบอด 20 แต้ม"
 KungfuDesc_投石问路,"Inflict damage on enemies within a 5x1 range in front of you;\nWithout breaking defense: no additional effects;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, for every 7 points your Throwing is higher than the enemy's, inflict 1 point of Internal Injury.","สร้างความเสียหายให้กับศัตรูในระยะ 5x1 ข้างหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู, ทุกๆ 7 แต้มที่ค่าอาวุธลับสูงกว่าของศัตรู จะทำให้ศัตรูติดสถานะบาดเจ็บภายใน 1 แต้ม"
 KungfuDesc_铜锤灌顶,"Inflict damage on enemies within a 1-tile range in front of you;\nWithout breaking defense: 25% chance to trigger Unconscious effect on the enemy (lasts for 1 action);\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, 50% chance to trigger Unconscious effect on the enemy (lasts for 1 action).","สร้างความเสียหายแก่ศัตรูในระยะ1 ช่องด้านหน้าตัวเอง\nหากไม่ทำลายการป้องกัน:  มีโอกาส 25% ที่จะทำให้ศัตรู ""หมดสติ"" (เกิดผล 1 รอบ);\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และมีโอกาส 50% ที่จะทำให้ศัตรู ""หมดสติ"" (เกิดผล 1 รอบ);"
-KungfuDesc_穿云一枪,"Inflict damage on enemies within a 5x1 range in front of you;\nWithout breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Bleeding.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ 5x1 ด้านหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: สร้างสถานะเลือดไหล 10 แต้มแก่ศัตรู\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และสร้างสถานะเลือดไหล 20 แต้มแก่ศัตรู
+KungfuDesc_穿云一枪,"Inflict damage on enemies within a 5x1 range in front of you;\nWithout breaking defense: additionally inflict 10 points of Bleeding on the enemy;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Bleeding.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ 5x1 ด้านหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: สร้างสถานะเลือดไหล 10 แต้มแก่ศัตรู\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และสร้างสถานะเลือดไหล 20 แต้มแก่ศัตรู"
 KungfuDesc_召唤猎犬,Summon 1 hound within a 3x3 range in front of you.,เรียกสุนัขล่าเนื้อมา 1 ตัวในระยะ 3x3 ด้านหน้าคุณ
 KungfuDesc_地动山摇,"Inflict damage on enemies within a fan-shaped range (4-tile radius) in front of you;\nWithout breaking defense: additionally inflict 10 points of Internal Injury on the enemy;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Internal Injury.","สร้างความเสียหายให้กับศัตรูที่อยู่ในรัศมีรูปพัด 4 ช่องด้านหน้า;\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะ ""บาดเจ็บภายใน"" 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และเพิ่มสถานะ ""บาดเจ็บภายใน"" 20 แต้ม"
-KungfuDesc_石破天惊,"Inflict damage on enemies within a 3-tile radius of yourself and knock them back 1 tile;\nWithout breaking defense: 35% chance to trigger Broken bone effect on the enemy (lasts for 2 actions);\n   With breaking defense: additionally inflict damage equal to 15% of the enemy's maximum HP, and trigger Broken bone effect on the enemy (lasts for 2 actions).",สร้างความเสียหายให้กับศัตรูภายในรัศมี 3 ช่องรอบตัว และกระแทกพวกมันกลับไป 1 ช่อง\nหากไม่ทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้เกิดสถานะกระดูกหักต่อศัตรู (เกิดผล 2 รอบ);\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติมเท่ากับ 15% ของ Max HP ของศัตรู และทำให้เกิดสถานะกระดูกหักต่อศัตรู (เกิดผล 2 รอบ)
+KungfuDesc_石破天惊,"Inflict damage on enemies within a 3-tile radius of yourself and knock them back 1 tile;\nWithout breaking defense: 35% chance to trigger Broken bone effect on the enemy (lasts for 2 actions);\n   With breaking defense: additionally inflict damage equal to 15% of the enemy's maximum HP, and trigger Broken bone effect on the enemy (lasts for 2 actions).","สร้างความเสียหายให้กับศัตรูภายในรัศมี 3 ช่องรอบตัว และกระแทกพวกมันกลับไป 1 ช่อง\nหากไม่ทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้เกิดสถานะกระดูกหักต่อศัตรู (เกิดผล 2 รอบ);\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติมเท่ากับ 15% ของ Max HP ของศัตรู และทำให้เกิดสถานะกระดูกหักต่อศัตรู (เกิดผล 2 รอบ)"
 KungfuDesc_梨花奥义,"Inflict damage on enemies within a 7x3 range in front of you;\nWithout breaking defense: no additional effects;\n   With breaking defense: additionally inflict damage equal to 15% of the enemy's maximum HP, for every 5 points your Long is higher than the enemy's, inflict 1 point of Sealed.","สร้างความเสียหายให้กับศัตรูในระยะ 7x3 ข้างหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 15% ของ Max HP ของศัตรู, ทุกๆ 5 แต้มที่ค่าอาวุธยาวสูงกว่าของศัตรู จะทำให้ศัตรูติดสถานะสกัดจุด 1 แต้ม"
 KungfuDesc_一剑破万法,"Inflict damage on enemies within a 6x3 range in front of you;\nWithout breaking defense: no additional effects;\n   With breaking defense: additionally inflict damage equal to 15% of the enemy's maximum HP, for every 5 points your Sword is higher than the enemy's, inflict 1 point of Bleeding.","สร้างความเสียหายให้กับศัตรูในระยะ 6x3 ข้างหน้าตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 15% ของ Max HP ของศัตรู, ทุกๆ 5 แต้มที่ค่ากระบี่สูงกว่าของศัตรู จะทำให้ศัตรูติดสถานะเลือดไหล 1 แต้ม"
-KungfuDesc_天地无极,"Inflict the following effects on enemies within a radius of 5 squares of yourself;\nUnbroken Defense: Trigger Stagger, Disassemble, Slowed, Broken Bone on the enemy;\nBroken Defense: For every additional 100MP of your current MP, inflict an additional 1% damage on the enemy, up to 35%; and trigger Stagger, Disassemble, Slowed, Broken Bone on them, after triggering, your MP Cost is emptied, then recover 10% of your maximum MP value with each action (lasts for 3 actions).","สร้างสถานะต่อไปแก่ศัตรูในรัศมี 5 ช่องรอบตัว;\nหากไม่ทำลายการป้องกัน: สร้างสถานะ ชะงัก, แยกชิ้นส่วน, เชื่องช้า, กระดูกหัก ใส่ศัตรู;\n     เมื่อป้องกันถูกทำลาย: ทุกๆ 100MP ของ MP ปัจจุบัน จะสร้างความเสียหายเพิ่มเติม 1% ต่อศัตรู สูงสุด 35%; และสร้างสถานะ ชะงัก, แยกชิ้นส่วน, เชื่องช้า, กระดูกหัก ใส่ศัตรู; หลังใช้วรยุทธจะสูญเสีย MP ทั้งหมด จากนั้นจึงฟื้นฟู 10% ของ Max MP ในแต่ละรอบ (เกิดผล 3 รอบ)"
-KungfuDesc_剑意勃发,"Inflict damage on enemies within a 4-tile radius of yourself;\nWithout breaking defense: additionally inflict 10 points of Bleeding on the enemy, and reduce 100 points of their Qi;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Bleeding, reduce 175 points of their Qi.",สร้างความเสียหายใส่ศัตรูในระยะ 4 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: สร้างสถานะ เลือดไหล 10 แต้มใส่ศัตรู และลดปราณเคลื่อนที่ของศัตรูลง 100 แต้ม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู และสร้างสถานะ เลือดไหล 20 แต้ม ลดปราณเคลื่อนที่ของศัตรูลง 175 แต้ม
+KungfuDesc_天地无极,"Inflict the following effects on enemies within a 5-tile radius of yourself;\nUnbroken Defense: Trigger one of the following effects on the enemy: Stagger, Disassemble, Slowed, Broken Bone;\nBroken Defense: For every additional 100MP of your current MP, inflict an additional 1% of the enemy's maximum HP in damage, up to a maximum of 35%; and trigger Stagger, Disassemble, Slowed, Broken Bone effects on the enemy. After triggering, your MP Cost will be emptied, and then recover 10% of your maximum MP value with each action (lasts for 3 actions).","สร้างสถานะแก่ศัตรูในรัศมี 5 ช่องรอบตัว;\nไม่ทำลายการป้องกัน: สุ่มสร้างสถานะหนึ่งอย่างต่อไปนี้ ชะงัก, แยกชิ้นส่วน, เชื่องช้า, กระดูกหัก ใส่ศัตรู;\nทำลายการป้องกัน: ทุกๆ 100MP ของ MP ปัจจุบันของคุณ จะสร้างความเสียหายเพิ่มเติม 1% ต่อ HP สูงสุดของศัตรู สูงสุด 35% และสร้างสถานะ ชะงัก, แยกชิ้นส่วน, เชื่องช้า, กระดูกหัก ใส่ศัตรู หลังใช้วรยุทธจะสูญเสีย MP ทั้งหมด จากนั้นจึงฟื้นฟู 10% ของ MP สูงสุดในแต่ละรอบ (เกิดผล 3 รอบ)"
+KungfuDesc_剑意勃发,"Inflict damage on enemies within a 4-tile radius of yourself;\nWithout breaking defense: additionally inflict 10 points of Bleeding on the enemy, and reduce 100 points of their Qi;\n   With breaking defense: additionally inflict damage equal to 10% of the enemy's maximum HP, and inflict 20 points of Bleeding, reduce 175 points of their Qi.","สร้างความเสียหายใส่ศัตรูในระยะ 4 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: สร้างสถานะ เลือดไหล 10 แต้มใส่ศัตรู และลดปราณเคลื่อนที่ของศัตรูลง 100 แต้ม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู และสร้างสถานะ เลือดไหล 20 แต้ม ลดปราณเคลื่อนที่ของศัตรูลง 175 แต้ม"
 KungfuDesc_虫豸为伴,Summon 2 Scorpions to assist in battle within a 3x5 area in front of you.,เรียกแมงป่อง 2 ตัว มาช่วยในการต่อสู้ในพื้นที่ 3x5 ช่อง ข้างหน้า
-KungfuDesc_金刚撞钟,Inflict damage on enemies within a 4x1 range in front and knock them back 1 square;\nNo defense break: No additional effects;\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage.,สร้างความเสียหายแก่ศัตรูในระยะ 4x1 ช่องด้านหน้า และผลักกระเด็นไป 1 ช่อง\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู
+KungfuDesc_金刚撞钟,"Inflict damage on enemies within a 4x1 range in front and knock them back 1 square;\nNo defense break: No additional effects;\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage.","สร้างความเสียหายแก่ศัตรูในระยะ 4x1 ช่องด้านหน้า และผลักกระเด็นไป 1 ช่อง\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู"
 KungfuDesc_奉旨讨逆,Summon 4 level 60 generals to assist in battle within a semicircular range of 4 squares in front.,เรียกแม่ทัพ เลเวล 60 4 นาย มาช่วยในการต่อสู้ในระยะครึ่ง 4 ช่องด้านหน้า
-KungfuDesc_一剑破苍穹,"Inflict damage on enemies within a 6x3 range in front;\nNo defense break: 35% chance to trigger either Confuse, Cut tendon, or Vulnerable effect on the enemy;\n   Defense break: Inflict an additional 20% of the enemy's max HP as damage, and trigger Confuse, Cut tendon, Vulnerable effects on them; for every 3 points your Sword is higher than the enemy's, inflict 1 point of Bleeding.",สร้างความเสียหายแก่ศัตรูในระยะ 6x3 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้เกิดสถานะ สับสน เอ็นเท้าขาด หรือเปราะบาง แก่ศัตรู\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของพลังชีวิตสูงสุดของศัตรู และทำให้เกิดสถานะ สับสน เอ็นเท้าขาด และเปราะบาง แก่ศัตรู; ทุกๆ 3 แต้มความเชี่ยวชาญกระบี่ที่สูงกว่าศัตรู จะสร้างสถานะ เลือดไหล อีก 1 แต้ม
+KungfuDesc_一剑破苍穹,"Inflict damage on enemies within a 6x3 range in front;\nNo defense break: 35% chance to trigger either Confuse, Cut tendon, or Vulnerable effect on the enemy;\n   Defense break: Inflict an additional 20% of the enemy's max HP as damage, and trigger Confuse, Cut tendon, Vulnerable effects on them; for every 3 points your Sword is higher than the enemy's, inflict 1 point of Bleeding.","สร้างความเสียหายแก่ศัตรูในระยะ 6x3 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้เกิดสถานะ สับสน เอ็นเท้าขาด หรือเปราะบาง แก่ศัตรู\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของพลังชีวิตสูงสุดของศัตรู และทำให้เกิดสถานะ สับสน เอ็นเท้าขาด และเปราะบาง แก่ศัตรู; ทุกๆ 3 แต้มความเชี่ยวชาญกระบี่ที่สูงกว่าศัตรู จะสร้างสถานะ เลือดไหล อีก 1 แต้ม"
 KungfuDesc_罢黜百家,"Knock back enemies within a 4-square radius of yourself by 3 squares, reduce their Qi by 1000 points, and inflict 25 points of Poisoned, 25 points of Bleeding, 25 points of Internal Injury, 25 points of Sealed, 25 points of Blinded; reduce your own Poisoned, Bleeding, Internal Injury, Sealed, Blinded by 50%, and increase Action Speed by 50% (lasts for 2 actions).",ผลักศัตรูในระยะ 4 ช่องของตนเองออกไป 3 ช่อง ลดปราณเคลื่อนที่ของอีกฝ่าย 1000 แต้ม และสร้างสถานะ พิษ เลือดไหล บาดเจ็บภายใน สกัดจุด ตาบอด 25 แต้ม และลดสถานะ พิษ เลือดไหล บาดเจ็บภายใน สกัดจุด ตาบอด ของตนลง 50% และเพิ่มความเร็วท่าร่างของตน 50% (มีผล 2 ตา)
-KungfuDesc_纸醉金迷,"Inflict damage on enemies within a 3-square radius of yourself;\nNo defense break: 35% chance to trigger Charm effect on the enemy (lasts for 1 action);\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, and 75% chance to trigger Charm effect on the enemy (lasts for 1 action).",สร้างความเสียหายแก่ศัตรูในระยะ 3 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้ศัตรูหลงไหล (มีผล 1 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู และมีโอกาส 75% ที่จะทำให้ศัตรูหลงไหล (มีผล 1 ตา)
-KungfuDesc_伸腿瞪眼丸,"Inflict damage on enemies within a 5x5 range in front;\nNo defense break: Inflict an additional 15 points of Internal Injury, 15 points of Sealed, 15 points of Blinded on the enemy;\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, and inflict 30 points of Internal Injury, 30 points of Sealed, 30 points of Blinded on them.",สร้างความเสียหายแก่ศัตรูในระยะ 5x5 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: สร้างสถานะเพิ่มเติม บาดเจ็บภายใน สกัดจุด ตาบอด 15 แต้ม แก่ศัตรู\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู และสร้างสถานะ บาดเจ็บภายใน สกัดจุด ตาบอด 30 แต้ม
+KungfuDesc_纸醉金迷,"Inflict damage on enemies within a 3-square radius of yourself;\nNo defense break: 35% chance to trigger Charm effect on the enemy (lasts for 1 action);\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, and 75% chance to trigger Charm effect on the enemy (lasts for 1 action).","สร้างความเสียหายแก่ศัตรูในระยะ 3 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้ศัตรูหลงไหล (มีผล 1 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู และมีโอกาส 75% ที่จะทำให้ศัตรูหลงไหล (มีผล 1 ตา)"
+KungfuDesc_伸腿瞪眼丸,"Inflict damage on enemies within a 5x5 range in front;\nNo defense break: Inflict an additional 15 points of Internal Injury, 15 points of Sealed, 15 points of Blinded on the enemy;\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, and inflict 30 points of Internal Injury, 30 points of Sealed, 30 points of Blinded on them.","สร้างความเสียหายแก่ศัตรูในระยะ 5x5 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: สร้างสถานะเพิ่มเติม บาดเจ็บภายใน สกัดจุด ตาบอด 15 แต้ม แก่ศัตรู\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู และสร้างสถานะ บาดเจ็บภายใน สกัดจุด ตาบอด 30 แต้ม"
 KungfuDesc_定鼎中原,"Deal damage to enemies within a radius of 5 squares of yourself;\nIf defense is not broken: 35% chance to trigger any one of the effects of Internal break, Broken bone, Vulnerable on the enemy (lasts for 2 actions);\nIf defense is broken: Deal an additional 20% of the enemy's maximum HP in damage, and trigger the effects of Internal break, Broken bone, Vulnerable on them (lasts for 2 actions).","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: มีโอกาส 35% ที่จะสร้างสถานะอย่างใดอย่างหนึ่งแก่ศัตรู กำลังภายในติดขัด, กระดูกหัก, เปราะบาง (เกิดผล 2 รอบ);\n     เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู และทำให้เกิดสถานะอย่างใดอย่างหนึ่งแก่ศัตรู กำลังภายในติดขัด, กระดูกหัก, เปราะบาง (เกิดผล 2 รอบ);"
-KungfuDesc_叱咤一枪,"Inflict damage on enemies within a 7x3 range in front;\nNo defense break: 25% chance to trigger Vulnerable effect on the enemy (lasts for 1 action);\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage, and 50% chance to trigger Vulnerable effect on the enemy (lasts for 1 action).",สร้างความเสียหายแก่ศัตรูในระยะ 7x3 ช่องด้านหน้าตนเอง\nไม่มีทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้ศัตรูติดสถานะ เปราะบาง (มีผล 1 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู และมีโอกาส 50% ที่จะทำให้ศัตรูติดสถานะ เปราะบาง (มีผล 1 ตา)
-KungfuDesc_旋风斩,"Inflict damage on enemies within a 2-square radius of yourself;\nNo defense break: Inflict an additional 10 points of Bleeding on the enemy;\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage, and inflict 20 points of Bleeding on them.",สร้างความเสียหายแก่ศัตรูในระยะ 2 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: สร้างสถานะเพิ่มเติม เลือดไหล 10 แต้ม แก่ศัตรู\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู และสร้างสถานะ เลือดไหล 20 แต้ม
+KungfuDesc_叱咤一枪,"Inflict damage on enemies within a 7x3 range in front;\nNo defense break: 25% chance to trigger Vulnerable effect on the enemy (lasts for 1 action);\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage, and 50% chance to trigger Vulnerable effect on the enemy (lasts for 1 action).","สร้างความเสียหายแก่ศัตรูในระยะ 7x3 ช่องด้านหน้าตนเอง\nไม่มีทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้ศัตรูติดสถานะ เปราะบาง (มีผล 1 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู และมีโอกาส 50% ที่จะทำให้ศัตรูติดสถานะ เปราะบาง (มีผล 1 ตา)"
+KungfuDesc_旋风斩,"Inflict damage on enemies within a 2-square radius of yourself;\nNo defense break: Inflict an additional 10 points of Bleeding on the enemy;\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage, and inflict 20 points of Bleeding on them.","สร้างความเสียหายแก่ศัตรูในระยะ 2 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: สร้างสถานะเพิ่มเติม เลือดไหล 10 แต้ม แก่ศัตรู\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู และสร้างสถานะ เลือดไหล 20 แต้ม"
 KungfuDesc_烛龙一剑,"Charge and inflict damage on enemies within a 6x1 range in front;\nNo defense break: 25% chance to trigger Vulnerable effect on the enemy (lasts for 1 action);\n   Defense break: Inflict an additional 10% of the enemy's max HP as damage, and 50% chance to trigger Vulnerable effect on the enemy (lasts for 1 action).","พุ่งชนและสร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ 6x1 ด้านหน้า\nหากไม่ทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้เกิดสถานะ""เปราะบาง""ต่อศัตรู (คงอยู่ 1 รอบ);\n      เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และมีโอกาส 50% ที่จะทำให้เกิดสถานะ""เปราะบาง""ต่อศัตรู (คงอยู่ 1 รอบ);"
-KungfuDesc_雷劫万千,"Inflict damage on enemies within a semicircular range of 5 squares in front;\nNo defense break: Inflict an additional 20 points of Internal Injury on the enemy, and reduce their Qi by 100 points;\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, inflict 40 points of Internal Injury on them, and reduce their Qi by 175 points.",สร้างความเสียหายแก่ศัตรูในระยะครึ่งวงกลม 5 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: สร้างสถานะเพิ่มเติม บาดเจ็บภายใน 20 แต้มแก่ศัตรู และลดปราณเคลื่อนที่ลง 100 แต้ม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู สร้างสถานะ บาดเจ็บภายใน 40 แต้ม และลดปราณเคลื่อนที่ลง 175 แต้ม
-KungfuDesc_追星赶月,"Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: 25% chance to trigger Cut tendon effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage, 50% chance to trigger Cut tendon effect on enemy (lasts 1 action).",สร้างความเสียหายแก่ศัตรูในระยะ 5x1 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้เกิดสถานะเอ็นเท้าขาดแก่ศัตรู (มีผล 1 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู และมีโอกาส 50% ที่จะทำให้เกิดสถานะเอ็นเท้าขาดแก่ศัตรู (มีผล 1 ตา)
-KungfuDesc_飞箸穿云,Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.,สร้างความเสียหายแก่ศัตรูในระยะ 5x1 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู 
-KungfuDesc_断子绝孙腿,"Inflict damage on enemy within 1 square in front;\nWithout breaking defense: 25% chance to trigger Vulnerable effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 15% of male enemy's max HP as damage, 50% chance to trigger Vulnerable effect on enemy (lasts 1 action).",สร้างความเสียหายแก่ศัตรูในระยะ 1 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้เกิดสถานะเปราะบางแก่ศัตรู (มีผล 1 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรูเพศชาย มีโอกาส 50% ที่จะทำให้เกิดสถานะเปราะบางแก่ศัตรู (มีผล 1 ตา)
+KungfuDesc_雷劫万千,"Inflict damage on enemies within a semicircular range of 5 squares in front;\nNo defense break: Inflict an additional 20 points of Internal Injury on the enemy, and reduce their Qi by 100 points;\n   Defense break: Inflict an additional 15% of the enemy's max HP as damage, inflict 40 points of Internal Injury on them, and reduce their Qi by 175 points.","สร้างความเสียหายแก่ศัตรูในระยะครึ่งวงกลม 5 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: สร้างสถานะเพิ่มเติม บาดเจ็บภายใน 20 แต้มแก่ศัตรู และลดปราณเคลื่อนที่ลง 100 แต้ม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู สร้างสถานะ บาดเจ็บภายใน 40 แต้ม และลดปราณเคลื่อนที่ลง 175 แต้ม"
+KungfuDesc_追星赶月,"Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: 25% chance to trigger Cut tendon effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage, 50% chance to trigger Cut tendon effect on enemy (lasts 1 action).","สร้างความเสียหายแก่ศัตรูในระยะ 5x1 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้เกิดสถานะเอ็นเท้าขาดแก่ศัตรู (มีผล 1 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู และมีโอกาส 50% ที่จะทำให้เกิดสถานะเอ็นเท้าขาดแก่ศัตรู (มีผล 1 ตา)"
+KungfuDesc_飞箸穿云,"Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.","สร้างความเสียหายแก่ศัตรูในระยะ 5x1 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู "
+KungfuDesc_断子绝孙腿,"Inflict damage on enemy within 1 square in front;\nWithout breaking defense: 25% chance to trigger Vulnerable effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 15% of male enemy's max HP as damage, 50% chance to trigger Vulnerable effect on enemy (lasts 1 action).","สร้างความเสียหายแก่ศัตรูในระยะ 1 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้เกิดสถานะเปราะบางแก่ศัตรู (มีผล 1 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรูเพศชาย มีโอกาส 50% ที่จะทำให้เกิดสถานะเปราะบางแก่ศัตรู (มีผล 1 ตา)"
 KungfuDesc_推山填海,"Inflict damage on enemies within a 4-square radius fan-shaped range in front;\nWithout breaking defense: Inflict additional 10 points of Internal Injury on enemy;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage, and inflict 20 points of Internal Injury.","สร้างความเสียหายให้กับศัตรูที่อยู่ในรัศมี 4 ช่องรูปพัดด้านหน้า;\nหากไม่ทำลายการป้องกัน: เพิ่มสถานะ ""บาดเจ็บภายใน"" 10 แต้มแก่ศัตรู\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และเพิ่มสถานะ ""บาดเจ็บภายใน"" 20 แต้ม"
-KungfuDesc_山崩地裂,"Inflict damage on enemies within a 3-square radius around self;\nWithout breaking defense: 25% chance to trigger Broken bone effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage, 50% chance to trigger Broken bone effect on enemy (lasts 1 action).",สร้างความเสียหายให้กับศัตรูในรัศมี 3 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้เกิดสถานะกระดูกหักต่อศัตรู (เกิดผล 1 รอบ);\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และมีโอกาส 50% ที่จะทำให้สร้างสถานะกระดูกหักต่อศัตรู (เกิดผล 1 รอบ)
+KungfuDesc_山崩地裂,"Inflict damage on enemies within a 3-square radius around self;\nWithout breaking defense: 25% chance to trigger Broken bone effect on enemy (lasts 1 action);\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage, 50% chance to trigger Broken bone effect on enemy (lasts 1 action).","สร้างความเสียหายให้กับศัตรูในรัศมี 3 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: มีโอกาส 25% ที่จะทำให้เกิดสถานะกระดูกหักต่อศัตรู (เกิดผล 1 รอบ);\n    เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และมีโอกาส 50% ที่จะทำให้สร้างสถานะกระดูกหักต่อศัตรู (เกิดผล 1 รอบ)"
 KungfuDesc_生机回春,Recover 10% of lost HP and MP for allies within a 3-square radius around self.,ฟื้นฟู HP และ MP 10% ให้กับพันธมิตรที่อยู่ในรัศมี 3 ช่องรอบตัว
 KungfuDesc_杨枝甘露,Recover 25% of max HP for self within a 3-square radius.,ฟื้นฟู 25% ของพลังชีวิตสูงสุดตนเอง ในระยะ 3 ช่อง
-KungfuDesc_飞蝶穿花,Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.,สร้างความเสียหายแก่ศัตรูในระยะ 5x1 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู 
-KungfuDesc_剑影纷纷,Inflict damage on enemies within a 3-square radius cross-shaped range around self;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.,สร้างความเสียหายแก่ศัตรูในระยะ 3 ช่อง เป็นทรงกากบาทรอบตัว\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู
-KungfuDesc_劳燕分飞,Inflict damage on enemies within a 4-square radius fan-shaped range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.,สร้างความเสียหายแก่ศัตรูในระยะ 4 ช่องด้านหน้าเป็นทรงพัด\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู
-KungfuDesc_杀生证道,"Inflict damage on enemies within a 5-square radius fan-shaped range in front, each enemy defeated in this combat increases damage by 10%, up to 100%.\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 20% of enemy's max HP as damage.",สร้างความเสียหายแก่ศัตรูในระยะ 5 ช่องด้านหน้าเป็นทรงพัด หากจัดการศัตรูลงได้จะสร้างความเสียหายได้เพิ่มขึ้น 10% ต่อจำนวนศัตรู สูงสุดที่ 100%\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของพลังชีวิตสูงสุดของศัตรู
-KungfuDesc_七佛灭罪真言,"Inflict damage on enemies within a 5-square radius around self;\nWithout breaking defense: 35% chance to trigger Slumber effect on enemy (lasts 2 actions);\n   Breaking defense: Inflict additional 20% of enemy's max HP as damage, 75% chance to trigger Slumber effect on enemy (lasts 2 actions).",สร้างความเสียหายแก่ศัตรูในระยะ 5 ช่องรอบตนเอง\nไม่มีทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้เกิดสถานะหลับไหลแก่ศัตรู (มีผล 2 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของพลังชีวิตสูงสุดของศัตรู มีโอกาส 75% ที่จะทำให้เกิดสถานะหลับไหลแก่ศัตรู (มีผล 2 ตา)
-KungfuDesc_搜山检海,"Pull a character within a 6-square radius diamond-shaped range around self to the front, if it's an enemy, inflict additional damage, if it's an ally, they get 15% final damage reduction until their next action.\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 15% of enemy's max HP as damage.",ดึงตัวละครในระยะ 6 ช่องเป็นทรงเพชรรอบตัวมาไว้ด้านหน้า หากเป็นศัตรู สร้างความเสียหาย หากเป็นพรรคพวก ตัวละครนั้นจะได้รับความเสียหายลดลง 15% จนตาถัดไป\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดศัตรู
-KungfuDesc_轰地雷,"Inflict damage on enemies within a 2-square radius around self and knock them back 1 square;\nWithout breaking defense: Reduce enemy's energy by 100 points;\n   Breaking defense: Inflict additional 15% of enemy's max HP as damage, and reduce enemy's energy by 175 points.",สร้างความเสียหายแก่ศัตรูในระยะ 2 ช่องรอบตัว และผลักออกไป 1 ช่อง\nไม่มีทำลายการป้องกัน: ลดปราณเคลื่อนที่ศัตรูลง 100 แต้ม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู และลดปราณเคลื่อนที่ลง 175 แต้ม
+KungfuDesc_飞蝶穿花,"Inflict damage on enemies within a 5x1 range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.","สร้างความเสียหายแก่ศัตรูในระยะ 5x1 ช่องด้านหน้า\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู "
+KungfuDesc_剑影纷纷,"Inflict damage on enemies within a 3-square radius cross-shaped range around self;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.","สร้างความเสียหายแก่ศัตรูในระยะ 3 ช่อง เป็นทรงกากบาทรอบตัว\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู"
+KungfuDesc_劳燕分飞,"Inflict damage on enemies within a 4-square radius fan-shaped range in front;\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 10% of enemy's max HP as damage.","สร้างความเสียหายแก่ศัตรูในระยะ 4 ช่องด้านหน้าเป็นทรงพัด\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของพลังชีวิตสูงสุดของศัตรู"
+KungfuDesc_杀生证道,"Inflict damage on enemies within a 5-square radius fan-shaped range in front, each enemy defeated in this combat increases damage by 10%, up to 100%.\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 20% of enemy's max HP as damage.","สร้างความเสียหายแก่ศัตรูในระยะ 5 ช่องด้านหน้าเป็นทรงพัด หากจัดการศัตรูลงได้จะสร้างความเสียหายได้เพิ่มขึ้น 10% ต่อจำนวนศัตรู สูงสุดที่ 100%\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของพลังชีวิตสูงสุดของศัตรู"
+KungfuDesc_七佛灭罪真言,"Inflict damage on enemies within a 5-square radius around self;\nWithout breaking defense: 35% chance to trigger Slumber effect on enemy (lasts 2 actions);\n   Breaking defense: Inflict additional 20% of enemy's max HP as damage, 75% chance to trigger Slumber effect on enemy (lasts 2 actions).","สร้างความเสียหายแก่ศัตรูในระยะ 5 ช่องรอบตนเอง\nไม่มีทำลายการป้องกัน: มีโอกาส 35% ที่จะทำให้เกิดสถานะหลับไหลแก่ศัตรู (มีผล 2 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของพลังชีวิตสูงสุดของศัตรู มีโอกาส 75% ที่จะทำให้เกิดสถานะหลับไหลแก่ศัตรู (มีผล 2 ตา)"
+KungfuDesc_搜山检海,"Pull a character within a 6-square radius diamond-shaped range around self to the front, if it's an enemy, inflict additional damage, if it's an ally, they get 15% final damage reduction until their next action.\nWithout breaking defense: No additional effects;\n   Breaking defense: Inflict additional 15% of enemy's max HP as damage.","ดึงตัวละครในระยะ 6 ช่องเป็นทรงเพชรรอบตัวมาไว้ด้านหน้า หากเป็นศัตรู สร้างความเสียหาย หากเป็นพรรคพวก ตัวละครนั้นจะได้รับความเสียหายลดลง 15% จนตาถัดไป\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดศัตรู"
+KungfuDesc_轰地雷,"Inflict damage on enemies within a 2-square radius around self and knock them back 1 square;\nWithout breaking defense: Reduce enemy's energy by 100 points;\n   Breaking defense: Inflict additional 15% of enemy's max HP as damage, and reduce enemy's energy by 175 points.","สร้างความเสียหายแก่ศัตรูในระยะ 2 ช่องรอบตัว และผลักออกไป 1 ช่อง\nไม่มีทำลายการป้องกัน: ลดปราณเคลื่อนที่ศัตรูลง 100 แต้ม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู และลดปราณเคลื่อนที่ลง 175 แต้ม"
 KungfuDesc_倒转乾坤,"Pull enemies within a radius of 7 squares to yourself and inflict damage, converting 10% of the damage dealt into your own HP.\nUnbroken Defense: No additional effects;\n   Broken Defense: Inflict an additional 20% of the enemy's maximum HP as damage.","ดึงศัตรูในรัศมี 7 ช่องเข้ามาหาตัวเอง และสร้างความเสียหาย, แปลง 10% ของความเสียหายที่สร้างเป็นมาฟื้นฟู HP ตนเอง.\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม\n   เมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู."
 KungfuDesc_天地不仁,"Inflict damage on enemies within a radius of 5 squares around yourself;\nUnbroken Defense: No additional effects;\n   Broken Defense: For non-boss enemies lower than your own Level, there is a chance to trigger Instant death, the higher the Level difference, the higher the probability.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องรอบตัว;\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม;\n   เมื่อป้องกันถูกทำลาย: สำหรับศัตรูที่ไม่ใช่บอสและเลเวลต่ำกว่า, มีโอกาสทำให้ ""ตายทันที"" ยิ่งความต่างของเลเวลสูงเท่าไร โอกาสจะยิ่งสูงขึ้นเท่านั้น."
-KungfuDesc_否极泰来,"Inflict damage on enemies within a 5-grid radius of yourself;\nIf the defense is not broken: no additional effects;\nIf the defense is broken: inflict an additional 20% of the enemy's maximum HP in damage, and the next attack will definitely be critical and combo.",สร้างความเสียหายแก่ศัตรูในระยะ 5 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของพลังชีวิตสูงสุดของศัตรู และการโจมตีครั้งต่อไปจะติดคริติคอล และโจมตีต่อเนื่องแน่นอน
-KungfuDesc_六字大明咒,"Inflict damage on enemies within a 5-grid radius of yourself;\nIf the defense is not broken: reduce the enemy's Defense by 8% (lasts for 2 actions).\nIf the defense is broken: inflict an additional 20% of the enemy's maximum HP in damage, and reduce the enemy's Defense by 15% (lasts for 3 actions).",สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: ลดการป้องกันของศัตรูลง 8% (คงอยู่ 2 รอบ)\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู และลดการป้องกันของศัตรูลง 15% (คงอยู่ 3 รอบ)
-KungfuDesc_天籁魔音,"Inflict damage on enemies within a 6-grid radius of yourself;\nIf the defense is not broken: reduce the enemy's Attack by 5% and Action Speed by 10% (lasts for 2 actions).\nIf the defense is broken: inflict an additional 15% of the enemy's maximum HP in damage (30% of the maximum HP for male enemies), and reduce the enemy's Attack by 8% and Action Speed by 15% (lasts for 2 actions).",สร้างความเสียหายแก่ศัตรูในระยะ 6 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: ลดพลังโจมตีของศัตรูลง 5% และลดความเร็วท่าร่างของศัตรูลง 10% (มีผล 2 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู (ถ้าศัตรูเป็นบุรุษจะเป็น 30% แทน) และลดพลังโจมตีของศัตรูลง 8% และลดความเร็วท่าร่างศัตรูลง 15% (มีผล 2 ตา)
+KungfuDesc_否极泰来,"Inflict damage on enemies within a 5-grid radius of yourself;\nIf the defense is not broken: no additional effects;\nIf the defense is broken: inflict an additional 20% of the enemy's maximum HP in damage, and the next attack will definitely be critical and combo.","สร้างความเสียหายแก่ศัตรูในระยะ 5 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของพลังชีวิตสูงสุดของศัตรู และการโจมตีครั้งต่อไปจะติดคริติคอล และโจมตีต่อเนื่องแน่นอน"
+KungfuDesc_六字大明咒,"Inflict damage on enemies within a 5-grid radius of yourself;\nIf the defense is not broken: reduce the enemy's Defense by 8% (lasts for 2 actions).\nIf the defense is broken: inflict an additional 20% of the enemy's maximum HP in damage, and reduce the enemy's Defense by 15% (lasts for 3 actions).","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องรอบตัว\nหากไม่ทำลายการป้องกัน: ลดการป้องกันของศัตรูลง 8% (คงอยู่ 2 รอบ)\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู และลดการป้องกันของศัตรูลง 15% (คงอยู่ 3 รอบ)"
+KungfuDesc_天籁魔音,"Inflict damage on enemies within a 6-grid radius of yourself;\nIf the defense is not broken: reduce the enemy's Attack by 5% and Action Speed by 10% (lasts for 2 actions).\nIf the defense is broken: inflict an additional 15% of the enemy's maximum HP in damage (30% of the maximum HP for male enemies), and reduce the enemy's Attack by 8% and Action Speed by 15% (lasts for 2 actions).","สร้างความเสียหายแก่ศัตรูในระยะ 6 ช่องจากตนเอง\nไม่มีทำลายการป้องกัน: ลดพลังโจมตีของศัตรูลง 5% และลดความเร็วท่าร่างของศัตรูลง 10% (มีผล 2 ตา)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของพลังชีวิตสูงสุดของศัตรู (ถ้าศัตรูเป็นบุรุษจะเป็น 30% แทน) และลดพลังโจมตีของศัตรูลง 8% และลดความเร็วท่าร่างศัตรูลง 15% (มีผล 2 ตา)"
 KungfuDesc_千山鸟飞绝,"Inflict damage on enemies within a semi-circular range of 4 squares in front of you. If any enemy is defeated in this attack, the ultimate move will trigger again if there are still enemies in range.",สร้างความเสียหายแก่ศัตรู 4 ช่องด้านหน้าเป็นทรงครึ่งวงกลม หากศัตรูถูกจัดการลง วิชาไม้ตายนี้จะถูกใช้อีกครั้งถ้ายังมีศัตรูอยู่ในระยะ
-KungfuDesc_九流归一,"Inflict damage on enemies within a radius of 5 squares of yourself and pull them to your side;\nUnbroken Defense: No additional effects;\nBroken Defense: Inflict additional damage equal to 25% of the enemy's maximum HP, and 25% of this percentage damage will be converted into your own HP; the enemy's current MP decreases by 10%; recover 10% of your own MP.",สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องของตัวคุณเอง และดึงศัตรูเข้ามาหาตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติมเท่ากับ 25% ของ Max HP ของศัตรู และ 25% ของความเสียหายนี้จะถูกแปลงมาฟื้นฟูพลังชีวิตของคุณเอง MP ปัจจุบันของศัตรูลดลง 10%; ฟื้นฟู MP ของคุณเอง 10%
-BondKungfuEffect_望穿秋水,"Inflict damage on enemies within your range, after release both sides gain the effect of ""<#29F161>Accuracy increased by 50%</color>, when triggering a critical hit, <#29F161>critical damage increased by 25%</color>, lasts for 2 actions"".","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังใช้วรยุทธทั้งคู่จะได้รับผล ""<#29F161>ความแม่นยำเพิ่มขึ้น 50%</color> เมื่อทำการโจมตีแบบคริติคอล <#29F161>ความเสียหายแบบคริติคอลเพิ่มขึ้น 25%</color> ผลลัพธ์คงอยู่ 2 รอบ"". "
-BondKungfuEffect_比翼连枝,"Inflict damage on enemies within your range, after release both sides gain the effect of ""<#29F161>Action Speed increased by 15%, Evasion increased by 10%</color>, lasts for 2 actions"".","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ หลังจากใช้วรยุทธทั้งสองคู่จะได้รับผลของ ""<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 15% การหลบหลีกเพิ่มขึ้น 10%</color> เกิดผล 2 รอบ""."
-BondKungfuEffect_珠联璧合,"Inflict damage on enemies within your range, after release both sides gain the effect of ""<#29F161>Critical increased by 10%</color>, when triggering a critical hit, <#29F161>critical damage increased by 15%</color>, lasts for 2 actions"".","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังใช้วรยุทธทั้งคู่จะได้รับผล ""<#29F161>คริติคอลเพิ่มขึ้น 10%</color> เมื่อทำให้การโจมตีคริติคอล <#29F161>ความเสียหายคริติคอลเพิ่มขึ้น 15%</color> ผลลัพธ์คงอยู่ 2 รอบ""."
-BondKungfuEffect_花开富贵,"Inflict damage on enemies within your range, after release both sides gain the effect of ""Spirit <#29F161>increased by an additional 50%</color>, lasts for 2 actions"".","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังใช้วรยุทธทั้งคู่จะได้รับผล ""<#29F161>พลังใจเพิ่มขึ้น 50%</color> ผลลัพธ์คงอยู่ 2 รอบ""."
-BondKungfuEffect_吟风弄月,"Inflict damage on enemies within your range, after release both sides gain the effect of ""after action, <#29F161>recover 10% of lost HP</color>, lasts for 2 actions"".","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังใช้วรยุทธทั้งคู่จะได้รับผล ""หลังออกท่า <#29F161>ฟื้นฟู 10% ของ HP ที่สูญเสียไป</color> เกิดผล 2 รอบ"""
-BondKungfuEffect_相濡以沫,"Inflict damage on enemies within your range, after release both sides gain the effect of ""when using martial arts, only consume <#29F161>30% MP</color>, when attacking, <#29F161>final damage increased by 15%</color>, lasts for 2 actions"".","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังใช้วรยุทธทั้งคู่จะได้รับผล ""เมื่อใช้วรยุทธ์ จะใช้ <#29F161>MP เพียง 30%</color> เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น 15%</color> ผลลัพธ์คงอยู่ 2 รอบ"""
-BondKungfuEffect_海角天涯,"Inflict damage on enemies within your range, after release both sides gain the effect of ""<#29F161>Combo rate increased by 10%</color>, <#29F161>Critical increased by 10%</color>, lasts for 2 actions"".","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังใช้วรยุทธทั้งคู่จะได้รับผล "" ""<#29F161>อัตราโจมตีต่อเนื่องเพิ่มขึ้น 10%</color>, <#29F161>อัตราโจมตีคริติคอลเพิ่มขึ้น 10%</color> ผลลัพธ์คงอยู่ 2 รอบ""."
-BondKungfuEffect_白首相随,"Inflict damage on enemies within self range, after release both parties gain effect【<#29F161>Parry increase by 10%</color>, <#29F161>When Parry is triggered, ParryDamage reduce effect increase by 15</color>, lasts for 2 actions】.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังจากใช้วรยุทธทั้งสองฝ่ายจะได้รับผล【เมื่อโดนโจมตี <#29F161>โอกาสปัดป้องเพิ่มขึ้น 10%</color>, เมื่อปัดป้องได้, <#29F161>ลดพลังโจมตีที่ปัดป้องได้ 15%</color> ผลลัพธ์คงอยู่ 2 รอบ""】"
-BondKungfuEffect_龙凤呈祥,"Inflict damage on enemies within self range, after release both parties gain effect【<#29F161>Combo rate increase by 10%</color>, <#29F161>Action Speed increase by 25%</color>, lasts for 2 actions】.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังจากปล่อยทั้งสองฝ่ายจะได้รับผล【<#29F161>อัตราโจมตีต่อเนื่องเพิ่มขึ้น 10%</color>, <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 25%</color> ผลลัพธ์คงอยู่ 2 รอบ】 ."
-BondKungfuEffect_金风玉露,"Inflict damage on enemies within self range and knock back 2 squares, reduce 300 points of energy gathering.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะและกระแทกกลับไป 2 ช่อง, ลดค่าปราณเคลื่อนที่ลง 300 แต้ม."
-BondKungfuEffect_风花雪月,"Inflict damage on enemies within self range, and inflict Internal Injury effect on the enemy, the higher the Musical of both parties, the higher the enemy's Internal Injury effect.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ, และสร้างสถานะ ""บาดเจ็บภายใน"" แก่ศัตรู, ยิ่งค่า""เชี่ยวชาญดนตรี""ของทั้งสองฝ่ายมากเท่าไร สถานะบาดเจ็บภายในแก่ศัตรูจะเพิ่มมากขึ้นเท่านั้น."
-BondKungfuEffect_其利断金,"Inflict damage on enemies within self range, after release both parties' next Attack will definitely be Critical.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ, หลังจากใช้วรยุทธนี้การโจมตีถัดไปของทั้งสองฝ่าย จะโจมตี ""คริติคอล""แน่นอน"
-BondKungfuEffect_佳偶天成,"Inflict damage on enemies within self range, the higher the Musical of both parties in this Attack, the higher the final Increases Damage obtained.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ, ยิ่งค่า""เชี่ยวชาญดนตรี""ของทั้งสองฝ่ายมากเท่าไรในการโจมตีนี้, ความเสียหายสุดท้ายที่ได้รับก็จะเพิ่มขึ้นมากเท่านั้น."
-BondKungfuEffect_百无禁忌,"Inflict damage on enemies within self range, and inflict Poisoned effect on the enemy, the higher the Toxicology of both parties, the higher the enemy's Poisoned effect.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ, และสร้างสถานะ ""พิษ"" แก่ศัตรู, ยิ่งค่า""ศาสตร์พิษ""ของทั้งสองฝ่ายมากเท่าไร สถานะพิษแก่ศัตรูจะเพิ่มมากขึ้นเท่านั้น."
-BondKungfuEffect_并蒂莲开,"Inflict damage on enemies within self range, and inflict Bleeding effect on the enemy, the higher the Short of both parties, the higher the enemy's Bleeding effect.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ, และสร้างสถานะ ""เลือดไหล"" แก่ศัตรู, ยิ่งค่า""เชี่ยวชาญอาวุธสั้น""ของทั้งสองฝ่ายมากเท่าไร สถานะเลือดไหลแก่ศัตรูจะเพิ่มมากขึ้นเท่านั้น."
-BondKungfuEffect_海誓山盟,"Inflict damage on enemies within self range, the higher the Blade of both parties in this Attack, the higher the final Increases Damage obtained.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ, ยิ่งค่า""เชี่ยวชาญดาบ""ของทั้งสองฝ่ายมากเท่าไรในการโจมตีนี้, ความเสียหายสุดท้ายที่ได้รับก็จะเพิ่มขึ้นมากเท่านั้น."
-BondKungfuEffect_暗香浮动,"Increase the Attack of friendly characters in range by 10%, Defense by 10%, and Action Speed by 25%, lasts for 1 action.","พรรคพวกที่อยู่ในระยะ เพิ่มพลังโจมตี 10%, พลังป้องกัน 10% และความเร็วท่าร่าง 25% มีผล 1 รอบ"
-BondKungfuEffect_凤舞九天,"Inflict damage on enemies within self range, after release both parties gain effect【<#29F161>Attack increase by 25%</color>, lasts for 1 action】.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ, หลังจากปล่อยทั้งคู่จะได้รับผล【<#29F161>พลังโจมตีเพิ่มขึ้น 25%</color> คงอยู่ 1 รอบ】 ."
+KungfuDesc_九流归一,"Inflict damage on enemies within a radius of 5 squares of yourself and pull them to your side;\nUnbroken Defense: No additional effects;\nBroken Defense: Inflict additional damage equal to 25% of the enemy's maximum HP, and 25% of this percentage damage will be converted into your own HP; the enemy's current MP decreases by 10%; recover 10% of your own MP.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องของตัวคุณเอง และดึงศัตรูเข้ามาหาตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีเอฟเฟกต์เพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติมเท่ากับ 25% ของ Max HP ของศัตรู และ 25% ของความเสียหายนี้จะถูกแปลงมาฟื้นฟูพลังชีวิตของคุณเอง MP ปัจจุบันของศัตรูลดลง 10%; ฟื้นฟู MP ของคุณเอง 10%"
+BondKungfuEffect_望穿秋水,"Inflict damage on enemies within range, additionally inflict <#29F161>10% of max HP as damage</color>, after release both sides gain the effect of【<#29F161>Accuracy increased by 50%</color>, when triggering Critical, <#29F161>Critical Increases Damage by 25%</color>, lasts 2 actions】.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังใช้วรยุทธทั้งสองฝ่ายจะได้รับผล ""【<#29F161>ความแม่นยำเพิ่มขึ้น 50%</color> เมื่อทำการโจมตีแบบคริติคอล <#29F161>ความเสียหายแบบคริติคอลเพิ่มขึ้น 25%</color> ผลลัพธ์คงอยู่ 2 รอบ】"
+BondKungfuEffect_比翼连枝,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>. After release, both parties gain the effect of【<#29F161>Action Speed increased by 15%, Evasion increased by 10%</color> for 2 actions】.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังจากใช้วรยุทธทั้งสองฝ่ายจะได้รับผลของ 【<#29F161>ความเร็วท่าร่างเพิ่มขึ้น 15% การหลบหลีกเพิ่มขึ้น 10%</color> เกิดผล 2 รอบ】.
+BondKungfuEffect_珠联璧合,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>. After release, both parties gain the effect of【<#29F161>Critical increased by 10%</color>, when Critical is triggered, <#29F161>Critical Increases Damage by 15%</color> for 2 actions】.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังใช้วรยุทธทั้งสองฝ่ายจะได้รับผล 【<#29F161>คริติคอลเพิ่มขึ้น 10%</color> เมื่อทำให้การโจมตีคริติคอล <#29F161>ความเสียหายคริติคอลเพิ่มขึ้น 15%</color> ผลลัพธ์คงอยู่ 2 รอบ】
+BondKungfuEffect_花开富贵,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>. After release, both parties gain the effect of【Spirit <#29F161>increased by an additional 50%</color> for 2 actions】.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังใช้วรยุทธทั้งสองฝ่ายจะได้รับผล【<#29F161>พลังใจเพิ่มขึ้น 50%</color> ผลลัพธ์คงอยู่ 2 รอบ】
+BondKungfuEffect_吟风弄月,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>. After release, both parties gain the effect of【<#29F161>Recover 10% of lost HP after action</color> for 2 actions】.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังใช้วรยุทธทั้งสองฝ่ายจะได้รับผล 【<#29F161>หลังลงมือฟื้นฟู 10% ของ HP ที่สูญเสียไป</color> เกิดผล 2 รอบ】
+BondKungfuEffect_相濡以沫,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>. After release, both parties gain the effect of【When using martial arts, only <#29F161>30% MP is consumed</color>, when Attacking, <#29F161>Final Damage is increased by 15%</color> for 2 actions】.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังใช้วรยุทธทั้งสองฝ่ายจะได้รับผล【เมื่อใช้วรยุทธ์ <#29F161>จะใช้ MP เพียง 30%</color> เมื่อโจมตี <#29F161>ความเสียหายสุดท้ายเพิ่มขึ้น 15%</color> ผลลัพธ์คงอยู่ 2 รอบ】
+BondKungfuEffect_海角天涯,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>. After release, both parties gain the effect of【<#29F161>Combo rate increased by 10%</color>, <#29F161>Critical increased by 10%</color> for 2 actions】.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังใช้วรยุทธทั้งสองฝ่ายจะได้รับผล【<#29F161>โจมตีต่อเนื่องเพิ่มขึ้น 10%</color>, <#29F161>คริติคอลเพิ่มขึ้น 10%</color> ผลลัพธ์คงอยู่ 2 รอบ】"
+BondKungfuEffect_白首相随,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>. After release, both parties gain the effect of【<#29F161>Parry increased by 10%</color>, when Parry is triggered, <#29F161>Parry Damage reduction effect increased by 15</color> for 2 actions】.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังจากใช้วรยุทธทั้งสองฝ่ายจะได้รับผล【<#29F161>ปัดป้องเพิ่มขึ้น 10%</color> เมื่อเกิดผลปัดป้อง <#29F161>ลดความเสียหายที่ปัดป้องได้ 15%</color> ผลลัพธ์คงอยู่ 2 รอบ】
+BondKungfuEffect_龙凤呈祥,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>. After release, both parties gain the effect of【<#29F161>Combo rate increased by 10%</color>, <#29F161>Action Speed increased by 25%</color> for 2 actions】.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ <#29F161>สร้างความเสียหาย 10% ของพลังชีวิตสูงสุด</color> หลังจากใช้งานทั้งสองฝ่ายจะได้รับผล【<#29F161>อัตราโจมตีต่อเนื่องเพิ่มขึ้น 10%</color>, <#29F161>ความเร็วท่าร่างเพิ่มขึ้น 25%</color> ผลลัพธ์คงอยู่ 2 รอบ】 ."
+BondKungfuEffect_金风玉露,"Inflict damage on enemies within self range, additionally causing <#29F161>10% of maximum HP damage</color>, while pushing back the enemy by 2 squares and reducing 300 points of energy.",สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> กระแทกศัตรูกลับไป 2 ช่อง และลดค่าปราณเคลื่อนที่ลง 300 แต้ม
+BondKungfuEffect_风花雪月,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, apply Internal Injury effect on enemies, the higher the Musical of both parties, the higher the Internal Injury effect on the enemy.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> และสร้างสถานะ ""บาดเจ็บภายใน"" แก่ศัตรู ยิ่งค่า""เชี่ยวชาญดนตรี""ของทั้งสองฝ่ายสูงเท่าไหร่ ค่าบาดเจ็บภายในที่สร้างแก่ศัตรูจะเพิ่มมากขึ้นเท่านั้น."
+BondKungfuEffect_其利断金,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, after release, both parties' next Attack will definitely be Critical.",สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> หลังจากใช้วรยุทธประสานนี้การโจมตีถัดไปของทั้งสองฝ่าย จะโจมตีคริติคอลแน่นอน
+BondKungfuEffect_佳偶天成,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, the higher the Musical of both parties in this Attack, the higher the final Increases Damage obtained.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> ยิ่งค่า""เชี่ยวชาญดนตรี""ของทั้งสองฝ่ายสูงเท่าไหร่ ความเสียหายสุดท้ายที่สร้างจะยิ่งสูงขึ้นมากเท่านั้น"
+BondKungfuEffect_百无禁忌,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, apply Poisoned effect on enemies, the higher the Toxicology of both parties, the higher the Poisoned effect on the enemy.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> และสร้างสถานะ ""พิษ"" แก่ศัตรู, ยิ่งค่า""ศาสตร์พิษ""ของทั้งสองฝ่ายสูงเท่าไหร่ ค่าพิษที่สร้างแก่ศัตรูจะเพิ่มมากขึ้นเท่านั้น."
+BondKungfuEffect_并蒂莲开,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, apply Bleeding effect on enemies, the higher the Short of both parties, the higher the Bleeding effect on the enemy.","สร้างความเสียหายแก่ศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> และสร้างสถานะ ""เลือดไหล"" แก่ศัตรู, ยิ่งค่า""เชี่ยวชาญอาวุธสั้น""ของทั้งสองฝ่ายมากเท่าไหร่ ค่าสถานะเลือดไหลที่สร้างแก่ศัตรูจะยิ่งเพิ่มมากขึ้นเท่านั้น."
+BondKungfuEffect_海誓山盟,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, the higher the Blade of both parties in this Attack, the higher the final Increases Damage obtained.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของ HP สูงสุด</color> ยิ่งค่าดาบของทั้งสองฝ่ายสูงเท่าไหร่ ความเสียหายสุดท้ายที่สร้างจะยิ่งสูงขึ้นมากเท่านั้น
+BondKungfuEffect_暗香浮动,"Increase Attack by 15%, Defense by 15%, and Action Speed by 30% for characters within range, lasting for 1 action.","เพิ่มพลังโจมตี 15%, พลังป้องกัน 15% และความเร็วท่าร่าง 30% ของพรรคพวกที่อยู่ในระยะ มีผล 1 รอบ"
+BondKungfuEffect_凤舞九天,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, after release, both parties obtain the effect of【<#29F161>Attack increased by 25%</color>, lasting for 1 action】.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของพลังชีวิตสูงสุด</color> หลังจากใช้งานทั้งสองฝ่ายจะได้รับผล【<#29F161>พลังโจมตีเพิ่ม 25%</color> คงอยู่ 1 รอบ]
 KunfuName_结缔,Assist,ช่วยเหลือ
 KunfuName_蓄力,Charge,รวมปราณ
 KunfuName_防御,Defense,ป้องกัน
@@ -116,7 +116,7 @@ KunfuName_轻身,Speed Up,เร่งความเร็ว
 KunfuName_暗器,Throwing,อาวุธลับ
 KunfuName_铁砂掌,Iron Sand Palm,ฝ่ามือทรายเหล็ก
 KunfuName_金刚刀法,Vajra Blade Technique,เพลงดาบวัชระ
-KunfuName_九阳大神功,Nine Yang Divine Skill,พลังเทพเก้าตะวัน
+KunfuName_九阳大神功,Nine Yang Divine Skill,พลังเทพเก้าเอี๊ยง
 KunfuName_吸星大法,Energy Taker Technique,วิชาดูดดาว
 KunfuName_左右互搏,Ambidextrous Combat,สองมือขัดแย้ง
 KunfuName_野狼普攻,Attack,โจมตี
@@ -141,10 +141,10 @@ KunfuName_动物撕裂,Tear,ฉีก
 KunfuName_动物冲撞,Slam,กระแทก
 KunfuName_动物顶撞,Rush,เร่งรีบ
 KunfuName_动物猛击,Strong Attack,โจมตีหนัก
-KunfuName_动物啮咬,Chew,เคี้ยว
+KunfuName_动物啮咬,Chew,กัด
 KunfuName_动物毒刺,Poisonous Vine,เหล็กในพิษ
-KunfuName_动物吐息,Earth Breath,ลมหายใจดิน
-KunfuName_动物喷火,Flame Breath,ลมหายใจเปลวไฟ
+KunfuName_动物吐息,Earth Breath,ลมหายใจสัตว์
+KunfuName_动物喷火,Flame Breath,ลมหายใจเพลิง
 KunfuName_动物狼捕食,Finishing Strike,จู่โจมถึงตาย
 KunfuName_动物碎骨击,Finishing Strike,จู่โจมถึงตาย
 KunfuName_动物千斤顶,Finishing Strike,จู่โจมถึงตาย
@@ -240,7 +240,7 @@ KunfuName_杨枝甘露,Water of Life,น้ำแห่งชีวิต
 KunfuName_飞蝶穿花,Fluttering Butterfly,ผีเสื้อโฉบบุปผา
 KunfuName_剑影纷纷,Sword Shadows,เงากระบี่
 KunfuName_劳燕分飞,Painful Separation,การแยกจากอันเจ็บปวด
-KunfuName_杀生证道,Slaughtering Way,ฆ่าพิสูจน์ความจริง
+KunfuName_杀生证道,Slaughtering Way,วิถีแห่งการสังหาร
 KunfuName_七佛灭罪真言,Seven Buddha Punishment Word,มนต์เจ็ดโพธิสัตว์ชำระบาป
 KunfuName_搜山检海,Leave No Stone Untouched,แสวงขุนเขาธารา
 KunfuName_轰地雷,Destruction Mines,กับระเบิด
@@ -258,9 +258,9 @@ KunfuName_花开富贵,Gorgeous Flower,บุปผางดงาม
 KunfuName_吟风弄月,Under The Moon,ใต้เงาจันทร์
 KunfuName_相濡以沫,A Friend In Need,ช่วยเหลือซึ่งกันและกัน
 KunfuName_海角天涯,Faraway Place,สุดขอบโลก
-KunfuName_白首相随,Accompanied by aging,ร่วมมือกับไป๋เฉียว
+KunfuName_白首相随,Accompanied by aging,ร่วมมือสอดประสาน
 KunfuName_龙凤呈祥,Dragon and Phoenix,หงส์คู่มังกร
-KunfuName_金风玉露,Golden Season,สายลมสารทน้ำค้างยามเช้า
+KunfuName_金风玉露,Golden Season,ลมสารทน้ำค้างหยก
 KunfuName_风花雪月,Fenghua Xueyue,วายุบุปผา หิมะจันทรา
 KunfuName_其利断金,Pull Together,สองคนหนึ่งใจ
 KunfuName_佳偶天成,A Happy Marriage,วิวาห์เปี่ยมสุข
@@ -291,7 +291,7 @@ KunfuName_闪电五连击,Five Thunderbolts,เบญจอสุนีบาต
 KunfuName_秋风掌法,Autumn Wind Palm Technique,ฝ่ามือสารทวายุ
 KunfuName_空空拳法,Empty Fist,หมัดสูญจำรัส
 KunfuName_寒魄冰心掌,Frozen Heart Palm,ฝ่ามือใจน้ำแข็ง
-KunfuName_清心玉女掌,Mind Clearing Maiden Palm,ฝ่ามือดรุณีฤทัยหยก
+KunfuName_清心玉女掌,Mind Clearing Maiden Palm,ฝ่ามือดรุณีหยกใจสงบ
 KunfuName_大力金刚掌,Powerful Diamond Palm,ฝ่ามือวัชระ
 KunfuName_凌空点穴手,Far Sealing Hand,ดรรชนีสกัดจุดกลางอากาศ
 KunfuName_灵蛇缠丝掌,Snake Bound Palm,ฝ่ามือพัวพันวิญญาณอสรพิษ
@@ -306,7 +306,7 @@ KunfuName_断魂爪,Soul Destroyer Claw,กรงเล็บสะบั้น�
 KunfuName_般若掌,Prajna Palm,ฝ่ามือปัญญา
 KunfuName_幻灭指,Disintegrating Finger,ดรรชนีสลายสิ้น
 KunfuName_碧落黄泉,Death Road,เส้นทางมรณะ
-KunfuName_破庙拳法,Abandoned Temple Fist,หมัดสิ้นลำลึกสถาน
+KunfuName_破庙拳法,Abandoned Temple Fist,หมัดสิ้นรำลึกสถาน
 KunfuName_断情掌,Cruel Palm,ฝ่ามือทะลวงใจ
 KunfuName_通天手,Omnipotent Hand,หัตถ์ทงเทียน
 KunfuName_碎玉掌,Jewel Breaker Palm,ฝ่ามือทลายหยก
@@ -340,7 +340,7 @@ KunfuName_柳生刀法,Willow Blade,เพลงดาบหลิวเซิ�
 KunfuName_西域刀法,Xiyu Blade,ดาบทะเลทราย
 KunfuName_风沙刀法,Sandstorm Blade,ดาบพายุทะเลทราย
 KunfuName_大蛮刀法,Brutal Blade,ดาบคนเถื่อน
-KunfuName_合月镰三式,Moon Phase Three Forms,ดาบเคียวพระจันทร์สามประสาน
+KunfuName_合月镰三式,Moon Phase Three Forms,สามดาบเคียวพระจันทร์
 KunfuName_修罗刀法,Shura Blade,ดาบอสุรา
 KunfuName_破甲刀法,Armor Breaker Blade,ดาบผ่าเกราะ
 KunfuName_剔骨刀法,Bone Cleaver Blade,ดาบเลาะกระดูก
@@ -348,17 +348,16 @@ KunfuName_柴刀刀法,Lumbering Blade,ดาบตัดไม้
 KunfuName_雁行刀法,Wild Goose Blade,ดาบห่านป่า
 KunfuName_霹雳刀法,Thunder Blade,ดาบอัสนี
 KunfuName_破军刀法,Ruinous Star Blade,ดาบทลายทัพ
-KunfuName_独狼刀法,Cruel Wolf Blade,เพลงดาบหมาป่าเดียวดาย
+KunfuName_独狼刀法,Cruel Wolf Blade,ดาบหมาป่าเดียวดาย
 KunfuName_碧磷刀法,Jade Blade,ดาบพิษมรกต
 KunfuName_怒流刀法,Furious Blade,ดาบคลั่งโหมกระหน่ำ
 KunfuName_七旋斩,Seven Spins Blade,7 ดาบหมุนเวียน
 KunfuName_纵横刀诀,Roaming Blade,ดาบสะบั้น
-KunfuName_烈火刀法,Flaming Blade,วิชาดาบเปลวอัคคี
+KunfuName_烈火刀法,Flaming Blade,ดาบเปลวอัคคี
 KunfuName_盘空刀法,Empty Blade,ดาบควงนภา
-KunfuName_庖丁解牛法,Ox Killer Blade,วิชาเผาติงแล่วัว
-KunfuName_叱咤刀法,Wind Cloud Blade,เพลงดาบคำราม
-KunfuName_无双刀法,Peerless Blade,เพลงดาบไร้ผู้เปรียบ
-KunfuName_九幽玄刹刀,Nether Killing Blade,ดาบผลาญเก้านรก
+KunfuName_庖丁解牛法,Ox Killer Blade,ดาบติงแล่วัว
+KunfuName_叱咤刀法,Wind Cloud Blade,เพลงดาบวายุเมฆา
+KunfuName_无双刀法,Peerless Blade,ดาบไร้ผู้เปรียบ
 KunfuName_蛮荒霸道斩,Savage Primal Blade,ดาบพิฆาตอำมหิต
 KunfuName_一刀斩,One Blade,พิฆาตในดาบเดียว
 KunfuName_天魔刀法,Archdemon Blade,ดาบมารสวรรค์
@@ -391,18 +390,18 @@ KunfuName_忘忧剑法,Forgotten Sword,เพลงกระบี่ลืม�
 KunfuName_星月剑法,Moon Star Sword,กระบี่จันทร์ดารา
 KunfuName_素女剑法,Pure Maiden Sword,กระบี่ดรุณีใจสงบ
 KunfuName_贪生剑法,Survival Sword,กระบี่เสียดายชีวิต
-KunfuName_无锋剑法,Windless Sword,วิชากระบี่ไร้คม
+KunfuName_无锋剑法,Windless Sword,เพลงกระบี่ไร้คม
 KunfuName_求败九式,Dugu Nine Swords,เก้ากระบี่เดียวดาย
 KunfuName_破天剑法,Sky Breaker Sword,เพลงกระบี่ทลายฟ้า
 KunfuName_磐龙剑法,Dragon Sword,เพลงกระบี่มังกร
 KunfuName_无极剑法,Infinity Sword,เพลงกระบี่ไร้สิ้นสุด
-KunfuName_无名剑法,Nameless Sword,กระบี่ไร้นาม
+KunfuName_无名剑法,Nameless Sword,เพลงกระบี่ไร้นาม
 KunfuName_浮华掠影剑,Illusion Sword,กระบี่เงาลวง
 KunfuName_恶煞枪法,Evil Spear,เพลงหอกปีศาจ
 KunfuName_腐尸枪法,Rotting Spear,เพลงหอกสลายซาก
 KunfuName_雷霆枪法,Thunder Spear,เพลงหอกอัสนี
 KunfuName_捕兽叉法,Beast Taming Trident,หอกคุมอสูร
-KunfuName_破阵大枪,Formation Breaker Spear,หอกทำลายค่าย
+KunfuName_破阵大枪,Formation Breaker Spear,หอกทลายทัพ
 KunfuName_六合枪法,Six Forms Spear,หอกหกประสาน
 KunfuName_梅花枪法,Flower Spear,หอกดอกเหมย
 KunfuName_中平枪法,Middle Stance Spear,หอกผ่ากลาง
@@ -411,9 +410,9 @@ KunfuName_黄泉引路枪,Death Bringer Spear,หอกเบิกทางย�
 KunfuName_七杀枪法,Power Star Spear,หอกเจ็ดพิฆาต
 KunfuName_叶家枪法,Ye Family Spear,เพลงหอกสกุลเย่
 KunfuName_飞龙枪法,Wyvern Spear,หอกมังกรบิน
-KunfuName_虎啸穿云枪,Tiger Howl Spear,เพลงหอกพยัคฆ์คำรามทะลวงเมฆา
+KunfuName_虎啸穿云枪,Tiger Howl Spear,หอกพยัคฆ์คำรามทะลวงเมฆา
 KunfuName_梨花枪法,Pear Blossom Spear,หอกหลีฮวา
-KunfuName_百鸟朝凰枪,Phoenix Ascension Spear,เพลงหอกวิหคเพลิงสวรรค์
+KunfuName_百鸟朝凰枪,Phoenix Ascension Spear,หอกร้อยวิหคเพลิงสวรรค์
 KunfuName_七探蛇盘枪,Scouting Snake Spear,เจ็ดหอกแสวงอสรพิษ
 KunfuName_沥泉枪法,Slipstream Spear,หอกธาราหยด
 KunfuName_九黎巫叉,Jiuli Trident,หอกตรีศูลจิ่วลี่
@@ -442,7 +441,7 @@ KunfuName_达摩杖法,Dharma Staff,ไม้เท้าโพธิธรร�
 KunfuName_撼地锤,Tremor Hammer,ค้อนสะเทือนปฐพี
 KunfuName_弓箭散射,Area Shot,พื้นที่จู่โจม
 KunfuName_精准射击,Precision Shot,ช็อตที่แม่นยำ
-KunfuName_擂山锤法,Thunder Mountain Hammer,ค้อนภูผาอัสนี
+KunfuName_擂山锤法,Thunder Mountain Hammer,ค้อนทลายภูผา
 KunfuName_金刚锤法,Diamond Hammer,ค้อนวัชระ
 KunfuName_流云飞扇,Drifting Cloud Fan,พัดเมฆาล่องลอย
 KunfuName_袖里回风,Returning Wind,ลมหวนกลับ
@@ -524,7 +523,7 @@ KunfuName_长兵纪要,Long Weapon Mastery,วิชาอาวุธยาว�
 KunfuName_短兵汇编,Short Weapon Mastery,วิชาอาวุธสั้นพื้นฐาน
 KunfuName_乐谱精粹,Musical Mastery,วิชาดนตรีพื้นฐาน
 KunfuName_儒雅风流,Elegant Romanticist,หรูหราสง่างาม
-KunfuName_吐故纳新术,Embrace The Future,เคล็ดปรับลมปราณ
+KunfuName_吐故纳新术,Embrace The Future,หมุนเวียนลมปราณ
 KunfuName_混元劲,Origin Technique,พลังต้นกำเนิด
 KunfuName_胎息功,Fetal Breathing Guide,ลมปราณครรภ์ทารก
 KunfuName_五禽戏,Five Animal Forms,กายบริหารห้าสัตว
@@ -538,7 +537,7 @@ KunfuName_多情诀,Passionate Manual,เคล็ดลับอันเร่
 KunfuName_铁浮屠,Levitational Steel,เจดีย์เหล็ก
 KunfuName_淬毒术,Toxication Skill,เคลือบพิษ
 KunfuName_永字八法,Calligraphy Eight Techniques,หลักแปดประการของยง
-KunfuName_叹息法,Sigh Method,เคล็ดปรับลมหายใจ
+KunfuName_叹息法,Sigh Method,เคล็ดปรับลมปราณ
 KunfuName_逆经转脉,Meridian Reversal,ลมปราณย้อนกลับ
 KunfuName_太极玄,Nether Taichi,พลังไท้เก๊ก
 KunfuName_横练金身,Forging Golden Body,กายาวัชระทองคำ
@@ -583,8 +582,8 @@ KunfuName_梵天圣功,Holy Brahma Technique,คัมภีร์พระเ�
 KunfuName_天女散花,Celestial Lady Scattering Flowers,เทพธิดาโปรยดอกไม้
 KunfuName_巫蛊毒功,Ancient Sage Poison Technique,มนตร์พิษโบราณ
 KunfuName_霓裳羽衣经,Dancing Garment Sutra,คัมภีร์อาภรณ์ร่ายรำ
-KunfuName_一刀流,One Blade Style,วิชาดาบเดียว
-KunfuName_无锋剑意,Windless Sword Qi,กระบี่ไร้ขอบเขต
+KunfuName_一刀流,One Blade Style,ปราณดาบเดียว
+KunfuName_无锋剑意,Windless Sword Qi,เจตกระบี่ไร้ขอบเขต
 KunfuName_通天伏魔功,Omnipotent Demon Sealing Move,พลังทงเทียนกำราบมาร
 KunfuName_兽血祭,Beast Blood Ritual,บูชายัญเลือดสัตว์
 KunfuName_祈禳大法,Prayer Manual,คัมภีร์ภาวนา
@@ -593,8 +592,7 @@ KunfuName_九霄真经,Heaven Sutra,คัมภีร์เก้าสวร�
 KunfuName_惊涛骇浪诀,Tsunami Manual,คลื่นพายุกระหน่ำ
 KunfuName_大日如来经,Vairocana Solar Sutra,ไวโรจนะมหาสูตร
 KunfuName_满江红,Prismatic River,แม่น้ำสีชาด
-KunfuName_烈阳心法,Solar Manual,คัมภีร์สุริยัน
-KunfuName_无极洞心法,Infinity Manual,พลังไร้ลักษณ์
+KunfuName_无极洞心法,Infinity Manual,ดาวเคลื่อนดาราคล้อย
 KunfuName_黄帝阴符经,Emperor Yin Yang Sutra,คัมภีร์หวงตี้อินฝู่
 先天属性_市井拳法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของค่า <#29F161>พลังกาย</color>
 先天属性_罗汉拳法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
@@ -699,7 +697,7 @@ KunfuName_黄帝阴符经,Emperor Yin Yang Sutra,คัมภีร์หวง�
 先天属性_西域刀法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของค่า <#29F161>พลังกาย</color>
 先天属性_风沙刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องแคล่ว</color>
 先天属性_大蛮刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
-先天属性_合月镰三式,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของค่า <#29F161>พลังกาย</color>
+先天属性_合月镰三式,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของค่า <#29F161>พละกำลัง</color>
 先天属性_修罗刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
 先天属性_破甲刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
 先天属性_剔骨刀法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องแคล่ว</color>
@@ -717,7 +715,6 @@ KunfuName_黄帝阴符经,Emperor Yin Yang Sutra,คัมภีร์หวง�
 先天属性_庖丁解牛法,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องแคล่ว</color>
 先天属性_叱咤刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
 先天属性_无双刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
-先天属性_九幽玄刹刀,"The higher the enemy's <#29F161>Sealed</color>, the higher your own damage.",ยิ่งศัตรูมีค่า<#29F161>สกัดจุด</color>มากเท่าไร ความเสียหายที่จะยิ่งเพิ่มขึ้นมากเท่านั้น
 先天属性_蛮荒霸道斩,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
 先天属性_一刀斩,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของค่า <#29F161>พลังกาย</color>
 先天属性_天魔刀法,Increase or decrease damage based on the difference in <#29F161>Constitution</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของค่า <#29F161>พลังกาย</color>
@@ -1112,15 +1109,15 @@ KungfuCastBuffInfo_贪狼剑法buff2,"When Sword reaches 50, the final Increases
 KungfuCastBuffInfo_苍穹剑法buff1,"When Sword reaches 50, it causes 15 points of Internal Injury to the enemy.","เมื่อค่ากระบี่ถึง 50, สร้างสถานะบาดเจ็บภายใน 15 แต้มแก่ศัตรู"
 KungfuCastBuffInfo_苍穹剑法buff2,"When Equipping an Epic or higher sword Weapon, the final Increases Damage by 60%.","เมื่อสวมใส่อาวุธกระบี่ระดับมหากาพย์ หรือสูงกว่า, ความเสียหายสุดท้ายจะเพิ่ม 60%"
 KungfuCastBuffInfo_太极剑法buff1,"When learning <#c851ff>Nether Taichi</color> internal skill, inflict Internal break effect on enemies with main internal skill below Legendary (lasts for 2 actions)【<#F3DE99>Internal break: Unable to trigger Main Internal effect</color>】.","เมื่อเรียนรู้กำลังภายใน <#c851ff>พลังไท้เก๊ก</color> จะสร้างสถานะ""กำลังภายในติดขัด""แก่ศัตรูที่มีกำลังภายในหลักต่ำกว่าระดับตำนาน (คงอยู่ 2 รอบ) 【<#F3DE99>กำลังภายในติดขัด: ไม่สามารถใช้งานความสามารถกำลังภายในหลักได้</color>】"
-KungfuCastBuffInfo_太极剑法buff2,"For every point that self Sword is higher than the enemy's, the enemy's energy gathering decreases by 1 point, up to a maximum of 100 points.",ทุกๆค่ากระบี่ที่สูงกว่าศัตรู จะลดปราณเคลื่อนที่ของศัตรูลง 1 แต้ม สูงสุดที่ 100 แต้ม
+KungfuCastBuffInfo_太极剑法buff2,"For every 1 point your Sword is higher than the enemy's, reduce the enemy's Qi by 1 point, up to a maximum reduction of 200 points.",ทุกๆ ค่ากระบี่ที่สูงกว่าศัตรู จะลดปราณเคลื่อนที่ของศัตรูลง 1 แต้ม สูงสุดที่ 200 แต้ม
 KungfuCastBuffInfo_无情剑法buff1,"When Sword reaches 50, it causes 15 points of Bleeding to the enemy.","เมื่อค่ากระบี่ถึง 50, จะสร้างสถานะเลือดไหล 15 แต้ม แก่ศัตรู"
 KungfuCastBuffInfo_无情剑法buff2,"When there are no teammates in the battlefield, Attack Increases Damage by 100%.","เมื่อไม่มีเพื่อนร่วมทีมในสนามรบ, โจมตีจะเพิ่มความเสียหาย 100%"
-KungfuCastBuffInfo_岁寒三友buff1,"When the main internal skill is Harmonious, it causes 15 points of Internal Injury to the enemy.","เมื่อกำลังภายในหลักเป็นกลาง, จะทำให้ศัตรูได้รับบาดเจ็บภายใน 15 คะแนน"
+KungfuCastBuffInfo_岁寒三友buff1,"When the main internal skill is Harmonious, it causes 15 points of Internal Injury to the enemy.",เมื่อกำลังภายในหลักเป็นหยิน จะทำให้ศัตรูได้รับสถานะบาดเจ็บภายใน 15 แต้ม
 KungfuCastBuffInfo_岁寒三友buff2,"When Equipping an Epic or higher sword Weapon, the final Increases Damage by 60%.","เมื่อสวมใส่อาวุธกระบี่ระดับมหากาพย์ หรือสูงกว่า, ความเสียหายสุดท้ายจะเพิ่ม 60%"
 KungfuCastBuffInfo_忘忧剑法buff1,"When the Equipped Weapon is a <#c851ff>Shadow sword</color>, it causes 15 points of Blinded to the enemy and reduces their Spirit by 25 points.",เมื่อสวมใส่อาวุธเป็น <#c851ff>กระบี่ล่องหน</color> จะทำให้ศัตรูตาบอด 15 แต้ม และลดพลังใจพวกเขา 25 แต้ม
 KungfuCastBuffInfo_忘忧剑法buff2,"When Dexterity reaches 10, it causes 15 points of Bleeding to the enemy.","เมื่อค่า""คล่องแคล่ว""ถึง 10, จะทำให้ศัตรูติดสถานะเลือดไหล 15 แต้ม"
 KungfuCastBuffInfo_素女剑法buff1,"When Benevolence reaches 100, it reduces 25 points of Spirit to the enemy.","หากค่าศีลธรรมเพิ่มถึง 100, จะลดพลังใจศัตรูลง 25 แต้ม."
-KungfuCastBuffInfo_素女剑法buff2,"When releasing martial arts as a female, the final Increases Damage by 60%.","เมื่อตัวละครหญิงใช้วิทยายุทธนี้, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 60%"
+KungfuCastBuffInfo_素女剑法buff2,"When the user is female, the final damage is increased by 60%.","เมื่อตัวละครหญิงใช้วิทยายุทธนี้, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 60%"
 KungfuCastBuffInfo_贪生剑法buff1,"When the main internal skill is Yin, it causes 15 points of Bleeding to the enemy.",เมื่อกำลังภายในหลักเป็นหยิน จะทำให้ศัตรูได้รับสถานะเลือดไหล 15 แต้ม
 KungfuCastBuffInfo_贪生剑法buff2,"When Courage is below 0, for every 1 point decrease in Courage, the final Increases Damage by 0.8%.",เมื่อความกล้าหาญต่ำกว่า 0 ทุกๆ 1 แต้มที่ความกล้าหาญลดต่ำลง ความเสียหายสุดท้ายจะเพิ่มขึ้น 0.8%
 KungfuCastBuffInfo_无锋剑法buff1,"When the protagonist's internal skill is Yang, Attack can Pierce enemy's Legendary or below armor attributes and effects.","เมื่อกำลังภายในหลักของตัวเอกคือ""หยาง"",การโจมตีสามารถเจาะทะลุค่าสถานะหลักและประสิทธิภาพของเกราะศัตรูระดับตำนานหรือต่ำกว่าได้"
@@ -1252,7 +1249,7 @@ KungfuCastBuffInfo_高山流水buff1,"When Musical reaches 50, it reduces the en
 KungfuCastBuffInfo_高山流水buff2,"When equipping Epic or above MusicalWeapon, final damage increases by 60%.","เมื่อสวมใส่อาวุธประเภทเครื่องดนตรีระดับมหากาพย์ หรือสูงกว่า, ความเสียหายสุดท้ายจะเพิ่ม 60%"
 KungfuCastBuffInfo_广陵散buff1,"For every 10 points higher your Musical is than the enemy's Musical, it causes 1 point of Internal Injury to the enemy, up to a maximum of 20 points of Internal Injury.","ทุกๆ 10 คะแนนที่ความชำนาญดนตรีคุณสูงกว่าของศัตรู, จะทำให้ศัตรูได้รับ บาดเจ็บภายใน 1 แต้ม สูงสุดไม่เกิน 20 แต้มของการบาดเจ็บภายใน"
 KungfuCastBuffInfo_广陵散buff2,"For every 10 points higher your current MP is than the enemy's current MP, it reduces the enemy's energy by 1 point, up to a maximum reduction of 300 points.",ทุกๆ 10 แต้มที่ MP ปัจจุบันของคุณสูงกว่าของศัตรู ค่าปราณเคลื่อนที่ของศัตรูลง 1 แต้ม สูงสุดคือ 300 แต้ม
-KungfuCastBuffInfo_广陵散buff3,"The higher the enemy's Internal Injury, the higher the damage they receive. For every 1 point of Internal Injury, the final damage increases by 1.2%.",ยิ่งศัตรูได้รับบาดเจ็บภายในมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 คะแนนของการบาดเจ็บภายใน ความเสียหายสุดท้ายจะเพิ่มขึ้น 1.2%
+KungfuCastBuffInfo_广陵散buff3,"The higher the enemy's Internal Injury, the higher the damage they receive. For every 1 point of Internal Injury, the final damage increases by 1.2%.",ยิ่งศัตรูได้รับบาดเจ็บภายในมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มค่าบาดเจ็บภายใน ความเสียหายสุดท้ายจะเพิ่มขึ้น 1.2%
 KungfuCastBuffInfo_潇湘水云buff1,"For every 10 points higher your Musical is than the enemy's Musical, it causes 1 point of Internal Injury to the enemy, up to a maximum of 15 points of Internal Injury.","ทุกๆ 10 คะแนนที่ความชำนาญดนตรีคุณสูงกว่าของศัตรู, จะทำให้ศัตรูได้รับ บาดเจ็บภายใน 1 แต้ม สูงสุดไม่เกิน 15 แต้มของการบาดเจ็บภายใน"
 KungfuCastBuffInfo_潇湘水云buff2,"The higher the enemy's Internal Injury, the higher the damage they receive. Each point of Internal Injury increases the final damage by 1%.","ยิ่งศัตรูมีค่าบาดเจ็บภายในมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้นเท่านั้น, ทุกๆ แต้มของค่าบาดเจ็บภายในความเสียหายสุดท้ายจะเพิ่มขึ้น 1%"
 KungfuCastBuffInfo_傲江湖buff1,"For every 125 points that your current MP is higher than the enemy's current MP, inflict 1 point of Internal Injury on the enemy, up to a maximum of 25 points of Internal Injury.",ทุกๆ 125 แต้มที่ MP ปัจจุบันของคุณสูงกว่าของศัตรู จะสร้างสถานะบาดเจ็บภายใน 1 แต้มแก่ศัตรู สูงสุดไม่เกิน 25 แต้มของการบาดเจ็บภายใน
@@ -1304,7 +1301,7 @@ KungfuCastBuffInfo_风卷残云式buff2,"When Passive activates ""Windwalker"", 
 KungfuCastBuffInfo_风雷刺法buff1,"For every 1 point your Dexterity is higher than the enemy's Dexterity, inflict 1 point of Blinded on the enemy, up to a maximum of 15 points of Blinded.","ทุกๆ 1 แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าศัตรู, จะสร้างสถานะ""ตาบอด""ให้ศัตรู 1 แต้ม สูงสุด 15 แต้ม"
 KungfuCastBuffInfo_风雷刺法buff2,"For each point that personal Dexterity is higher than enemy's Constitution, this AttackCritical increases by 1%, up to a maximum of 20%.","ทุกๆ แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าค่า""พลังกาย""ของศัตรู, การโจมตีคริติคอลเพิ่มขึ้น 1% สูงสุด 20%"
 KungfuCastBuffInfo_海蛟夺命刺buff1,"For every 1 point your Dexterity is higher than the enemy's Constitution, inflict 1 point of Bleeding on the enemy, up to a maximum of 15 points of Bleeding.","สำหรับทุกๆ 1 แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่า""พลังกาย""ของศัตรู, จะสร้างสถานะเลือดไหลให้ศัตรู 1 แต้ม สูงสุดไม่เกิน 15 แต้ม"
-KungfuCastBuffInfo_海蛟夺命刺buff2,"The higher the enemy's Bleeding, the higher the damage they receive. Each point of Bleeding increases the final damage by 1%.",ยิ่งศัตรูค่าเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มเลือดไหลจะเพิ่มความเสียหายสุดท้าย  1%
+KungfuCastBuffInfo_海蛟夺命刺buff2,"The higher the enemy's Bleeding, the higher the damage they receive. Each point of Bleeding increases the final damage by 1%.",ยิ่งศัตรูค่าเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มเลือดไหลจะเพิ่มความเสียหายสุดท้าย 1%
 KungfuCastBuffInfo_鹧鸪天buff1,"Reduce the enemy's Spirit by 25 points when attacking, and gain an additional 25 points of Spirit for yourself.",ลดพลังใจของศัตรูลง 25 แต้มเมื่อโจมตี และได้รับพลังใจเพิ่ม 25 แต้มสำหรับตัวคุณเอง
 KungfuCastBuffInfo_鹧鸪天buff2,"For every 10 points higher your Musical is than the enemy's Musical, it causes 1 point of Internal Injury to the enemy, up to a maximum of 15 points of Internal Injury.","ทุกๆ 10 คะแนนที่ค่า""ดนตรี""คุณสูงกว่าของศัตรู, จะทำให้ศัตรูได้รับบาดเจ็บภายใน 1 แต้ม สูงสุดไม่เกิน 15 แต้ม"
 KungfuCastBuffInfo_梅花三弄buff1,"For every 10 points your Musical is higher than the enemy's Musical, reduce the enemy's Action Speed by 1%, up to a maximum reduction of 15%, lasting until the enemy's next action.","ทุกๆ 10 แต้ม ความชำนาญดนตรีของคุณสูงกว่าของศัตรู, ลดความเร็วท่าร่างของศัตรูลง 1% สูงสุดที่ลดลง 15% ยาวนานจนกระทั่งถึงรอบต่อไปของศัตรู"
@@ -1357,7 +1354,7 @@ KungfuMove_招式风起浪涌,"Wind Rising, Waves Surging",ลมพัดคล
 KungfuMove_招式顾盼生姿,Graceful Glance,รอคอยชีวิต
 KungfuMove_招式煞冲霄汉,Dashing to the Sky,ทะยานสู่ฟ้า
 KungfuMove_招式天道无常,Unpredictable Heaven,สวรรค์ไม่เที่ยง
-KungfuMove_招式阴晴圆缺,Changing Moon and Sun,สลับจันทรา
+KungfuMove_招式阴晴圆缺,Changing Moon and Sun,สลับตะวันและจันทรา
 KungfuMove_招式神游物外,Spirit Roaming Beyond,วิญญาณสัญจร
 KungfuMove_招式烈焰滔滔,Blazing Flames,อัคคีโหมกระหน่ำ
 KungfuMove_招式如封似闭,Sealing wind,สกัดวายุ
@@ -1431,7 +1428,7 @@ KungfuMove_招式天地初分,The First Division of Heaven and Earth,แบ่�
 KungfuMove_招式疯癫入魔,Madness and Possession,บ้าคลั่งครอบงำ
 KungfuMove_招式拨云见日,Parting Clouds to See the Sun,เบิกเมฆเห็นตะวัน
 KungfuMove_招式风起云涌,Wind Rising and Clouds Surging,กระแสคลื่นโหมซัดสาด
-KungfuMove_招式移星换斗,Moving Stars and Changing Dippers,โยกเดือนย้ายดาว
+KungfuMove_招式移星换斗,Moving Stars and Changing Dippers,เคลื่อนย้ายดวงดาว
 KungfuMove_招式推山填海,Mountain Mover,เคลื่อนภูผาถมสมุทร
 KungfuMove_招式一飞冲天,Soaring into the Sky,ทะยานเหนือนภา
 KungfuMove_招式飞龙在天,Flying Dragon in the Sky,มังกรบินทะยานฟ้า
@@ -1498,8 +1495,8 @@ KungfuMove_招式望穿秋水,Endearing Wait,ลวงเล่ห์เสน�
 KungfuMove_招式狼捕食,Wolf Hunting,ล่าหมาป่า
 KungfuMove_招式碎骨击,Bone Crushing Strike,จู่โจมป่นกระดูก
 KungfuMove_招式千斤顶,Thousand Pound Lift,ยกพันชัง
-KungfuMove_招式狂犬吠,Rabid Dog Barking,หมาบ้าเห่า
-KungfuMove_招式斗鸡啄,Chicken Pecking,ระกากระหน่ำจิก
+KungfuMove_招式狂犬吠,Rabid Dog Barking,หมาบ้าคำราม
+KungfuMove_招式斗鸡啄,Chicken Pecking,ไก่กระหน่ำจิก
 KungfuMove_招式蝎尾刺,Scorpion Tail Sting,พิษหางแมงป่อง
 KungfuMove_招式蛇牙毒,Snake Fang Poison,พิษเขี้ยวงู
 KungfuMove_招式百爪千挠,Hundred Claws Thousand Scratches,ร้อยกรงเล็บพันรอยขีดข่วน
@@ -1516,31 +1513,31 @@ KungfuLevel_10,10,สิบ
 ButtonTip_Heal,"Heal friendly Characters within a certain range, RecoveryHP{0} points, Bleeding value decreases by {1} points.","รักษาตัวละครฝ่ายเดียวกันในระยะที่กำหนด, ฟื้นคืนพลังชีวิต {0} แต้ม, ลดสถานะเลือดไหลลง {1} แต้ม"
 ButtonTip_Poison,"Poison enemy Characters within a certain range, Poisoned value increases by {0} points.",เมื่อตัวละครใช้พิษในขอบเขตที่กำหนด จะเพิ่มระดับพิษตาม {0} แต้ม
 ButtonTip_Detoxify,"Detoxify friendly Characters within a certain range, Poisoned value decreases by {0} points.","ขจัดพิษตัวละครฝ่ายเดียวกันภายในระยะที่กำหนด, สถานะติดพิษลดลง {0} แต้ม"
-ButtonTip_Focus,"After using Charge, the final damage caused by the next action Increases by 50%.","หลังจากใช้ ""รวมปราณ"" ความเสียหายสุดท้ายที่เกิดจากการกระทำครั้งต่อไปจะเพิ่มขึ้น 50%"
-ButtonTip_Defence,"After using Defense, the final damage received before the next action is reduced by 50%.","หลังจากใช้ ""ป้องกัน"" ความเสียหายสุดท้ายที่เกิดก่อนการกระทำครั้งต่อไปลดลง 50%"
+ButtonTip_Focus,"After using Charge, Critical increases by 100%, lasting until the next action.","หลังจากใช้ทักษะ ""รวมปราณ"" คริติคอลเพิ่มขึ้น 100% คงอยู่ถึงการกระทำครั้งต่อไป"
+ButtonTip_Defence,"After using Defense, Parry increases by 100%, lasting until the next action.","หลังจากใช้ทักษะ ""ป้องกัน"" ปัดป้องเพิ่มขึ้น 100% คงอยู่ถึงการกระทำครั้งต่อไป"
 ButtonTip_Breath,"Help friendly Characters within a certain range to recuperate, Internal Injury value decreases by {0} points.","ช่วยเหลือตัวละครฝ่ายเดียวกันในระยะที่กำหนดฟื้นสถานะ ""บาดเจ็บภายใน"", ค่าสถานะ ""บาดเจ็บภายใน"" ลดลง {0} แต้ม"
 ButtonTip_EnhanceSpeed,"After using Speed Up, Movement Range increases by 1 square, Action Speed increases by 25 points, lasts until the next action.","หลังจากใช้ ""เร่งความเร็ว"" ระยะการเคลื่อนที่จะเพิ่มขึ้น 1 ช่อง, ความเร็วท่าร่างเพิ่มขึ้น 25 แต้ม และคงอยู่จนกระทั่งถึงการกระทำครั้งต่อไป"
 KungfuDesc_闪电五连击,
-KungfuDesc_潜龙勿用,"Cause damage to enemies within a radius of 5 squares of yourself;\nNo defense break: no additional effects;\nDefense break: additionally cause 25% of the enemy's max HP damage, and the next attack will definitely combo, reducing the enemy's defense by 10% (lasts 1 action).",สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องของตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 25% ของ Max HP สูงสุดของศัตรู และการโจมตีครั้งต่อไปจะเป็นโจมตีต่อเนื่องอย่างแน่นอน ลดพลังป้องกันของศัตรูลง 10% (คงอยู่ 1 การกระทำ)
-KungfuDesc_飞龙在天,"Cause damage to enemies within a 5x7 range in front;\nNo defense break: no additional effects;\nDefense break: additionally cause 25% of the enemy's max HP damage, and reduce the enemy's action speed by 15%; increase self action speed by 15%.",สร้างความเสียหายให้กับศัตรูในระยะ 5x7 ด้านหน้า\nไม่มีการหยุดการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nการหยุดป้องกัน: สร้างความเสียหายเพิ่มเติม 25% ของ Max HP สูงสุดของศัตรู และลดความเร็วท่าร่างของศัตรูลง 15% เพิ่มความเร็วท่าร่างของตนเอง 15%
-KungfuDesc_千里冰封,"Cause damage to enemies within a 5x5 range in front;\nNo defense break: no additional effects;\nDefense break: additionally cause 20% of the enemy's max HP damage, reduce the enemy's action speed by 25%, reduce 175 points of energy, and unable to move (lasts 1 action).",สร้างความเสียหายให้กับศัตรูในระยะ 5x5 ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู ลดความเร็วท่าร่างของศัตรูลง 25% ลดค่าปราณเคลื่อนที่ 175 แต้ม และไม่สามารถเคลื่อนที่ได้ (คงอยู่ 1 รอบ)
+KungfuDesc_潜龙勿用,"Cause damage to enemies within a radius of 5 squares of yourself;\nNo defense break: no additional effects;\nDefense break: additionally cause 25% of the enemy's max HP damage, and the next attack will definitely combo, reducing the enemy's defense by 10% (lasts 1 action).","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่องของตัวเอง\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 25% ของ Max HP สูงสุดของศัตรู และการโจมตีครั้งต่อไปจะเป็นโจมตีต่อเนื่องอย่างแน่นอน ลดพลังป้องกันของศัตรูลง 10% (คงอยู่ 1 การกระทำ)"
+KungfuDesc_飞龙在天,"Cause damage to enemies within a 5x7 range in front;\nNo defense break: no additional effects;\nDefense break: additionally cause 25% of the enemy's max HP damage, and reduce the enemy's action speed by 15%; increase self action speed by 15%.","สร้างความเสียหายให้กับศัตรูในระยะ 5x7 ด้านหน้า\nไม่มีการหยุดการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nการหยุดป้องกัน: สร้างความเสียหายเพิ่มเติม 25% ของ Max HP สูงสุดของศัตรู และลดความเร็วท่าร่างของศัตรูลง 15% เพิ่มความเร็วท่าร่างของตนเอง 15%"
+KungfuDesc_千里冰封,"Cause damage to enemies within a 5x5 range in front;\nNo defense break: no additional effects;\nDefense break: additionally cause 20% of the enemy's max HP damage, reduce the enemy's action speed by 25%, reduce 175 points of energy, and unable to move (lasts 1 action).","สร้างความเสียหายให้กับศัตรูในระยะ 5x5 ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู ลดความเร็วท่าร่างของศัตรูลง 25% ลดค่าปราณเคลื่อนที่ 175 แต้ม และไม่สามารถเคลื่อนที่ได้ (คงอยู่ 1 รอบ)"
 KungfuDesc_大居合斩,"Inflict damage on enemies within a 5-grid radius of yourself;\nUnbroken Defense: No additional effects;\nBroken Defense: AttackPierce enemy's armor attributes and effects, Pierce enemy's Defense value to directly inflict damage, and inflict 100 points of Bleeding.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่อง\nหากไม่ทำลายการป้องกัน: ไม่มีผลเพิ่มเติม\n    เมื่อป้องกันถูกทำลาย: การโจมตีเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรู, สร้างความเสียหายโดยตรงไม่สนใจค่าพลังป้องกันของศัตรู และสร้างสถานะเลือดไหล 100 แต้ม"
-KungfuDesc_血魔斩,"Inflict damage on enemies within a fan-shaped range (5-grid radius) in front of you;\nUnbroken Defense: No additional effects;\nBroken Defense: Inflict additional damage equal to 20% of the enemy's maximum HP, and gain 10% Attack and Defense for yourself after killing the enemy (lasts for 1 action).",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 5 ตาราง) ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู และหากสังหารศัตรูได้จะได้รับพลังโจมตีและพลังป้องกันเพิ่มขึ้น 10% (คงอยู่ 1 รอบ)
-KungfuDesc_落英缤纷,"Inflict damage on enemies within a 4×5 range in front of you;\nUnbroken Defense: No additional effects;\nBroken Defense: Inflict additional damage equal to 10% of the enemy's maximum HP, and inflict 50 points of Blinded.",สร้างความเสียหายให้กับศัตรูในระยะ 4×5 ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และเพิ่มสถานะตาบอด 50 แต้ม
+KungfuDesc_血魔斩,"Inflict damage on enemies within a fan-shaped range (5-grid radius) in front of you;\nUnbroken Defense: No additional effects;\nBroken Defense: Inflict additional damage equal to 20% of the enemy's maximum HP, and gain 10% Attack and Defense for yourself after killing the enemy (lasts for 1 action).","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 5 ตาราง) ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู และหากสังหารศัตรูได้จะได้รับพลังโจมตีและพลังป้องกันเพิ่มขึ้น 10% (คงอยู่ 1 รอบ)"
+KungfuDesc_落英缤纷,"Inflict damage on enemies within a 4×5 range in front of you;\nUnbroken Defense: No additional effects;\nBroken Defense: Inflict additional damage equal to 10% of the enemy's maximum HP, and inflict 50 points of Blinded.","สร้างความเสียหายให้กับศัตรูในระยะ 4×5 ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nเมื่อป้องกันถูกทำลาย: สร้างความเสียหายเพิ่มเติม 10% ของ Max HP ของศัตรู และเพิ่มสถานะตาบอด 50 แต้ม"
 KunfuName_喵之觉醒,~o( =∩ω∩= )m,~o( =∩ω∩= )m
 KungfuCastBuff_喵之觉醒buff1,Awakening of the Cat,แมวตื่น
 KungfuCastBuffInfo_喵之觉醒buff1,"Attack can only inflict 1024 points of damage, can only awaken once in a battle.","การโจมตีสามารถสร้างความเสียหายได้เพียง 1,024 แต้ม สามารถปลุกพลังได้เพียงครั้งเดียวในการต่อสู้"
-KunfuName_潜龙勿用,"Hidden Dragon, Don't Use","มังกรซ่อน, อย่าใช้"
+KunfuName_潜龙勿用,"Hidden Dragon, Don't Use",มังกรซ่อนกาย
 KunfuName_飞龙在天,Flying Dragon in the Sky,มังกรบินทะยานฟ้า
-KunfuName_千里冰封,Frozen Field,ดินแดนเหมันต์
+KunfuName_千里冰封,Frozen Miles,ดินแดนเหมันต์
 KunfuName_大居合斩,Great Iai Slash,ท่าฟันอิไอขั้นสุด
-KunfuName_血魔斩,Blood Demon Slash,เพลงดาบอสูรโลหิต
+KunfuName_血魔斩,Blood Demon Slash,ดาบอสูรโลหิต
 KunfuName_落英缤纷,Falling Flower Petals,กลีบบุปผาโปรยปราย
 KunfuName_天外流星,Shooting Star,วิชาดาวตกนอกฟ้า
 KunfuName_怒潮心法,Raging Waves Manual,พลังคลื่นคลั่ง
 KunfuName_醉仙诀,Drunken Technique,วิชาเซียนหมัดเมา
 KunfuName_驭人心经,Ruler Heart Sutra,คัมภีร์ควบคุมหฤทัยสูตร
-KunfuName_烈阳焚天诀,Burning Sun Technique,พลังเพลิงสุริยันผลาญสวรรค์
+KunfuName_烈阳焚天诀,Burning Sun Technique,เพลิงสุริยันผลาญสวรรค์
 KunfuName_九幽寒霜气,Absolute Zero Qi,พลังปราณเก้าอิมเหมันต์
 先天属性_天外流星,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องแคล่ว</color>
 KungfuCastBuff_地趟刀法buff1,Effect One,ผลที่ 1
@@ -1663,7 +1660,7 @@ KungfuCastBuffInfo_疾风斩buff1,"When your Dexterity is higher than the enemy'
 KungfuCastBuffInfo_开山刀法buff1,"When causing the Parry effect on the enemy, the enemy additionally receives 10 points of Bleeding.","เมื่อทำให้ศัตรูเกิดปัดป้อง, สร้างสถานะเลือดไหล 10 แต้มแก่ศัตรู"
 KungfuCastBuffInfo_荡寇刀法buff1,"When learning the <#00c6f3>Ox Power</color> internal skill, if a Critical is triggered, then Critical Increases Damage by 20%.",เมื่อเรียนรู้กำลังภายใน <#00c6f3>พลังวัวคลั่ง</color> หากเกิดคริติคอล จะเพิ่มความเสียหายคริติคอล 20%
 KungfuCastBuffInfo_疾风八斩法buff1,"When Benevolence is above 0, for every 10 points, the final Increases Damage by 3.5%.","เมื่อค่า""ศีลธรรม""มีค่ามากกว่า 0 ทุกๆ 10 แต้ม, จะเพิ่มความเสียหายสุดท้ายขึ้น 3.5%"
-KungfuCastBuffInfo_九江刀法buff1,"When Relations with Jiujiang Water Camp are above 0, for every 10 points of Relations, the final Increases Damage by 3.5%.",เมื่อความสัมพันธ์กับค่ายน้ำจิ่วเจียงมีค่ามากกว่า 0 สำหรับทุก ๆ 10 คะแนนความสัมพันธ์ ความเสียหายสุดท้ายจะเพิ่มขึ้น 3.5%
+KungfuCastBuffInfo_九江刀法buff1,"When Relations with Jiujiang Fotress are above 0, for every 10 points of Relations, the final Increases Damage by 3.5%.",เมื่อความสัมพันธ์กับค่ายน้ำจิ่วเจียงมีค่ามากกว่า 0 สำหรับทุก ๆ 10 คะแนนความสัมพันธ์ ความเสียหายสุดท้ายจะเพิ่มขึ้น 3.5%
 KungfuCastBuffInfo_柳生刀法buff1,"For every point your Dexterity is higher than the enemy's Dexterity, the final Increases Damage by 3.5%, up to a maximum increase of 35%.","ทุกๆ แต้มที่""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 3.5% สูงสุด 35%"
 KungfuCastBuffInfo_西域刀法buff1,"The higher the enemy's Bleeding, the higher the damage they receive. For every 1 point of Bleeding, the final Increases Damage by 0.45%.",ยิ่งศัตรูเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มเลือดไหลจะเพิ่มความเสียหายสุดท้าย 0.45%
 KungfuCastBuffInfo_大蛮刀法buff1,"When learning the <#00c6f3>Levitational Steel</color> internal skill, the final Increases Damage by 25%.",เมื่อเรียนรู้กำลังภายใน <#00c6f3>เจดีย์เหล็ก</color> สร้างความเสียหายสุดท้ายเพิ่มขึ้น 25%
@@ -1675,7 +1672,7 @@ KungfuCastBuffInfo_霹雳刀法buff1,"When causing the Parry effect on the enemy
 KungfuCastBuffInfo_霹雳刀法buff2,"The higher the enemy's Bleeding, the higher the damage they receive. Each point of Bleeding increases the final damage by 1%.",ยิ่งศัตรูมีแต้มเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของสถานะเลือดไหลความเสียหายสุดท้ายจะเพิ่มขึ้น 1%
 KungfuCastBuffInfo_碧磷刀法buff1,"For every 10 points your Toxicology is higher than the enemy's Toxicology, you cause 1 point of Poisoned on the enemy, up to a maximum of 30 points of Poisoned.",ทุกๆ 10 แต้มที่ศาสตร์พิษของคุณสูงกว่าของศัตรู จะสร้างสถานะติดพิษ 1 แต้มแก่ศัตรู สูงสุด 30 แต้ม
 KungfuCastBuffInfo_碧磷刀法buff2,"The higher the enemy's Poisoned, the higher the damage they receive. Every 1 point of Poisoned increases final damage by 1%.",ยิ่งศัตรูถูกพิษมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มของติดพิษจะเพิ่มความเสียหายสุดท้าย 1%
-KungfuCastBuffInfo_无双刀法buff1,"For every point your Blade is higher than the enemy's, the final Increases Damage by 25%, up to a maximum increase of 250%.","ทุกๆ แต้มที่ค่าดาบของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 25% สูงสุด 250%"
+KungfuCastBuffInfo_无双刀法buff1,"For every point your Blade is higher than the enemy's, the final Increases Damage by 1%, up to a maximum increase of 250%.","ทุกๆ แต้มที่ค่าดาบของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 25% สูงสุด 250%"
 KungfuCastBuffInfo_无双刀法buff2,Reduce the enemy's Qi by 200 points.,ลดค่าปราณเคลื่อนที่ศัตรู 200 แต้ม
 KungfuCastBuffInfo_无双刀法buff3,Clear all of the enemy's Spirit.,ล้างพลังใจของศัตรูทั้งหมด
 KungfuCastBuffInfo_一刀斩buff1,"When the main internal skill is Legendary Yang, the attack on the enemy will definitely be Critical, and this effect lasts until the next action.","เมื่อกำลังภายในหลักคือ""หยาง""ระดับตำนาน, การโจมตีใส่ศัตรูจะติดคริติคอลแน่นอน และผลนี้จะอยู่ถึงการกระทำครั้งต่อไป"
@@ -1690,7 +1687,7 @@ KungfuCastBuffInfo_游龙剑法buff1,"When the equipped weapon is <#00c6f3>Drago
 KungfuCastBuffInfo_青萍剑法buff1,"When your Sword is higher than the enemy's, the critical rate of this attack increases by 10%.","เมื่อค่ากระบี่ของคุณสูงกว่าของศัตรู, อัตราคริติคอลของการโจมตีนี้เพิ่มขึ้น 10%"
 KungfuCastBuffInfo_柔云剑法buff1,"When your Dexterity is higher than the enemy's, it reduces the enemy's energy gathering by 50 points.","เมื่อค่า""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, ค่าปราณเคลื่อนที่ของศัตรูลง 50 แต้ม"
 KungfuCastBuffInfo_玉女剑法buff1,"When the main internal force is Yin, it reduces the enemy's energy gathering by 150 points.","เมื่อกำลังภายในหลักเป็นหยิน, ลดค่าปราณเคลื่อนที่ของศัตรูลง 150 แต้ม"
-KungfuCastBuffInfo_玉女剑法buff2,"When the attacker is female, the final damage increases by 80%.","เมื่อตัวละครหญิงใช้วิทยายุทธนี้, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 80%"
+KungfuCastBuffInfo_玉女剑法buff2,"When the user is female, the final Increases Damage by 80%.","เมื่อผู้ใช้เป็นผู้หญิง, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 80%"
 KungfuCastBuffInfo_磐龙剑法buff1,"When the main internal force is Legendary, it causes the enemy to suffer from Internal break, lasting until the enemy's next action.","เมื่อกำลังภายในหลักเป็นระดับตำนาน จะทำให้ศัตรูต้องทนทุกข์ทรมานจาก""กำลังภายในติดขัด"" ยาวนานจนถึงการกระทำครั้งต่อไปของศัตรู"
 KungfuCastBuffInfo_磐龙剑法buff2,"When equipping a Legendary sword series weapon, it causes the enemy to suffer from Disable technique, lasting until the enemy's next action.","เมื่อสวมใส่อาวุธกระบี่ระดับตำนาน, ทำให้ศัตรูต้องทนทุกข์ทรมานจาก""ทำลายวิชา"" ยาวนานจนถึงการกระทำครั้งต่อไปของศัตรู"
 KungfuCastBuffInfo_磐龙剑法buff3,"For every 2 points that your Sword is higher than the enemy's Sword, the final damage increases by 1%, up to a maximum of 180%.",ทุกๆ 2 แต้มที่ค่ากระบี่ของคุณสูงกว่าของศัตรู ความเสียหายสุดท้ายจะเพิ่มขึ้น 1% สูงสุดไม่เกิน 180%
@@ -1708,7 +1705,7 @@ KungfuCastBuffInfo_花拳绣腿buff1,"When your Level is higher than the enemy's
 KungfuCastBuffInfo_五行拳buff1,"When you learn the internal skill <#c851ff>Nether Taichi</color>, final damage increases by 35%.",เมื่อคุณเรียนรู้กำลังภายใน <#c851ff>พลังไท้เก๊ก</color> ความเสียหายสุดท้ายจะเพิ่มขึ้น 35%
 KungfuCastBuffInfo_七巧如意手buff1,"When causing Evasion or Parry to the enemy, it reduces their Qi by 50 points and Spirit by 20 points.","เมื่อศัตรูหลบหลีกหรือปัดป้อง, ลดค่าปราณเคลื่อนที่ของศัตรูลง 50 แต้ม และพลังใจ 20 แต้ม"
 KungfuCastBuffInfo_闪电五连击buff1,This Attack has a 25% chance to Combo if it kills the enemy.,การโจมตีนี้มีโอกาส 25% ที่จะทำโจมตีต่อเนื่องหากสังหารศัตรูได้
-KungfuCastBuffInfo_清心玉女掌buff1,"When the attacker is female, the final damage increases by 80%.","เมื่อตัวละครหญิงใช้วิทยายุทธนี้, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 80%"
+KungfuCastBuffInfo_清心玉女掌buff1,"When the user is female, the final Increases Damage by 80%.","เมื่อผู้ใช้เป็นผู้หญิง, สร้างความเสียหายสุดท้ายเพิ่มขึ้น 80%"
 KungfuCastBuffInfo_清心玉女掌buff2,"When the main internal force is Epic or higher Yin, this Attack reduces the enemy's Action Speed by 15%, lasting until the enemy's next action.","เมื่อกำลังภายในหลักเป็น""หยิน""ระดับมหากาพย์หรือสูงกว่า, การโจมตีนี้จะลดความเร็วท่าร่างของศัตรูลง 15% จนถึงการกระทำครั้งต่อไปของศัตรู"
 KungfuCastBuffInfo_碎玉掌buff1,"When the main internal force is Epic or higher Yang, final damage increases by 60%.","เมื่อกำลังภายในหลักเป็น""หยาง""ระดับมหากาพย์หรือสูงกว่า, ความเสียหายสุดท้ายจะเพิ่ม 60%"
 KungfuCastBuffInfo_碎玉掌buff2,"This Attack triggers Critical, causing 15 points of Internal Injury to the enemy.","หากโจมตีนี้ทำให้เกิดคริติคอล, สร้างสถานะบาดเจ็บภายใน 15 แต้มแก่ศัตรู"
@@ -1754,7 +1751,7 @@ KungfuCastBuffInfo_疾风刺buff1,"When Qinggong reaches 100, it inflicts 10 poi
 KungfuCastBuffInfo_银蛇流光buff1,"When equipping Epic or above DaggerWeapon, it inflicts 15 points of Bleeding on the enemy.","เมื่อสวมใส่อาวุธมีด/กริชระดับมหากาพย์ หรือสูงกว่า, สร้างสถานะเลือดไหล 15 แต้มแก่ศัตรู"
 KungfuCastBuffInfo_银蛇流光buff2,"The higher the enemy's Bleeding, the higher the damage they receive. Each point of Bleeding increases the final damage by 1%.",ยิ่งศัตรูมีแต้มเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของสถานะเลือดไหลความเสียหายสุดท้ายจะเพิ่มขึ้น 1%
 KungfuCastBuffInfo_天外流星buff1,"For every point your Dexterity is higher than the enemy's Dexterity, inflict 2 points of Blinded on the enemy, up to a maximum of 20 points of Blinded.","ทุกๆ แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, จะสร้างสถานะตาบอดให้ศัตรู 2 แต้ม สูงสุดไม่เกิน 20 แต้ม"
-KungfuCastBuffInfo_天外流星buff2,"The higher the enemy's Blinded, the higher the damage they receive. Each point of Blinded increases final damage by 1.9%.",ยิ่งศัตรูมีค่าตาบอดมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มของค่าตาบอดความเสียหายสุดท้ายจะเพิ่มขึ้น 1.9%
+KungfuCastBuffInfo_天外流星buff2,"The higher the enemy's Blinded, the higher the damage received. Each point of Blinded increases the final damage by 2.5%.",ยิ่งศัตรูมีค่าตาบอดมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มของค่าตาบอดความเสียหายสุดท้ายจะเพิ่มขึ้น 2.5%
 KungfuCastBuffInfo_天外流星buff3,This attack will definitely Combo if it kills the enemy.,การโจมตีนี้จะโจมตีต่อเนื่องแน่นอนหากสังหารศัตรูได้
 KungfuCastBuffInfo_流云飞扇buff1,"When learning the external skill <#c851ff>Gentleman's Courtship</color>, final damage increases by 30%.",เมื่อเรียนรู้วรยุทธ์ภายนอก <#c851ff>สุภาพบุรุษขอรัก</color> ความเสียหายสุดท้ายจะเพิ่มขึ้น 30%
 KungfuCastBuffInfo_袖里回风buff1,"When the enemy's energy value reaches 750 or above, it reduces their energy by 100 points.","เมื่อค่าปราณเคลื่อนที่ของศัตรูถึง 750 ขึ้นไป, จะลดค่าปราณเคลื่อนที่ของศัตรูลง 100 แต้ม"
@@ -1769,3 +1766,254 @@ KungfuCastBuffInfo_暗香凌波buff1,"This attack triggers a Critical, causing 1
 KungfuCastBuffInfo_催心五调buff1,"The higher the enemy's Sealed, the higher the damage they receive. Each point of Sealed increases final damage by 0.45%.",ยิ่งศัตรูถูกสกัดจุดมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของสกัดจุดจะเพิ่มความเสียหายสุดท้าย  0.45%
 KungfuCastBuffInfo_阳春白雪buff1,"When your current MP is higher than the enemy's current MP, the enemy's Attack decreases by 10%, lasting until the enemy's next action.","เมื่อ MP ปัจจุบันของคุณสูงกว่า MP ปัจจุบันของศัตรู, ลดพลังโจมตีของศัตรูลง 10% คงอยู่ถึงการกระทำครั้งต่อไปของศัตรู"
 KungfuCastBuffInfo_塞外秋风buff1,"When your current MP is higher than the enemy's current MP, the enemy's Attack decreases by 5% and Defense decreases by 5%, lasting until the enemy's next action.","เมื่อ MP ปัจจุบันของคุณสูงกว่า MP ปัจจุบันของศัตรู, ลดพลังโจมตีของศัตรูลง 5% และลดพลังป้องกันลง  5% คงอยู่ถึงการกระทำครั้งต่อไปของศัตรู"
+KungfuDesc_万兽归宗,Summon the Five Great Beasts in battle (can only be summoned once per battle),อัญเชิญสัตว์ร้ายทั้งห้าเข้าสู่การต่อสู้ (สามารถอัญเชิญได้เพียงครั้งเดียวต่อการต่อสู้)
+KungfuDesc_先礼后兵,"After releasing your ultimate move on yourself (can only be used once per battle), the higher your Intelligence, the higher the Roll boost for your teammates. For every 1 point of Intelligence, your team's CharacterAttack increases by 1%, Defense increases by 1%, and Action Speed increases by 1 point.",หลังจากปล่อยวรยุทธ์ไม้ตายแก่ตัวเอง (ใช้ได้เพียงครั้งเดียวต่อการต่อสู้) ยิ่งค่าสติปัญญาของท่านสูงเท่าไร สหายร่วมกลุ่มก็จะได้พลังเพิ่มมากขึ้นเท่านั้น ทุกๆ 1 แต้มของค่าสติปัญญา สหายร่วมกลุ่มพลังโจมตีเพิ่มขึ้น 1% พลังป้องกันเพิ่มขึ้น 1 % และความเร็วท่าร่างเพิ่มขึ้น 1 แต้ม
+KungfuDesc_钗头凤,"Inflict damage on enemies within a fan-shaped range (4-tile radius) in front of you;\nUnbroken Defense: Reduce the enemy's Defense by 5% (lasts for 1 action).\nBroken Defense: Inflict an additional 12% of the enemy's maximum HP in damage, and reduce the enemy's Defense by 10% (lasts for 1 action).","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 4 ช่อง) ด้านหน้า\nหากไม่ทำลายการป้องกัน: ลดการป้องกันของศัตรูลง 5% (คงอยู่ 1 รอบ)\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 12% ของ HP สูงสุดของศัตรู และลดการป้องกันของศัตรูลง 10% (คงอยู่ 1 รอบ)"
+KungfuDesc_羽吹雪,"Inflict damage on enemies within a 5x3 range in front of you;\nUnbroken Defense: Inflict an additional 10 points of Blinded on the enemy;\nBroken Defense: Inflict an additional 10% of the enemy's maximum HP in damage, inflict 20 points of Blinded, and reduce the enemy's Action Speed by 10 points (lasts for 1 action).","สร้างความเสียหายให้กับศัตรูในระยะ 5x3 ด้านหน้า\nหากไม่ทำลายการป้องกัน: สร้างสถานะตาบอด 10 แก่ศัตรู\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของ HP สูงสุดของศัตรู สร้างสถานะตาบอด 20 แก่ศัตรู และลดความเร็วท่าร่าง​​​​ของศัตรูลง 10 แต้ม (คงอยู่ 1 รอบ)"
+KungfuDesc_流光溢彩,"Inflict damage on enemies within a 3x5 triangle range in front;\nIf not breaking defense: additionally inflict 5 points of Bleeding and 5 points of Blinded on the enemy;\nIf breaking defense: additionally inflict 10% of the enemy's max HP as damage, and inflict 10 points of Bleeding and 10 points of Blinded.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะสามเหลี่ยม 3x5 ด้านหน้า\nหากไม่ทำลายการป้องกัน: สร้างสถานะเลือดไหล และ ตาบอด 5 แต้มแก่ศัตรู\nหากทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 10% ของ HP สูงสุดของศัตรู และสร้างสถานะเลือดไหล และ ตาบอด 10 แต้มแก่ศัตรู"
+KungfuDesc_圣火耀日,"Inflict damage on enemies within a 5-grid radius and knock them back 2 grids;\nIf not breaking defense: additionally inflict 5 points of Internal Injury on the enemy;\nIf breaking defense: additionally inflict 20% of the enemy's max HP as damage, and inflict 15 points of Internal Injury, reduce enemy's Defense by 15% (lasts 1 action); increase own Attack by 10% (lasts 1 action).","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่อง และกระแทกพวกเขากลับไป 2 ช่อง\nหากไม่ทำลายการป้องกัน: สร้างสถานะบาดเจ็บภายใน 5 แต้มแก่ศัตรู\nหากทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 20% ของ Max HP ของศัตรู สร้างสถานะบาดเจ็บภายใน 15 แต้ม และลดพลังป้องกันแก่ศัตรูลง 15% (คงอยู่ 1 รอบ) เพิ่มพลังโจมตีตัวเอง 10% (คงอยู่ 1 รอบ) "
+KungfuDesc_风云一剑,"Inflict damage on enemies within a 3x5 range in front;\nIf not breaking defense: no additional effects;\nIf breaking defense: additionally inflict 13% of the enemy's max HP as damage, inflict Vulnerable effect on the enemy, reduce Action Speed by 15% (lasts 1 action).","สร้างความเสียหายให้กับศัตรูในระยะ 3x5 ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nหากทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 13% ของ Max HP สูงสุดของศัตรู สร้างสถานะ""เปราะบาง""แก่ศัตรู, ลดความเร็วท่าร่างลง 15% (คงอยู่ 1 รอบ)"
+KungfuDesc_惊天骇地,"Inflict damage on enemies within a 3-grid radius;\nIf not breaking defense: no additional effects;\nIf breaking defense: additionally inflict 15% of the enemy's max HP as damage, and inflict 10 points of Internal Injury, reduce 150 points of Qi.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 3 ช่อง\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nหากทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของ HP สูงสุดของศัตรู และสร้างสถานะบาดเจ็บภายใน 10 แต้ม พร้อมลดค่าปราณเคลื่อนที่ลง 150 แต้ม"
+KungfuDesc_一刀破空,"Inflict damage on enemies within a fan-shaped range (4-grid radius) in front;\nIf not breaking defense: no additional effects;\nIf breaking defense: additionally inflict 13% of the enemy's max HP as damage, and inflict 5 points of Bleeding, reduce 50 points of Spirit.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะรูปพัด (รัศมี 4 ช่อง) ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nหากทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 13% ของ HP สูงสุดของศัตรู และสร้างสถานะเลือดไหล 5 แต้ม พร้อมลดพลังใจลง 50 แต้ม"
+KungfuDesc_烽火连天,"Inflict damage on enemies within a 5x9 triangle range in front;\nIf not breaking defense: AttackPierce enemy's Armor attribute and effects;\nIf breaking defense: AttackPierce enemy's Armor attribute and effects, additionally inflict 18% of the enemy's max HP as damage, increase own Critical by 25%, Combo by 25%, Counter by 15% (lasts 1 action).","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะสามเหลี่ยม 5x9 ด้านหน้า\nหากไม่ทำลายการป้องกัน: การโจมตีสามารถเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรู\nหากทำลายการป้องกัน: การโจมตีสามารถเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรู สร้างความเสียหายเพิ่มเติม 18% ของ Max HP สูงสุดของศัตรู เพิ่มคริติคอลเพิ่มขึ้น 25% โจมตีต่อเนื่องเพิ่มขึ้น 25% สวนกลับเพิ่มขึ้น 15% แก่ตัวเอง (คงอยู่ 1 รอบ)"
+KungfuDesc_连环千打,"Inflict damage on enemies within a 5x3 range in front;\nIf not breaking defense: no additional effects;\nIf breaking defense: additionally inflict 15% of the enemy's max HP as damage, and inflict 10 points of Internal Injury and 10 points of Sealed.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ 5x3 ด้านหน้า\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nหากทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 15% ของ Max HP สูงสุดของศัตรู และสร้างสถานะบาดเจ็บภายในและสกัดจุด 10 แต้มแก่ศัตรู"
+KungfuDesc_轰天地爆,"Inflict damage on enemies within a 4x3 range in front;\nIf not breaking defense: additionally reduce 50 points of Qi on the enemy;\nIf breaking defense: additionally inflict 12% of the enemy's max HP as damage, reduce 150 points of Qi on the enemy, reduce Attack and Defense by 10% (lasts 1 action).","สร้างความเสียหายแก่ศัตรูในระยะ 4x3 ช่องด้านหน้า\nหากไม่ทำลายการป้องกัน: ลดค่าปราณเคลื่อนที่ศัตรูลง 50 แต้ม\nทำลายการป้องกัน: สร้างความเสียหายเพิ่มเติม 12% ของ Max HP ของศัตรู ลดค่าปราณเคลื่อนที่ศัตรูลง 150 แต้ม ลดพลังโจมตีและพลังป้องกันลง 10% (คงอยู่ 1 รอบ)"
+KungfuDesc_火蟾燎原,"Inflict damage on enemies within a 3-grid radius;\nIf not breaking defense: additionally inflict 5 points of Poisoned and 5 points of Internal Injury on the enemy;\nIf breaking defense: AttackPierce enemy's Armor attribute and effects, additionally inflict 10% of the enemy's max HP as damage, and inflict 10 points of Poisoned, 10 points of Internal Injury, and 10 points of Sealed.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 3 ช่อง\nหากไม่ทำลายการป้องกัน: สร้างสถานะพิษและบาดเจ็บภายใน 5 แต้มแก่ศัตรู\nหากทำลายการป้องกัน: การโจมตีสามารถเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรูได้ สร้างความเสียหายเพิ่มเติม 10% ของ HP สูงสุดของศัตรู และสร้างสถานะพิษ บาดเจ็บภายใน สกัดจุด 10 แต้มแก่ศัตรู"
+KungfuDesc_玄黄一气,"Inflict damage on enemies within a 5-grid radius;\nIf not breaking defense: no additional effects;\nIf breaking defense: AttackPierce enemy's Armor attribute and effects, Pierce enemy's Defense value to directly inflict damage, and inflict 100 points of Internal Injury and 50 points of Sealed.","สร้างความเสียหายให้กับศัตรูภายในรัศมี 5 ช่อง\nหากไม่ทำลายการป้องกัน: ไม่มีผลกระทบเพิ่มเติม\nหากทำลายการป้องกัน: การโจมตีสามารถเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรูได้ เจาะทะลุค่าป้องกันของศัตรูเพื่อสร้างความเสียหายโดยตรง และสร้างสถานะบาดเจ็บภายใน 100 แต้ม และสกัดจุด 50 แต้ม"
+BondKungfuEffect_双剑合璧,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, the higher the Sword of both parties in this Attack, the higher the final Increases Damage obtained.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม <#29F161>เพิ่มความเสียหาย 10% ของ HP สูงสุด</color> ยิ่งค่าดาบของทั้งสองฝ่ายสูงเท่าไหร่ ความเสียหายสุดท้ายที่สร้างจะยิ่งสูงขึ้นมากเท่านั้น
+BondKungfuEffect_鸳俦凤侣,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, after release, the enemy obtains the effect of【<#FE2929>Defense reduced by 10%</color>, <#FE2929>Action Speed reduced by 10%</color>, lasting for 1 action】.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของพลังชีวิตสูงสุด</color> หลังจากใช้งาน ศัตรูจะได้รับสถานะ【<#FE2929>พลังป้องกันลดลง 10%</color>, <#FE2929>ความเร็วท่าร่างลดลง 10%</color> คงอยู่ 1 รอบ]"
+BondKungfuEffect_情绕天涯,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, after release, both parties obtain the effect of【<#29F161>Counter increased by 15%</color>, lasting for 1 action】.",สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของพลังชีวิตสูงสุด</color> หลังจากใช้งานทั้งสองฝ่ายจะได้รับผล【<#29F161>โจมตีสวนกลับเพิ่มขึ้น 15%</color> คงอยู่ 1 รอบ]
+BondKungfuEffect_碧海青天,"Inflict damage on enemies within self range, additionally inflict <#29F161>10% of maximum HP damage</color>, after release, both parties obtain the effect of【<#29F161>Attack increased by 15%</color>, <#29F161>Defense increased by 15%</color>, lasting for 1 action】.","สร้างความเสียหายให้กับศัตรูที่อยู่ในระยะ เพิ่ม<#29F161>ความเสียหาย 10% ของพลังชีวิตสูงสุด</color> หลังจากใช้งานทั้งสองฝ่ายจะได้รับผล【<#29F161>พลังโจมตีเพิ่ม 15%</color>, <#29F161>พลังป้องกันเพิ่ม 15%</color> คงอยู่ 1 รอบ]"
+KunfuName_撕咬1,Bite,กัด
+KunfuName_爪击,Claw Strike,กรงเล็บจู่โจม
+KunfuName_重砸,Heavy Smash,ทุบหนัก
+KunfuName_顶撞1,Rush,เร่งรีบ
+KunfuName_横扫,Sweep,กวาดไปทั่ว
+KunfuName_抓挠,Scratch,ขวน
+KunfuName_摇头摆尾,Wagging,กระดิกหัวกระดิกหาง
+KunfuName_牙突,Fang Strike,เขี้ยวจู่โจม
+KunfuName_飞扑,Flying Strike,บินจู่โจม
+KunfuName_撼地击,Earthshaking,แผ่นดินไหว
+KunfuName_吞咬,Bite,กัด
+KunfuName_突袭,Ambush,ซุ่มโจมตี
+KunfuName_剧毒牙,Poisonous Bite,คมเขี้ยวพิษ
+KunfuName_重臂锤,Hammer Strike,ค้อนกระหน่ำ
+KunfuName_利爪乱挠,Sharp Claw Frenzy,กรงเล็บคมคลั่ง
+KunfuName_碎骨击1,Bone Crushing Strike,จู่โจมป่นกระดูก
+KunfuName_斗鸡啄1,Chicken Pecking,ไก่กระหน่ำจิก
+KunfuName_撕裂爪,Tearing Claw,กรงเล็บฉีกเนื้อ
+KunfuName_冰魄爪,Frozen Claw,กรงเล็บน้ำแข็ง
+KunfuName_牙尖嘴利,Sharp Tongue,คมเขี้ยวแหลมคม
+KunfuName_猴子偷桃,Monkey Steals Peach,วานรชิงลูกท้อ
+KunfuName_毒液喷射,Poison Blast,ระเบิดพิษ
+KunfuName_泰山压顶1,Mountain Pressure,แรงอัดภูผา
+KunfuName_雪山之怒,Frozen Peak Rage,ยอดภูเขาหิมะเดือด
+KunfuName_冰风影袭,Ice Shadow,เงาลมน้ำแข็ง
+KunfuName_银狼闪,Silver Wolf Flash,ประกายแสงหมาป่าเงิน
+KunfuName_狂暴爪击,Raging Claw Strike,กรงเล็บจู่โจมบ้าคลั่ง
+KunfuName_横冲直撞,Powerful Charge,พุ่งชนเต็มกำลัง
+KunfuName_雄鸡啼晓,Morning Crowing,ไก่ขันยามเช้า
+KunfuName_大闹天宫,Heaven Devastator,ทำลายล้างสวรรค์
+KunfuName_地动山摇1,Earthquake,พสุธากัมปนาท
+KunfuName_百爪千挠1,Hundred Claws Thousand Scratches,ร้อยกรงเล็บพันรอยขีดข่วน
+KunfuName_狂犬吠日,Rabid Dog Devouring Sun,สุนัขคลั่งกลืนตะวัน
+KunfuName_火蟾吞噬,Fire Toad Swallow,คางคกไฟกลืนกิน
+KunfuName_火蟾吐息,Fire Toad Earth Breath,ลมหายใจคางคกไฟ
+KunfuName_动物撕咬1,Bite,กัด
+KunfuName_动物爪击,Claw Strike,กรงเล็บจู่โจม
+KunfuName_动物重砸,Heavy Smash,ทุบหนัก
+KunfuName_动物顶撞1,Rush,เร่งรีบ
+KunfuName_动物横扫,Sweep,กวาดไปทั่ว
+KunfuName_动物抓挠,Scratch,ขวน
+KunfuName_动物摇头摆尾,Wagging,กระดิกหัวกระดิกหาง
+KunfuName_动物牙突,Fang Strike,เขี้ยวจู่โจม
+KunfuName_动物飞扑,Flying Strike,บินจู่โจม
+KunfuName_动物撼地击,Earthshaking,แผ่นดินไหว
+KunfuName_动物突袭,Ambush,ซุ่มโจมตี
+KunfuName_动物剧毒牙,Poisonous Bite,คมเขี้ยวพิษ
+KunfuName_动物重臂锤,Hammer Strike,ค้อนกระหน่ำ
+KunfuName_动物利爪乱挠,Sharp Claw Frenzy,กรงเล็บคมคลั่ง
+KunfuName_动物碎骨击1,Bone Crushing Strike,จู่โจมป่นกระดูก
+KunfuName_动物斗鸡啄1,Chicken Pecking,ไก่กระหน่ำจิก
+KunfuName_动物撕裂爪,Tearing Claw,กรงเล็บฉีกเนื้อ
+KunfuName_动物冰魄爪,Frozen Claw,กรงเล็บน้ำแข็ง
+KunfuName_动物牙尖嘴利,Sharp Tongue,คมเขี้ยวแหลมคม
+KunfuName_动物猴子偷桃,Monkey Steals Peach,วานรชิงลูกท้อ
+KunfuName_动物毒液喷射,Poison Blast,ระเบิดพิษ
+KunfuName_动物泰山压顶1,Mountain Pressure,แรงอัดภูผา
+KunfuName_动物雪山之怒,Frozen Peak Rage,ยอดภูเขาหิมะเดือด
+KunfuName_动物冰风影袭,Ice Shadow,เงาลมน้ำแข็ง
+KunfuName_动物银狼闪,Silver Wolf Flash,ประกายแสงหมาป่าเงิน
+KunfuName_动物狂暴爪击,Raging Claw Strike,กรงเล็บจู่โจมบ้าคลั่ง
+KunfuName_动物横冲直撞,Powerful Charge,พุ่งชนเต็มกำลัง
+KunfuName_动物雄鸡啼晓,Morning Crowing,ไก่ขันยามเช้า
+KunfuName_动物大闹天宫,Heaven Devastator,ทำลายล้างสวรรค์
+KunfuName_动物地动山摇1,Earthquake,พสุธากัมปนาท
+KunfuName_动物百爪千挠1,Hundred Claws Thousand Scratches,ร้อยกรงเล็บพันรอยขีดข่วน
+KunfuName_动物狂犬吠日,Rabid Dog Devouring Sun,สุนัขคลั่งกลืนตะวัน
+KunfuName_武功霹雳弹,Thunder bullet,ระเบิดอัสนี
+KunfuName_武功霹雳雷火弹,Exploding thunder bullet,ระเบิดอัสนีบาต
+KunfuName_万兽归宗,United Beasts,รวมพลสัตว์ร้าย
+KunfuName_先礼后兵,Diplomacy Before Violence,ไม้นวมก่อนไม้แข็ง
+KunfuName_钗头凤,Phoenix Hairpin,ปิ่นปักผมวิหคเพลิงอมตะ
+KunfuName_羽吹雪,Feather and blow snow,ขนนกพัดหิมะโปรย
+KunfuName_流光溢彩,Prism Light,ลำแสงหลากสี
+KunfuName_圣火耀日,Divine Flame Radiance,แสงเพลิงสุริยะศักดิ์สิทธิ์
+KunfuName_风云一剑,Sword of Storm,พายุกระบี่
+KunfuName_惊天骇地,Devastating Strike,จู่โจมล้างผลาญ
+KunfuName_一刀破空,Air Breaking Blade,ดาบผ่านภา
+KunfuName_烽火连天,Violent Firestorm,พายุอัคคีโหมกระหน่ำ
+KunfuName_连环千打,Thousand Hits,พันจู่โจม
+KunfuName_轰天地爆,Heaven Breaker,ทลายสวรรค์
+KunfuName_火蟾燎原,Flame Toad Burst,เปลวคางคกอัคคี
+KunfuName_玄黄一气,Origin Qi,ปราณต้นกำเนิด
+KunfuName_双剑合璧,Two Blades Combination,สองดาบผสาน
+KunfuName_鸳俦凤侣,Love Birds Attack,คู่รักโจมตี
+KunfuName_情绕天涯,Everlasting Love,รักนิรันดร์
+KunfuName_碧海青天,Green Sea Blue Sky,ทะเลสีฟ้าท้องฟ้าสีคราม
+KunfuName_斩天刀法,Heaven Cutting Blade Technique,เพลงดาบผ่าสวรรค์
+KunfuName_分光流星刺,Luminary Meteor Strike,พายุดาวตกกระจายแสง
+KunfuName_火蟾诀,Flame Toad Technique,พลังคางคกอัคคี
+KunfuName_圣火神功,Holy Fire Divine Skill,พลังเทพไฟศักดิ์สิทธิ์
+KunfuName_吠陀宝经,Vedas Scripture,คัมภีร์พระเวท
+KunfuName_霸刀诀,Tyrant Blade Technique,วิชาดาบทรราช
+先天属性_斩天刀法,Increase or decrease damage based on the difference in <#29F161>Strength</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>พละกำลัง</color>
+先天属性_分光流星刺,Increase or decrease damage based on the difference in <#29F161>Dexterity</color>.,ความเสียหายจะเพิ่มขึ้นหรือลดลง ขึ้นอยู่กับความต่างของ <#29F161>ความคล่องตัว</color>
+KungfuCastBuff_武功霹雳弹buff1,Effect One,ผลที่ 1
+KungfuCastBuff_武功霹雳雷火弹buff1,Effect One,ผลที่ 1
+KungfuCastBuff_火云刀法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_九苗刀法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_风沙刀法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_合月镰三式buff1,Effect One,ผลที่ 1
+KungfuCastBuff_合月镰三式buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_合月镰三式buff3,Effect Three,ผลที่ 3
+KungfuCastBuff_剔骨刀法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_斩天刀法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_斩天刀法buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_斩天刀法buff3,Effect Three,ผลที่ 3
+KungfuCastBuff_烈火刀法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_烈火刀法buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_烈火刀法buff3,Effect Three,ผลที่ 3
+KungfuCastBuff_广寒剑法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_广寒剑法buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_太虚十八剑buff1,Effect One,ผลที่ 1
+KungfuCastBuff_太虚十八剑buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_赤焰剑法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_赤焰剑法buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_落霞剑法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_落霞剑法buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_凌尘剑法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_凌尘剑法buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_炎霜剑法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_炎霜剑法buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_星月剑法buff1,Effect One,ผลที่ 1
+KungfuCastBuff_星月剑法buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_寒魄冰心掌buff1,Effect One,ผลที่ 1
+KungfuCastBuff_寒魄冰心掌buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_封穴手buff1,Effect One,ผลที่ 1
+KungfuCastBuff_烈阳拳buff1,Effect One,ผลที่ 1
+KungfuCastBuff_烈阳拳buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_烈阳拳buff3,Effect Three,ผลที่ 3
+KungfuCastBuff_五毒掌buff1,Effect One,ผลที่ 1
+KungfuCastBuff_五毒掌buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_四相掌buff1,Effect One,ผลที่ 1
+KungfuCastBuff_四相掌buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_天罡飞龙杖buff1,Effect One,ผลที่ 1
+KungfuCastBuff_天罡飞龙杖buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_天罡飞龙杖buff3,Effect Three,ผลที่ 3
+KungfuCastBuff_分光流星刺buff1,Effect One,ผลที่ 1
+KungfuCastBuff_分光流星刺buff2,Effect Two,ผลที่ 2
+KungfuCastBuff_分光流星刺buff3,Effect Three,ผลที่ 3
+KungfuCastBuff_突袭buff1,Effect One,ผลที่ 1
+KungfuCastBuff_剧毒牙buff1,Effect One,ผลที่ 1
+KungfuCastBuff_重臂锤buff1,Effect One,ผลที่ 1
+KungfuCastBuff_利爪乱挠buff1,Effect One,ผลที่ 1
+KungfuCastBuff_碎骨击1buff1,Effect One,ผลที่ 1
+KungfuCastBuff_斗鸡啄1buff1,Effect One,ผลที่ 1
+KungfuCastBuff_撕裂爪buff1,Effect One,ผลที่ 1
+KungfuCastBuff_冰魄爪buff1,Effect One,ผลที่ 1
+KungfuCastBuff_牙尖嘴利buff1,Effect One,ผลที่ 1
+KungfuCastBuff_猴子偷桃buff1,Effect One,ผลที่ 1
+KungfuCastBuff_毒液喷射buff1,Effect One,ผลที่ 1
+KungfuCastBuff_泰山压顶1buff1,Effect One,ผลที่ 1
+KungfuCastBuff_雪山之怒buff1,Effect One,ผลที่ 1
+KungfuCastBuff_冰风影袭buff1,Effect One,ผลที่ 1
+KungfuCastBuff_银狼闪buff1,Effect One,ผลที่ 1
+KungfuCastBuff_狂暴爪击buff1,Effect One,ผลที่ 1
+KungfuCastBuff_横冲直撞buff1,Effect One,ผลที่ 1
+KungfuCastBuff_雄鸡啼晓buff1,Effect One,ผลที่ 1
+KungfuCastBuff_大闹天宫buff1,Effect One,ผลที่ 1
+KungfuCastBuff_地动山摇1buff1,Effect One,ผลที่ 1
+KungfuCastBuff_百爪千挠1buff1,Effect One,ผลที่ 1
+KungfuCastBuff_狂犬吠日buff1,Effect One,ผลที่ 1
+KungfuCastBuff_火蟾吞噬buff1,Effect One,ผลที่ 1
+KungfuCastBuff_火蟾吐息buff1,Effect One,ผลที่ 1
+KungfuCastBuffInfo_武功霹雳弹buff1,Pierce enemy's armor properties and effects when attacked,เจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรูเมื่อถูกโจมตี
+KungfuCastBuffInfo_武功霹雳雷火弹buff1,"Inflict <#FE2929>Disarm</color> and <#FE2929>Disable armor</color> effects on the enemy when attacked, lasts until the enemy's next action",สร้างสถานะ <#FE2929>ปลดอาวุธ</color> และ <#FE2929>ปลดชุดเกราะ</color> แก่ศัตรูเมื่อถูกโจมตี คงอยู่จนกระทั่งการกระทำถัดไปของศัตรู
+KungfuCastBuffInfo_火云刀法buff1,"When the main internal power is positive, the final Increases Damage is 35%.","เมื่อกำลังภายในหลักเป็น""หยาง""ระดับมหากาพย์หรือสูงกว่า, ความเสียหายสุดท้ายเพิ่มขึ้น 35%"
+KungfuCastBuffInfo_九苗刀法buff1,Inflict 5 points of Poisoned on the enemy.,สร้างสถานะพิษ 5 แต้มแก่ศัตรู
+KungfuCastBuffInfo_风沙刀法buff1,"For every point your Dexterity is higher than the enemy's Dexterity, the final Increases Damage by 3.5%, up to a maximum increase of 35%.","ทุกๆ แต้มที่""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 3.5% สูงสุด 35%"
+KungfuCastBuffInfo_合月镰三式buff1,"When inflicting Critical on the enemy, the enemy additionally receives 25 points of Internal Injury and reduces 150 points of Qi Gathering.","เมื่อเกิดคริติคอลแก่ศัตรู, สร้างสถานะบาดเจ็บภายใน 25 แต้มแก่ศัตรู และลดปราณเคลื่อนที่ของศัตรูลง 150 แต้ม"
+KungfuCastBuffInfo_合月镰三式buff2,"When inflicting Parry on the enemy, the enemy additionally receives 25 points of Sealed and reduces 150 points of Qi Gathering.","เมื่อทำให้ศัตรูเกิดปัดป้อง, สร้างสถานะสกัดจุด 25 แต้มแก่ศัตรู และลดปราณเคลื่อนที่ของศัตรูลง 150 แต้ม"
+KungfuCastBuffInfo_合月镰三式buff3,"When inflicting Evasion on the enemy, reduce its Qi Gathering by 350 points.",เมื่อศัตรูเกิดหลบหลีก ลดปราณเคลื่อนที่ของศัตรูลง 350 แต้ม
+KungfuCastBuffInfo_剔骨刀法buff1,Inflict 5 points of Bleeding on the enemy.,สร้างสถานะเลือดไหล 5 แต้ม แก่ศัตรู
+KungfuCastBuffInfo_斩天刀法buff1,"When Spirit reaches 100 or above, this Attack will definitely be Critical.",เมื่อพลังใจถึง 100 หรือสูงกว่า การโจมตีนี้จะคริติคอลอย่างแน่นอน
+KungfuCastBuffInfo_斩天刀法buff2,"When causing the Parry effect on the enemy, a Combo is guaranteed.","เมื่อทำให้ศัตรูเกิดปัดป้อง, จะโจมตีต่อเนื่องแน่นอน"
+KungfuCastBuffInfo_斩天刀法buff3,"The higher the enemy's Bleeding, the higher the damage they receive, with each point of Bleeding increasing final Increases Damage by 2.3%.",ยิ่งค่าเลือดไหลศัตรูมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มเลือดไหลจะเพิ่มความเสียหายสุดท้าย 2.3%
+KungfuCastBuffInfo_烈火刀法buff1,"When the main internal power is Legendary Yang, the final damage is increased by 120%.","เมื่อกำลังภายในหลักคือ""หยาง"" ความเสียหายสุดท้ายเพิ่มขึ้น 120%"
+KungfuCastBuffInfo_烈火刀法buff2,"When equipping a Legendary Sword Weapon, the final damage is increased by 120%.","เมื่อสวมใส่อาวุธดาบระดับตำนาน, ความเสียหายสุดท้ายจะเพิ่มขึ้น 120%"
+KungfuCastBuffInfo_烈火刀法buff3,"After inflicting Parry on the enemy, the enemy receives the effect of 【Disable armor】, which lasts until the enemy's next action.",หลังศัตรูเกิดปัดป้อง จะสร้างสถานะ【ปลดชุดเกราะ】แก่ศัตรู คงอยู่จนกระทั่งการกระทำครั้งต่อไปของศัตรู
+KungfuCastBuffInfo_广寒剑法buff1,Reduce the enemy's Qi by 100 points.,ลดค่าปราณเคลื่อนที่ศัตรู 100 แต้ม
+KungfuCastBuffInfo_广寒剑法buff2,"After this Attack, your Action Speed increases by 15%, lasting until your next action.","หลังการโจมตีนี้, ตัวเองความเร็วท่าร่างเพิ่มขึ้น 15% และคงอยู่ถึงการกระทำครั้งต่อไป"
+KungfuCastBuffInfo_太虚十八剑buff1,Guaranteed Combo when inflicting Evasion on the enemy.,เมื่อโจมตีศัตรูเกิดหลบหลีก จะโจมตีต่อเนื่องแน่นอน
+KungfuCastBuffInfo_太虚十八剑buff2,"When equipping an Epic or higher Sword Weapon, this Attack can Pierce 15% of the enemy's Defense.","เมื่อสวมใส่อาวุธประเภท""กระบี่""ระดับมหากาพย์หรือสูงกว่า, การโจมตีสามารถเจาะทะลุพลังป้องกันของศัตรูได้ 15%"
+KungfuCastBuffInfo_赤焰剑法buff1,"If your main internal skill is an Epic or higher Yang-type internal skill, inflict 15 points of Bleeding on the enemy.","เมื่อกำลังภายในหลักเป็น""หยาง""ระดับมหากาพย์หรือสูงกว่า, จะสร้างสถานะเลือดไหล 15 แต้มแก่ศัตรู"
+KungfuCastBuffInfo_赤焰剑法buff2,"The higher the enemy's Bleeding, the higher the damage they receive. Each point of Bleeding increases the final damage by 1%.",ยิ่งศัตรูค่าเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มเลือดไหลจะเพิ่มความเสียหายสุดท้าย 1%
+KungfuCastBuffInfo_落霞剑法buff1,"For every point your Dexterity is higher than the enemy's Dexterity, inflict 2 points of Blinded on the enemy, up to a maximum of 20 points of Blinded.","ทุกๆ แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, จะสร้างสถานะตาบอดให้ศัตรู 2 แต้ม สูงสุดไม่เกิน 20 แต้ม"
+KungfuCastBuffInfo_落霞剑法buff2,"When the main internal force is negative, Attack can Pierce the enemy's armor attributes and effects.",เมื่อกำลังภายในหลักเป็นหยิน การโจมตีสามารถเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรูได้
+KungfuCastBuffInfo_凌尘剑法buff1,"For every 1 point your Dexterity is higher than the enemy's, inflict 1 point of Bleeding on the enemy, up to a maximum of 15 points of Bleeding.","สำหรับทุกๆ 1 แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, จะสร้างสถานะเลือดไหลแก่ศัตรู 1 แต้ม สูงสุดไม่เกิน 15 แต้ม"
+KungfuCastBuffInfo_凌尘剑法buff2,"For every 1 point your Intelligence is higher than the enemy's, inflict 1 point of Internal Injury on the enemy, up to a maximum of 15 points of Internal Injury.","ทุกๆ 1 แต้มที่ค่าสติปัญญาของคุณสูงกว่าศัตรู, จะสร้างสถานะบาดเจ็บภายในแก่ศัตรู 1 แต้ม สูงสุด 15 แต้ม"
+KungfuCastBuffInfo_炎霜剑法buff1,"If your main internal skill is an Epic or higher Harmonious internal skill, inflict 20 points of Internal Injury on the enemy.","เมื่อกำลังภายในหลัก""เป็นกลาง""ระดับมหากาพย์หรือสูงกว่า, จะสร้างสถานะบาดเจ็บภายใน 15 แต้มแก่ศัตรู"
+KungfuCastBuffInfo_炎霜剑法buff2,"The higher the enemy's Internal Injury, the higher the damage they receive. Each point of Internal Injury increases the final damage by 1%.","ยิ่งศัตรูมีค่าบาดเจ็บภายในมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้นเท่านั้น, ทุกๆ แต้มของค่าบาดเจ็บภายในความเสียหายสุดท้ายจะเพิ่มขึ้น 1%"
+KungfuCastBuffInfo_星月剑法buff1,"When equipping an Epic or higher Sword Weapon, Attack can Pierce the enemy's armor attributes and effects.","เมื่อสวมใส่อาวุธประเภท""กระบี่""ระดับมหากาพย์หรือสูงกว่า, การโจมตีสามารถเจาะทะลุคุณสมบัติและประสิทธิภาพชุดเกราะของศัตรูได้"
+KungfuCastBuffInfo_星月剑法buff2,"When causing the Parry effect on the enemy, a Combo is guaranteed.","เมื่อทำให้ศัตรูเกิดปัดป้อง, จะโจมตีต่อเนื่องแน่นอน"
+KungfuCastBuffInfo_寒魄冰心掌buff1,"If your main internal skill is a Yin-type internal skill, this Attack reduces the enemy's Action Speed by 15%, lasting until the enemy's next action.","เมื่อกำลังภายในหลักเป็น""หยิน"" การโจมตีนี้จะลดความเร็วท่าร่างของศัตรูลง 15% จนถึงการกระทำครั้งต่อไปของศัตรู"
+KungfuCastBuffInfo_寒魄冰心掌buff2,"For every 150 points your current MP is higher than the enemy's, inflict 1 point of Internal Injury on the enemy, up to a maximum of 20 points of Internal Injury.",ทุกๆ 150 แต้มที่ MP ปัจจุบันของคุณสูงกว่าของศัตรู จะสร้างสถานะบาดเจ็บภายใน 1 แต้มแก่ศัตรู สูงสุดไม่เกิน 20 แต้มของค่าบาดเจ็บภายใน
+KungfuCastBuffInfo_封穴手buff1,"The higher the enemy's Sealed, the higher the damage they receive. Each point of Sealed increases final damage by 0.45%.",ยิ่งศัตรูถูกสกัดจุดมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของสกัดจุดจะเพิ่มความเสียหายสุดท้าย  0.45%
+KungfuCastBuffInfo_烈阳拳buff1,"When the main internal force is Legendary Yang, it causes 20 points of Internal Injury to the enemy.","เมื่อกำลังภายในหลักเป็นพลังหยางระดับตำนาน, สร้างสถานะบาดเจ็บภายใน 20 แต้มแก่ศัตรู"
+KungfuCastBuffInfo_烈阳拳buff2,"The higher the enemy's Internal Injury, the higher the damage received. Each point of Internal Injury increases the final damage by 2.3%.",ยิ่งศัตรูมีค่าบาดเจ็บภายในมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้น ทุกๆ แต้มของค่าบาดเจ็บภายในความเสียหายสุดท้ายจะเพิ่มขึ้น 2.3%
+KungfuCastBuffInfo_烈阳拳buff3,"When the enemy's main internal power is Yin, the final damage of this attack is increased by 60%.",เมื่อกำลังภายในหลักคือหยิน ความเสียหายสุดท้ายของการโจมตีนี้เพิ่มขึ้น 60%
+KungfuCastBuffInfo_五毒掌buff1,"Inflict 5 points of Poisoned on the enemy, triggering Critical inflicts 10 points of Poisoned on the enemy.",สร้างสถานะพิษ 5 แต้มแก่ศัตรู หากโจมตีเกิดคริติคอลสร้างสถานะพิษ 10 แต้มแก่ศัตรู 
+KungfuCastBuffInfo_五毒掌buff2,"For every 20 points that your own Toxicology is higher than the enemy's Toxicology, it causes 1 point of Poisoned to the enemy, up to a maximum of 15 points of Poisoned.","ทุกๆ 20 แต้มที่ศาสตร์พิษของคุณเองสูงกว่าของศัตรู, จะทำให้ศัตรูติดพิษ 1 แต้ม สูงสุดไม่เกิน 15 แต้ม"
+KungfuCastBuffInfo_四相掌buff1,"For every point that your Strength is higher than the enemy's Constitution, inflict 1 point of Internal Injury on the enemy and reduce 15 points of Qi Gathering.","ทุกๆ 1 แต้มที่""พละกำลัง""ของคุณสูงกว่า""พลังกาย""ของศัตรู, สร้างสถานะบาดเจ็บภายใน 1 แต้ม และลดค่าปราณเคลื่อนที่ของศัตรูลง 15 แต้ม"
+KungfuCastBuffInfo_四相掌buff2,"When the enemy's Internal Injury reaches 50 points, this attack will definitely be Critical.",เมื่อค่าบาดเจ็บภายในของศัตรูถึง 50 การโจมตีนี้จะคริติคอลอย่างแน่นอน
+KungfuCastBuffInfo_天罡飞龙杖buff1,"For each additional animal on your team, inflict 5 points of Internal Injury on the enemy, up to a maximum of 50 points of Internal Injury.",สำหรับสัตว์แต่ละตัวในทีมของคุณ สร้างสถานะบาดเจ็บภายใน 5 แต้มแก่ศัตรู สูงสุดไม่เกิน 50 แต้มของค่าบาดเจ็บภายใน
+KungfuCastBuffInfo_天罡飞龙杖buff2,"If the enemy's Internal Injury reaches 50 points, this Attack is guaranteed to be Critical, and Critical Increases Damage by 25%.",เมื่อค่าบาดเจ็บภายในของศัตรูถึง 50 การโจมตีนี้จะคริติคอลอย่างแน่นอน และความเสียหายคริติคอลเพิ่มขึ้น 25%
+KungfuCastBuffInfo_天罡飞龙杖buff3,"When equipping a Legendary Staff Weapon, inflict the Disable Armor effect on the enemy, lasting until the enemy's next action.",เมื่อสวมใส่อาวุธไม้เท้าระดับตำนาน สร้างสถานะปลดชุดเกราะแก่ศัตรู คงอยู่ถึงการลงมือครั้งต่อไปของศัตรู
+KungfuCastBuffInfo_分光流星刺buff1,"The higher your Spirit value, the higher the damage. Each point of Spirit increases the final damage by 1.5%.",ยิ่งค่าพลังใจสูง ความเสียหายก็จะยิ่งสูงขึ้น ทุกๆ 1 แต้มของ พลังใจ ความเสียหายสุดท้ายจะเพิ่มขึ้น 1.5%
+KungfuCastBuffInfo_分光流星刺buff2,"For every point that your Dexterity is higher than the enemy's Dexterity, inflict 1 point of Blinded on the enemy, up to a maximum of 25 points of Blinded.","ทุกๆ 1 แต้มที่ค่า""คล่องแคล่ว""ของคุณสูงกว่าศัตรู, จะสร้างสถานะ""ตาบอด""ให้ศัตรู 1 แต้ม สูงสุด 25 แต้ม"
+KungfuCastBuffInfo_分光流星刺buff3,"When inflicting Critical on the enemy, reduce its Qi Gathering by 200 points.",เมื่อโจมตีติดคริติคอล ลดปราณเคลื่อนที่ของศัตรูลง 200 แต้ม
+KungfuCastBuffInfo_突袭buff1,"For every 1 point your Constitution is higher than the enemy's, the final Increases Damage by 5%, up to a maximum of 50%.","ทุกๆ แต้มที่""พลังกาย""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 5% สูงสุด 50%"
+KungfuCastBuffInfo_剧毒牙buff1,"The higher the enemy's Poisoned, the higher the damage they receive, for every 1 point of Poisoned, the final Increases Damage by 0.5%.",ยิ่งศัตรูถูกพิษมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มของติดพิษจะเพิ่มความเสียหายสุดท้าย 0.5%
+KungfuCastBuffInfo_重臂锤buff1,"The higher the enemy's Internal Injury, the higher the damage they receive. For every 1 point of Internal Injury, the final damage increases by 0.5%.",ยิ่งศัตรูได้รับบาดเจ็บภายในมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มค่าบาดเจ็บภายใน ความเสียหายสุดท้ายจะเพิ่มขึ้น 0.5%
+KungfuCastBuffInfo_利爪乱挠buff1,"For every 1 point your Dexterity is higher than the enemy's, the final Increases Damage by 5%, up to a maximum of 50%.","ทุกๆ แต้มที่""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 5% สูงสุด 50%"
+KungfuCastBuffInfo_碎骨击1buff1,"Inflict the Broken Bone effect on the enemy, lasting until the enemy's next action.",สร้างสถานะกระดูกหักแก่ศัตรู คงอยู่ถึงการกระทำครั้งต่อไปของศัตรู
+KungfuCastBuffInfo_斗鸡啄1buff1,"The higher the enemy's Blinded, the higher the damage they receive. For every 1 point of Blinded, the final damage increases by 0.5%.",ยิ่งศัตรูมีค่าตาบอดมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มของค่าตาบอดความเสียหายสุดท้ายจะเพิ่มขึ้น 0.5%
+KungfuCastBuffInfo_撕裂爪buff1,"The higher the enemy's Bleeding, the higher the damage received, with each point of Bleeding increasing final damage by 0.5%.",ยิ่งศัตรูเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของสถานะเลือดไหลจะเพิ่มความเสียหายสุดท้าย 0.5%
+KungfuCastBuffInfo_冰魄爪buff1,Reduce the enemy's Qi by 100 points.,ลดค่าปราณเคลื่อนที่ศัตรู 100 แต้ม
+KungfuCastBuffInfo_牙尖嘴利buff1,"The higher the enemy's Bleeding, the higher the damage received, with each point of Bleeding increasing final damage by 0.5%.",ยิ่งศัตรูเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของสถานะเลือดไหลจะเพิ่มความเสียหายสุดท้าย 0.5%
+KungfuCastBuffInfo_猴子偷桃buff1,"Final damage to male enemies increases by 100%, and their movement range decreases by 3 squares, also they gain the Vulnerable effect, lasting until the enemy's next action.","ความเสียหายสุดท้ายต่อศัตรูเพศชายจะเพิ่มขึ้น 100% และลดระยะการเคลื่อนที่ลง 3 ช่อง พร้อมมอบสถานะ""เปราะบาง"" คงอยู่จนถึงการลงมือครั้งต่อไปของศัตรู"
+KungfuCastBuffInfo_毒液喷射buff1,"The higher the enemy's Poisoned level, the higher the damage they receive, with each point of Poisoned increasing final damage by 1.2%.",ยิ่งศัตรูถูกพิษมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของติดพิษจะเพิ่มความเสียหายสุดท้าย 1.2%
+KungfuCastBuffInfo_泰山压顶1buff1,"The higher the enemy's Internal Injury, the higher the damage they receive. For every 1 point of Internal Injury, the final damage increases by 1.2%.",ยิ่งศัตรูได้รับบาดเจ็บภายในมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ 1 แต้มค่าบาดเจ็บภายใน ความเสียหายสุดท้ายจะเพิ่มขึ้น 1.2%
+KungfuCastBuffInfo_雪山之怒buff1,"The higher the enemy's Internal Injury and Bleeding levels, the higher the damage they receive, with each point of Internal Injury and Bleeding increasing final damage by 0.8%.","ยิ่งศัตรูมีค่าบาดเจ็บภายในและเลือดไหลสูงเท่าไหร่ ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น, ทุกค่าบาดเจ็บภายในและเลือดไหล จะเพิ่มความเสียหายสุดท้าย 0.8%"
+KungfuCastBuffInfo_冰风影袭buff1,"The higher the enemy's Blinded level, the higher the damage they receive, with each point of Blinded increasing final damage by 0.8%; also reduces the enemy's Action Speed by 15%, lasting until the enemy's next action.",ยิ่งศัตรูมีค่าตาบอดมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของค่าตาบอดความเสียหายสุดท้ายจะเพิ่มขึ้น 0.8% พร้อมลดความเร็วท่าร่างของศัตรูลง 15% คงอยู่จนถึงการลงมือครั้งต่อไปของศัตรู
+KungfuCastBuffInfo_银狼闪buff1,"The higher the enemy's Bleeding level, the higher the damage they receive, with each point of Bleeding increasing final damage by 0.8%; also inflicts the Vulnerable effect on the enemy, lasting until the enemy's next action.","ยิ่งศัตรูเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของสถานะเลือดไหลจะเพิ่มความเสียหายสุดท้าย  0.8% พร้อมมอบสถานะ""เปราะบาง"" คงอยู่จนถึงการลงมือครั้งต่อไปของศัตรู"
+KungfuCastBuffInfo_狂暴爪击buff1,"The higher the enemy's Bleeding, the higher the damage they receive. Each point of Bleeding increases the final damage by 1%.",ยิ่งศัตรูมีค่าเลือดไหลมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มเลือดไหลจะเพิ่มความเสียหายสุดท้ายขึ้น 1%
+KungfuCastBuffInfo_横冲直撞buff1,"The higher the enemy's Internal Injury, the higher the damage they receive. Each point of Internal Injury increases the final damage by 1%.","ยิ่งศัตรูมีค่าบาดเจ็บภายในมากเท่าไร ความเสียหายที่พวกเขาได้รับก็จะยิ่งมากขึ้นเท่านั้น, ทุกๆ แต้มของค่าบาดเจ็บภายในความเสียหายสุดท้ายจะเพิ่มขึ้น 1%"
+KungfuCastBuffInfo_雄鸡啼晓buff1,"The higher the Spirit value, the higher the damage, with each point of Spirit increasing final damage by 0.5%.",ยิ่งค่าพลังใจสูง ความเสียหายก็จะยิ่งสูงขึ้น โดยแต่ละแต้มของพลังใจจะเพิ่มความเสียหายสุดท้ายขึ้น 0.5%
+KungfuCastBuffInfo_大闹天宫buff1,"The higher the Spirit value, the higher the damage, with each point of Spirit increasing final damage by 0.5%; also reduces the enemy's Spirit by 50%.",ยิ่งค่าพลังใจสูง ความเสียหายก็จะยิ่งสูงขึ้น โดยแต่ละแต้มของพลังใจจะเพิ่มความเสียหายสุดท้ายขึ้น 0.5% พร้อมลดพลังใจศัตรูลง 50%.
+KungfuCastBuffInfo_地动山摇1buff1,"For each point that your Constitution is higher than the enemy's, final damage increases by 10%, up to a maximum of 100%.","ทุกๆ 1 แต้มที่""พลังกาย""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 10% สูงสุด 100%"
+KungfuCastBuffInfo_百爪千挠1buff1,"For each point that your Dexterity is higher than the enemy's, final damage increases by 10%, up to a maximum of 100%.","ทุกๆ 1 แต้มที่""คล่องแคล่ว""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 10% สูงสุด 100%"
+KungfuCastBuffInfo_狂犬吠日buff1,"Reduces the enemy's energy by 200 points, and decreases their Action Speed by 25%, and final damage by 25% when attacking, lasting until the enemy's next action.",ลดค่าปราณเคลื่อนที่ศัตรู 200 แต้ม และลดความเร็วท่าร่างของศัตรูลง 25% และลดความเสียหายสุดท้ายลง 25% เมื่อโจมตี ยาวนานจนกระทั่งถึงการลงมือครั้งต่อไปของศัตรู
+KungfuCastBuffInfo_火蟾吞噬buff1,"The higher the enemy's Poisoned level, the higher the damage they receive, with each point of Poisoned increasing final damage by 1.2%.",ยิ่งศัตรูถูกพิษมากเท่าไร ความเสียหายที่ได้รับก็จะยิ่งมากขึ้นเท่านั้น ทุกๆ แต้มของติดพิษจะเพิ่มความเสียหายสุดท้าย 1.2%
+KungfuCastBuffInfo_火蟾吐息buff1,"For each point that your Constitution is higher than the enemy's, final damage increases by 10%, up to a maximum of 100%.","ทุกๆ 1 แต้มที่""พลังกาย""ของคุณสูงกว่าของศัตรู, ความเสียหายสุดท้ายจะเพิ่มขึ้น 10% สูงสุด 100%"

@@ -1,4 +1,4 @@
-﻿﻿DMod_Active,"<#61C3C8>{0}</color> triggers {1}, {2}",<#61C3C8>{0}</color>แสดงผล{1}{2}
+﻿﻿DMod_Active,"<#61C3C8>{0}</color> triggers {1}, {2}",<#61C3C8>{0}</color> แสดงผล{1}{2}
 DMod_FuWuShuangZhi,Additional gain of {0},ได้รับ {0} เพิ่มเติม
 DMod_ZhuangZhouMengDie,Gain EXP{0},ได้รับค่าประสบการณ์ {0}
 DMod_GetCoin,Gain Coin{0},ได้รับเงิน {0}
