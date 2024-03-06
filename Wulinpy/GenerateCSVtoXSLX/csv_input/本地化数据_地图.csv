@@ -1,15 +1,15 @@
 ﻿﻿MapName_1000,Nameless Region,พื้นที่ไร้นาม
-MapName_1001,Xiangfan Region,เขตเซียงฝาน
+MapName_1001,Xiangfan Region,มณฑลเซียงฟาน
 MapName_1002,Zhongzhou Region,มณฑลจงโจว
-MapName_1003,Wuyue Region,เขตหวู่เยว่
-MapName_1004,Southwest region,ภูมิภาคตะวันตกเฉียงใต้
+MapName_1003,Wuyue Region,มณฑลอู๋เยี่ยว์
+MapName_1004,Southwest region,แดนตะวันตกเฉียงใต้
 MapName_1100_0,Farmland,พื้นที่เกษตร
 MapName_1100,Nameless village,หมู่บ้านไร้นาม
-MapName_1101,Nameless Inn,โรงเตี๊ยมไร้นาม
-MapName_1104_0,Village head's house,บ้านพักหัวหน้าหมู่บ้าน
-MapName_1102,Village head's house - Secret chamber,บ้านหัวหน้าหมู่บ้าน - ห้องลับ
-MapName_1103,Village head's house - Bedroom,บ้านหัวหน้าหมู่บ้าน - ห้องนอน
-MapName_1104,Village head's house - Main hall,บ้านหัวหน้าหมู่บ้าน - โถงหลัก
+MapName_1101,Nameless hotel,โรงเตี๊ยมไร้นาม
+MapName_1104_0,Village leader's house,บ้านหัวหน้าหมู่บ้าน
+MapName_1102,Village leader's house - Secret chamber,บ้านหัวหน้าหมู่บ้าน - ห้องลับ
+MapName_1103,Village leader's house - Bedroom,บ้านหัวหน้าหมู่บ้าน - ห้องนอน
+MapName_1104,Village leader's house - Main hall,บ้านหัวหน้าหมู่บ้าน - โถงหลัก
 MapName_1105,Blacksmith's forge,โรงตีเหล็ก
 MapName_1106,Hunter's house,บ้านนายพราน
 MapName_1107,Woodcutter's house,บ้านคนตัดฟืน
@@ -17,7 +17,7 @@ MapName_1108,Shabby house,บ้านทรุดโทรม
 MapName_1109,Inn - Guest room,โรงเตี๊ยม - ห้องพัก
 MapName_1200_0,Prison,คุก
 MapName_1200_1,Training field,ลานฝึก
-MapName_1200,Blue Wind Camp,ค่ายวายุคราม
+MapName_1200,Gentle Breeze Camp or Fortress,ค่ายวายุคราม
 MapName_1201,Meeting Room,ห้องประชุม
 MapName_1202,Treasure room,ห้องสมบัติ
 MapName_1203,Bedroom,ห้องนอน
@@ -32,7 +32,7 @@ MapName_1500,Wild Wolf Valley,หุบเขาหมาป่า
 MapName_1501,Wolf King Cave,ถ้ำราชาหมาป่า
 MapName_1600,Cross Hill,หุบเขาทางแยก
 MapName_1700,Ferry,ท่าเรือ
-MapName_2000,Half Amateur Studio,Half Amateur Studio
+MapName_2000,Half Amateur Studio,Half Full Studio
 MapName_5001,Mass Burial Ground,สุสาน
 MapName_5002,
 MapName_5003,Tea Stall,แผงน้ำชา
@@ -40,8 +40,8 @@ MapName_5004,Faraway village,หมู่บ้านห่างไกล
 MapName_5005,Refugee Camp,ค่ายผู้ลี้ภัย
 MapName_5006,
 MapName_5007,Nameless Region Port,ท่าเรือไร้นาม
-MapName_5008,Xiangfan Region Port,ท่าเรือเซียงฝาน
-MapName_5009,Wuyue Region Port,ท่าเรือหวู่เยว่
+MapName_5008,Xiangfan Region Port,ท่าเรือเซียงฟาน
+MapName_5009,Wuyue Region Port,ท่าเรืออู๋เยี่ยว์
 MapName_5011,Nameless cave,ถ้ำไร้นาม
 MapName_5012,Test Cutting Platform,ลานประลองทดสอบกระบี่
 MapName_5013,Merchant ship,เรือพ่อค้า
@@ -55,7 +55,7 @@ MapName_5022,Above river,เหนือน่านน้ำ
 MapName_5025,Zhongzhou Region Port,ท่าเรือจงโจว
 MapName_5026,
 MapName_5029,Mountain cave,ถ้ำภูเขา
-MapName_5030,Sea Serpent Gang,พรรคมังกรทะเล
+MapName_5030,Sea Serpent Gang,พรรคอสรพิษสมุทร
 MapName_5033,Deserted Courtyard,ลานรกร้าง
 MapName_5034,
 MapName_5035,
@@ -64,9 +64,9 @@ MapName_5037,Imperial Palace Hall,ห้องโถงพระราชวั�
 MapName_5038,Zhongzi Contest,การแข่งขันทำบ๊ะจ่าง
 MapName_5039,Supreme Court,ศาลสูงสุด
 MapName_5040,Supreme Court - Court,ศาลสูงสุด - ศาล
-MapName_5041,Supreme Court - Prison,ศาลสูงสุด - เรือนจำ
+MapName_5041,Supreme Court - Prison,ศาลสูงสุด - คุก
 MapName_5050,Waterfall Pond,บึงน้ำตก
-MapName_5051,Cloud Shrouded Cliff,ผาทะเลเมฆ
+MapName_5051,Cloud Sea Cliff,ผาทะเลเมฆ
 MapName_5052,Peak of Challenge,ยอดเขาแห่งการชิงชัย
 MapName_6000,"Wuxian Mountain, Southwest foothills",ภูเขาอู๋เซียน - เชิงเขาตะวันตกเฉียงใต้
 MapName_6001,"Wuxian Mountain, Northeast foothills",ภูเขาอู๋เซียน - เชิงเขาตะวันออกเฉียงเหนือ
@@ -94,10 +94,10 @@ MapName_20115,Sorrowless Tarven - 2nd Floor,หอสุราลืมทุก
 MapName_20116_0,General's mansion,จวนแม่ทัพ
 MapName_20116,General's mansion - Main hall,จวนแม่ทัพ - โถงหลัก
 MapName_20117,Armory,คลังแสง
-MapName_20118_0,Chuxiang Ding family's mansion,คฤหาสน์สกุลติง
-MapName_20118,Chuxiang Ding family's mansion - Main hall,คฤหาสน์สกุลติง - ห้องโถงหลัก
-MapName_20119,Chuxiang Ding family's mansion - Boudoir,คฤหาสน์สกุลติง - ห้องลูกสาว
-MapName_20120,Chuxiang Ding family's mansion - Secret chamber,คฤหาสน์สกุลติง - ห้องลับ
+MapName_20118_0,Chuxiang Ding family's mansion,คฤหาสน์ตระกูลติงเมืองฉู่เซียง
+MapName_20118,Chuxiang Ding family's mansion - Main hall,คฤหาสน์ตระกูลติงเมืองฉู่เซียง - ห้องโถงหลัก
+MapName_20119,Chuxiang Ding family's mansion - Boudoir,คฤหาสน์ตระกูลติงเมืองฉู่เซียง - ห้องลูกสาว
+MapName_20120,Chuxiang Ding family's mansion - Secret chamber,คฤหาสน์ตระกูลติงเมืองฉู่เซียง - ห้องลับ
 MapName_20121,Dragon Library,ห้องสมุดมังกร
 MapName_20122,Residential house,บ้านเรือน
 MapName_20123,Residential house,บ้านเรือน
@@ -118,9 +118,9 @@ MapName_20203,Government Office - Main hall,ศาลาว่าการ - โ
 MapName_20204,Government Office - Prison,ศาลาว่าการ - คุก
 MapName_20205,Daliang Dojo,โรงฝึกต้าเหลียง
 MapName_20206,Hall of Rejuvenation,โรงหมอ
-MapName_20207,Hall of Rejuvenation - Exam room,โรงหมอ - ห้องปรุงยา
+MapName_20207,Hall of Rejuvenation - Exam room,โรงหมอ - ห้องทดสอบ
 MapName_20208,Department store,ร้านค้า
-MapName_20209,Glittering Artifact Auction,หอไข่มุก
+MapName_20209,Glittering Artifact House,หอไข่มุก
 MapName_20210,Fragrance Shop,จตุรัสเครื่องหอม
 MapName_20211,Literature Bookstore,ร้านหนังสือวรรณกรรม
 MapName_20212,Tea Shop,โรงน้ำชา
@@ -134,11 +134,11 @@ MapName_20219,Imperial School,สำนักบัณฑิตหลวง
 MapName_20220_0,Baoguo Temple,วัดเป่ากั๋ว
 MapName_20220,Baoguo Temple,วัดเป่ากั๋ว
 MapName_20221,Tower of Prosperity,หอเจิดจรัส
-MapName_20222_0,Duke Qi's Manor,ตำหนักอ๋องฉี
-MapName_20222,Duke Qi's Manor - Main hall,ตำหนักอ๋องฉี - โถงหลัก
-MapName_20223,Duke Qi's Manor - Study,ตำหนักอ๋องฉี - ห้องหนังสือ
-MapName_20224,Duke Qi's Manor - Bedroom,ตำหนักอ๋องฉี - ห้องนอน
-MapName_20225,Duke Qi's Manor - Guest room,ตำหนักอ๋องฉี - ห้องรับแขก
+MapName_20222_0,Duke Ji's manor,ตำหนักองค์ชายฉี
+MapName_20222,Duke Ji's manor - Main hall,ตำหนักองค์ชายฉี - โถงหลัก
+MapName_20223,Duke Ji's manor - Study,ตำหนักองค์ชายฉี - ห้องหนังสือ
+MapName_20224,Duke Ji's manor - Bedroom,ตำหนักองค์ชายฉี - ห้องนอน
+MapName_20225,Duke Ji's manor - Guest room,ตำหนักองค์ชายฉี - ห้องรับแขก
 MapName_20226,Residential house,บ้านเรือน
 MapName_20227,Residential house,บ้านเรือน
 MapName_20228,Residential house,บ้านเรือน
@@ -148,7 +148,7 @@ MapName_20298,
 MapName_20300,Lin'an City,เมืองหลินอัน
 MapName_20300_0,Market,ตลาด
 MapName_20300_1,Pier,ท่าเรือ
-MapName_20301,Safeguard Escort,สำนักคุ้มภัยสันติสุข
+MapName_20301,Safeguard Escort,สำนักคุ้มกัน
 MapName_20302,Hotel Delighted,โรงเตี๊ยมสุขสำราญ
 MapName_20303,Hotel Delighted - Guest room,โรงเตี๊ยมสุขสำราญ - ห้องรับแขก
 MapName_20304_0,Government Office,ศาลาว่าการ
@@ -159,7 +159,7 @@ MapName_20307,Lin'an Dojo,โรงฝึกหลินอัน
 MapName_20308,Hall of Benevolence,หอศีลธรรม
 MapName_20309,Exquisite Pavilion,ศาลาปราณีต
 MapName_20310,Grocery store,ร้านขายของชำ
-MapName_20311,Yunlin Temple,วัดป่าเมฆา
+MapName_20311,Cloud Forest Temple,อารามป่าเมฆา
 MapName_20312,Residential house,บ้านเรือน
 MapName_20313,Residential house,บ้านเรือน
 MapName_20314,Ruined shrine,ศาลเจ้าร้าง
@@ -173,11 +173,11 @@ MapName_20319_0,Bamboo garden,สวนไผ่
 MapName_20319,Maiden House,ตำหนักพิสุทธิ์
 MapName_20320,Painting Shop,ร้านภาพวาด
 MapName_20321_0,Flower garden,สวนดอกไม้
-MapName_20321_1,Duke Kang's manor,ตำหนักอ๋องคัง
-MapName_20321,Duke Kang's manor - Main hall,ตำหนักอ๋องคัง - โถงหลัก
-MapName_20322,Duke Kang's manor - Study,ตำหนักอ๋องคัง - ห้องหนังสือ
-MapName_20323,Duke Kang's manor - Bedroom,ตำหนักอ๋องคัง - ห้องนอน
-MapName_20324,Duke Kang's manor - Princess's bedroom,ตำหนักอ๋องคัง - ห้องนอนองค์หญิง
+MapName_20321_1,Duke Kang's manor,ตำหนักองค์ชายคัง
+MapName_20321,Duke Kang's manor - Main hall,ตำหนักองค์ชายคัง - โถงหลัก
+MapName_20322,Duke Kang's manor - Study,ตำหนักองค์ชายคัง - ห้องหนังสือ
+MapName_20323,Duke Kang's manor - Bedroom,ตำหนักองค์ชายคัง - ห้องนอน
+MapName_20324,Duke Kang's manor - Princess's bedroom,ตำหนักองค์ชายคัง - ห้องนอนองค์หญิง
 MapName_20325,Blacksmith's forge,โรงตีเหล็ก
 MapName_20326,Pawn shop,โรงจำนำ
 MapName_20327,Wine God Tower - Kitchen,หอคอยเทพสุรา - ห้องครัว
@@ -193,11 +193,11 @@ MapName_20336,Enlightment Tower - 5th Floor,หอรู้แจ้ง - ชั
 MapName_20397,Outside Lin'an,นอกเมืองหลินอัน
 MapName_20398,
 MapName_2010_0,Zhenwu Sword Formation,ค่ายกลกระบี่เจิ้นหวู่
-MapName_2010_1,Star Observatory,ลานชมดารา
+MapName_2010_1,Star Observatory,หอดูดาว
 MapName_2010,Taoist Sect,สำนักเต๋า
 MapName_2011,Zhenwu Hall,โถงเจิ้นหวู่
 MapName_2012,Alchemy room,ห้องปรุงยา
-MapName_2013,Disciples' Living Quarter,ห้องลูกศิษย์
+MapName_2013,Disciples' Room,ห้องลูกศิษย์
 MapName_2014_0,Star Chaser Pavilion,ศาลาคว้าดารา
 MapName_2014,Star Chaser Pavilion - 1st Floor,ศาลาคว้าดารา - ชั้น 1
 MapName_2015,Star Chaser Pavilion - 2nd Floor,ศาลาคว้าดารา - ชั้น 2
@@ -219,7 +219,7 @@ MapName_2025,Scripture Tower - 3rd Floor,หอพระคัมภีร์ - 
 MapName_2026,Kitchen,ห้องครัว
 MapName_2027,Repentance room,ห้องสำนึกผิด
 MapName_2028,Arhat Hall,หออรหันต์
-MapName_2030_0,Saint's Stele,แผ่นศิลาเซียน
+MapName_2030_0,Saint's Stele,แผ่นศิลาจารึกเซียน
 MapName_2030,Confucius Temple,วัดขงจื้อ
 MapName_2031,Dacheng Hall,หอต้าเฉิง
 MapName_2032,Disciples' Living Quarter,ห้องลูกศิษย์
@@ -230,7 +230,7 @@ MapName_2040,Crime Investigation Bureau,สำนักสืบสวน
 MapName_2041,Interrogation Hall,หอสอบสวน
 MapName_2042,Bedroom,ห้องนอน
 MapName_2043,Prison,คุก
-MapName_2050,Jiujiang Fotress,ค่ายน้ำจิ่วเจียง
+MapName_2050,Nine Rivers Waterside Stronghold,ค่ายน้ำจิ่วเจียง
 MapName_2051,Righteous Hall,หอคุณธรรม
 MapName_2052,Bedroom,ห้องนอน
 MapName_2053,Kitchen,ห้องครัว
@@ -253,29 +253,29 @@ MapName_2091,Main hall,โถงหลัก
 MapName_2092,Alchemy room,ห้องปรุงยา
 MapName_2100,Linlang Temple,วัดหลินหลาง
 MapName_2101,Main hall,โถงหลัก
-MapName_2102,Linlang Go puzzle,กลหมากล้อมหลินหลาง
+MapName_2102,Linlang Go puzzle,กลหมากหลินหลาง
 MapName_2110,Tomb Raider Sect,สำนักปล้นสุสาน
 MapName_2111,Great hall,โถงใหญ่
 MapName_2120,Jiuli Tribe,เผ่าจิ่วลี่
 MapName_2121,Jiuli Tribe·Main Camp,เผ่าจิ่วลี่·ค่า่ยหลัก
-MapName_2122,Jiuli Tribe - Poison Dragon Cave,เผ่าจิ่วลี่·ถ้ำมังกรพิษ
-MapName_2130,Night Auction Market,ตลาดประมูลราตรี
+MapName_2122,Jiuli Tribe - Poison Dragon Cave,เผ่าจิ่วลี่·ถ้ามังกรพิษ
+MapName_2130,Night Auction Plaza,จัตุรัสปีศาจราตรี
 MapName_2131,Great hall,โถงใหญ่
 MapName_2139,
-MapName_2140,Swallow Nest,รังนกนางแอ่น
+MapName_2140,Nest of Swallow,รังนกนางแอ่น
 MapName_2150,Nine Factions Sect,นิกายเก้าฝ่าย
 MapName_2151,Nine Factions Sect·Senluo Hall,นิกายเก้าฝ่าย·โถงเสิ่นลั่ว
 MapName_2155,Buddha Temple,อารามพุทธะ
 MapName_2156,Buddha Temple - 1st Floor,อารามพุทธะ - ชั้น 1
 MapName_2157,Buddha Temple - 2nd Floor,อารามพุทธะ - ชั้น 2
 MapName_2158,Buddha Temple - 3rd Floor,อารามพุทธะ - ชั้น 3
-MapName_2159,Buddha Temple - Last Floor,อารามพุทธะ - ชั้นบนสุด
+MapName_2159,Buddha Temple - Lasst Floor,อารามพุทธะ - ชั้นบนสุด
 MapName_2160,Melody House,ตำหนักบทเพลง
 MapName_2161,Melody House·Yinfeng Tower,ตำหนักบทเพลง·หอคอยหยินเฟิง
-MapName_2170,Bandit Chief Stronghold,ค่ายหัวหน้าโจร
+MapName_2170,Bandit Chief Stronghold,หัวหน้าค่ายโจร
 MapName_2998,
 MapName_2999,Training area,ลานฝึก
-MapName_10010,Emperor Wu Mausoleum,สุสานฮ่องเต้อู่ตี้
+MapName_10010,Emperor Wu Mausoleum,สุสานจักรพรรดิอู่ตี้
 MapName_10020,Ancient Ruin of Shoufang,ซากปรักหักพังโบราณสถานโชวฟาง
 MapName_10030,Suburds,ชานเมือง
 MapName_10031,Commander's tent,กระโจมแม่ทัพ
@@ -286,23 +286,23 @@ MapName_10050,Mang Mountain Pit,ถ้ำหลุมภูเขาหมาง
 MapName_10060,Longevity Tomb,สุสานอมตะ
 MapName_10070,Palace Camp,ค่ายทัพหลวง
 MapName_10071,Palace big tent,กระโจมใหญ่ทัพหลวง
-MapName_10080,Yan Army Camp,ค่ายกองทัพเยี่ยน
+MapName_10080,Yan Army Camp,ค่ายกองทัพหยาน
 MapName_10100,Southern Camp,ค่ายทางใต้
 MapName_10110,Forest of Broken Souls,ป่าวิญญาณสลาย
 MapName_10120,Snowflower Valley,หุบเขาโบตั๋น
 MapName_10130,Ye Family Battalion Camp,ค่ายกองพันตระกูลเย่
 WMapName_1000,Nameless Region,พื้นที่ไร้นาม
-WMapName_1001,Xiangfan Region,เขตเซียงฝาน
+WMapName_1001,Xiangfan Region,มณฑลเซียงฟาน
 WMapName_1002,Zhongzhou Region,มณฑลจงโจว
-WMapName_1003,Wuyue Region,เขตหวู่เยว่
-WMapName_1004,Southwest region,ภูมิภาคตะวันตกเฉียงใต้
+WMapName_1003,Wuyue Region,มณฑลอู๋เยี่ยว์
+WMapName_1004,Southwest region,แดนตะวันตกเฉียงใต้
 WMapName_1100_0,Farmland,พื้นที่เกษตร
 WMapName_1100,Nameless village,หมู่บ้านไร้นาม
-WMapName_1101,Nameless Inn,โรงเตี๊ยมไร้นาม
-WMapName_1104_0,Village head's house,บ้านพักหัวหน้าหมู่บ้าน
-WMapName_1102,Village head's house - Secret chamber,บ้านหัวหน้าหมู่บ้าน - ห้องลับ
-WMapName_1103,Village head's house - Bedroom,บ้านหัวหน้าหมู่บ้าน - ห้องนอน
-WMapName_1104,Village head's house - Main hall,บ้านหัวหน้าหมู่บ้าน - โถงหลัก
+WMapName_1101,Nameless hotel,โรงเตี๊ยมไร้นาม
+WMapName_1104_0,Village leader's house,บ้านหัวหน้าหมู่บ้าน
+WMapName_1102,Village leader's house - Secret chamber,บ้านหัวหน้าหมู่บ้าน - ห้องลับ
+WMapName_1103,Village leader's house - Bedroom,บ้านหัวหน้าหมู่บ้าน - ห้องนอน
+WMapName_1104,Village leader's house - Main hall,บ้านหัวหน้าหมู่บ้าน - โถงหลัก
 WMapName_1105,Blacksmith's forge,โรงตีเหล็ก
 WMapName_1106,Hunter's house,บ้านนายพราน
 WMapName_1107,Woodcutter's house,บ้านคนตัดฟืน
@@ -310,7 +310,7 @@ WMapName_1108,Shabby house,บ้านทรุดโทรม
 WMapName_1109,Inn - Guest room,โรงเตี๊ยม - ห้องพัก
 WMapName_1200_0,Prison,คุก
 WMapName_1200_1,Training field,ลานฝึกซ้อม
-WMapName_1200,Blue Wind Camp,ค่ายวายุคราม
+WMapName_1200,Gentle Breeze Camp or Fortress,ค่ายวายุคราม
 WMapName_1201,Meeting Room,ห้องประชุม
 WMapName_1202,Treasure room,ห้องสมบัติ
 WMapName_1203,Bedroom,ห้องนอน
@@ -325,7 +325,7 @@ WMapName_1500,Wild Wolf Valley,หุบเขาหมาป่า
 WMapName_1501,Wolf King Cave,ถ้ำราชาหมาป่า
 WMapName_1600,Cross Hill,หุบเขาทางแยก
 WMapName_1700,Ferry,ท่าเรือ
-WMapName_2000,Half Amateur Studio,Half Amateur Studio
+WMapName_2000,Half Amateur Studio,Half Full Studio
 WMapName_5001,Mass Burial Ground,สุสาน
 WMapName_5002,
 WMapName_5003,Tea Stall,แผงน้ำชา
@@ -333,8 +333,8 @@ WMapName_5004,Faraway village,หมู่บ้านห่างไกล
 WMapName_5005,Refugee Camp,ค่ายผู้ลี้ภัย
 WMapName_5006,
 WMapName_5007,Nameless Region Port,ท่าเรือไร้นาม
-WMapName_5008,Xiangfan Region Port,ท่าเรือเซียงฝาน
-WMapName_5009,Wuyue Region Port,ท่าเรือหวู่เยว่
+WMapName_5008,Xiangfan Region Port,ท่าเรือเซียงฟาน
+WMapName_5009,Wuyue Region Port,ท่าเรืออู๋เยี่ยว์
 WMapName_5011,Nameless cave,ถ้ำไร้นาม
 WMapName_5012,Test Cutting Platform,ลานประลองทดสอบกระบี่
 WMapName_5013,Merchant ship,เรือพ่อค้า
@@ -348,7 +348,7 @@ WMapName_5022,Above river,เหนือน่านน้ำ
 WMapName_5025,Zhongzhou Region Port,ท่าเรือจงโจว
 WMapName_5026,
 WMapName_5029,Mountain cave,ถ้ำภูเขา
-WMapName_5030,Sea Serpent Gang,พรรคมังกรทะเล
+WMapName_5030,Sea Serpent Gang,พรรคอสรพิษสมุทร
 WMapName_5033,Deserted Courtyard,ลานรกร้าง
 WMapName_5034,
 WMapName_5035,
@@ -385,10 +385,10 @@ WMapName_20115,Sorrowless Tarven - 2nd Floor,หอสุราลืมทุ�
 WMapName_20116_0,General's mansion,จวนแม่ทัพ
 WMapName_20116,General's mansion - Main hall,จวนแม่ทัพ - โถงหลัก
 WMapName_20117,Armory,คลังแสง
-WMapName_20118_0,Chuxiang Ding family's mansion,คฤหาสน์สกุลติง
-WMapName_20118,Chuxiang Ding family's mansion - Main hall,คฤหาสน์สกุลติง - ห้องโถงหลัก
-WMapName_20119,Chuxiang Ding family's mansion - Boudoir,คฤหาสน์สกุลติง - ห้องลูกสาว
-WMapName_20120,Chuxiang Ding family's mansion - Secret chamber,คฤหาสน์สกุลติง - ห้องลับ
+WMapName_20118_0,Chuxiang Ding family's mansion,คฤหาสน์ตระกูลติงเมืองฉู่เซียง
+WMapName_20118,Chuxiang Ding family's mansion - Main hall,คฤหาสน์ตระกูลติงเมืองฉู่เซียง - ห้องโถงหลัก
+WMapName_20119,Chuxiang Ding family's mansion - Boudoir,คฤหาสน์ตระกูลติงเมืองฉู่เซียง - ห้องลูกสาว
+WMapName_20120,Chuxiang Ding family's mansion - Secret chamber,คฤหาสน์ตระกูลติงเมืองฉู่เซียง - ห้องลับ
 WMapName_20121,Dragon Library,ห้องสมุดมังกร
 WMapName_20122,Residential house,บ้านเรือน
 WMapName_20123,Residential house,บ้านเรือน
@@ -409,9 +409,9 @@ WMapName_20203,Government Office - Main hall,ศาลาว่าการ - �
 WMapName_20204,Government Office - Prison,ศาลาว่าการ - คุก
 WMapName_20205,Daliang Dojo,โรงฝึกต้าเหลียง
 WMapName_20206,Hall of Rejuvenation,โรงหมอ
-WMapName_20207,Hall of Rejuvenation - Exam room,โรงหมอ - ห้องปรุงยา
+WMapName_20207,Hall of Rejuvenation - Exam room,โรงหมอ - ห้องทดสอบ
 WMapName_20208,Department store,ร้านค้า
-WMapName_20209,Glittering Artifact Auction,หอไข่มุก
+WMapName_20209,Glittering Artifact House,หอไข่มุก
 WMapName_20210,Fragrance Shop,จตุรัสเครื่องหอม
 WMapName_20211,Literature Bookstore,ร้านหนังสือวรรณกรรม
 WMapName_20212,Tea Shop,โรงน้ำชา
@@ -425,11 +425,11 @@ WMapName_20219,Imperial School,สำนักบัณฑิตหลวง
 WMapName_20220_0,Baoguo Temple,วัดเป่ากั๋ว
 WMapName_20220,Baoguo Temple,วัดเป่ากั๋ว
 WMapName_20221,Tower of Prosperity,หอเจิดจรัส
-WMapName_20222_0,Duke Qi's Manor,ตำหนักอ๋องฉี
-WMapName_20222,Duke Qi's Manor - Main hall,ตำหนักอ๋องฉี - โถงหลัก
-WMapName_20223,Duke Qi's Manor - Study,ตำหนักอ๋องฉี - ห้องหนังสือ
-WMapName_20224,Duke Qi's Manor - Bedroom,ตำหนักอ๋องฉี - ห้องนอน
-WMapName_20225,Duke Qi's Manor - Guest room,ตำหนักอ๋องฉี - ห้องรับแขก
+WMapName_20222_0,Duke Ji's manor,ตำหนักองค์ชายฉี
+WMapName_20222,Duke Ji's manor - Main hall,ตำหนักองค์ชายฉี - โถงหลัก
+WMapName_20223,Duke Ji's manor - Study,ตำหนักองค์ชายฉี - ห้องหนังสือ
+WMapName_20224,Duke Ji's manor - Bedroom,ตำหนักองค์ชายฉี - ห้องนอน
+WMapName_20225,Duke Ji's manor - Guest room,ตำหนักองค์ชายฉี - ห้องรับแขก
 WMapName_20226,Residential house,บ้านเรือน
 WMapName_20227,Residential house,บ้านเรือน
 WMapName_20228,Residential house,บ้านเรือน
@@ -439,7 +439,7 @@ WMapName_20298,
 WMapName_20300,Lin'an City,เมืองหลินอัน
 WMapName_20300_0,Market,ตลาด
 WMapName_20300_1,Pier,ท่าเรือ
-WMapName_20301,Safeguard Escort,สำนักคุ้มภัยสันติสุข
+WMapName_20301,Safeguard Escort,สำนักคุ้มกัน
 WMapName_20302,Hotel Delighted,โรงเตี๊ยมสุขสำราญ
 WMapName_20303,Hotel Delighted - Guest room,โรงเตี๊ยมสุขสำราญ - ห้องรับแขก
 WMapName_20304_0,Government Office,ศาลาว่าการ
@@ -450,12 +450,12 @@ WMapName_20307,Lin'an Dojo,โรงฝึกหลินอัน
 WMapName_20308,Hall of Benevolence,หอศีลธรรม
 WMapName_20309,Exquisite Pavilion,ศาลาปราณีต
 WMapName_20310,Grocery store,ร้านขายของชำ
-WMapName_20311,Yunlin Temple,วัดป่าเมฆา
+WMapName_20311,Cloud Forest Temple,อารามป่าเมฆา
 WMapName_20312,Residential house,บ้านเรือน
 WMapName_20313,Residential house,บ้านเรือน
 WMapName_20314,Ruined shrine,ศาลเจ้าร้าง
 WMapName_20315_0,Enlightment Tower,หอรู้แจ้ง
-WMapName_20315,Enlightment Tower,หอรู้แจ้ง
+WMapName_20315,Enlightment Tower - 1st Floor,หอรู้แจ้ง - ชั้น 1
 WMapName_20316_0,Wine God Tower,หอคอยเทพสุรา
 WMapName_20316,Wine God Tower - 1st Floor,หอคอยเทพสุรา - ชั้น 1
 WMapName_20317,Wine God Tower - 2nd Floor,หอคอยเทพสุรา - ชั้น 2
@@ -464,11 +464,11 @@ WMapName_20319_0,Bamboo garden,สวนไผ่
 WMapName_20319,Maiden House,ตำหนักพิสุทธิ์
 WMapName_20320,Painting Shop,ร้านภาพวาด
 WMapName_20321_0,Flower garden,สวนดอกไม้
-WMapName_20321_1,Duke Kang's manor,ตำหนักอ๋องคัง
-WMapName_20321,Duke Kang's manor - Main hall,ตำหนักอ๋องคัง - โถงหลัก
-WMapName_20322,Duke Kang's manor - Study,ตำหนักอ๋องคัง - ห้องหนังสือ
-WMapName_20323,Duke Kang's manor - Bedroom,ตำหนักอ๋องคัง - ห้องนอน
-WMapName_20324,Duke Kang's manor - Princess's bedroom,ตำหนักอ๋องคัง - ห้องนอนองค์หญิง
+WMapName_20321_1,Duke Kang's manor,ตำหนักองค์ชายคัง
+WMapName_20321,Duke Kang's manor - Main hall,ตำหนักองค์ชายคัง - โถงหลัก
+WMapName_20322,Duke Kang's manor - Study,ตำหนักองค์ชายคัง - ห้องหนังสือ
+WMapName_20323,Duke Kang's manor - Bedroom,ตำหนักองค์ชายคัง - ห้องนอน
+WMapName_20324,Duke Kang's manor - Princess's bedroom,ตำหนักองค์ชายคัง - ห้องนอนองค์หญิง
 WMapName_20325,Blacksmith's forge,โรงตีเหล็ก
 WMapName_20326,Pawn shop,โรงจำนำ
 WMapName_20327,Wine God Tower - Kitchen,หอคอยเทพสุรา - ห้องครัว
@@ -484,11 +484,11 @@ WMapName_20336,Enlightment Tower - 5th Floor,หอรู้แจ้ง - ช�
 WMapName_20397,Outside Lin'an,นอกเมืองหลินอัน
 WMapName_20398,
 WMapName_2010_0,Zhenwu Sword Formation,ค่ายกลกระบี่เจิ้นหวู่
-WMapName_2010_1,Star Observatory,ลานชมดารา
+WMapName_2010_1,Star Observatory,หอดูดาว
 WMapName_2010,Taoist Sect,สำนักเต๋า
 WMapName_2011,Zhenwu Hall,โถงเจิ้นหวู่
 WMapName_2012,Alchemy room,ห้องปรุงยา
-WMapName_2013,Disciples' Living Quarter,ห้องลูกศิษย์
+WMapName_2013,Disciples' Room,ห้องลูกศิษย์
 WMapName_2014_0,Star Chaser Pavilion,ศาลาคว้าดารา
 WMapName_2014,Star Chaser Pavilion - 1st Floor,ศาลาคว้าดารา - ชั้น 1
 WMapName_2015,Star Chaser Pavilion - 2nd Floor,ศาลาคว้าดารา - ชั้น 2
@@ -517,7 +517,7 @@ WMapName_2040,Crime Investigation Bureau,สำนักสืบสวน
 WMapName_2041,Interrogation Hall,หอสอบสวน
 WMapName_2042,Bedroom,ห้องนอน
 WMapName_2043,Prison,คุก
-WMapName_2050,Jiujiang Fotress,ค่ายน้ำจิ่วเจียง
+WMapName_2050,Nine Rivers Waterside Stronghold,ค่ายน้ำจิ่วเจียง
 WMapName_2051,Righteous Hall,หอคุณธรรม
 WMapName_2052,Bedroom,ห้องนอน
 WMapName_2053,Kitchen,ห้องครัว
@@ -540,29 +540,29 @@ WMapName_2091,Main hall,โถงหลัก
 WMapName_2092,Alchemy room,ห้องปรุงยา
 WMapName_2100,Linlang Temple,วัดหลินหลาง
 WMapName_2101,Main hall,โถงหลัก
-WMapName_2102,Linlang Go puzzle,กลหมากล้อมหลินหลาง
+WMapName_2102,Linlang Go puzzle,กลหมากหลินหลาง
 WMapName_2110,Tomb Raider Sect,สำนักปล้นสุสาน
 WMapName_2111,Great hall,โถงใหญ่
 WMapName_2120,Jiuli Tribe,เผ่าจิ่วลี่
 WMapName_2121,Jiuli Tribe·Main Camp,เผ่าจิ่วลี่·ค่ายหลัก
-WMapName_2122,Jiuli Tribe - Poison Dragon Cave,เผ่าจิ่วลี่·ถ้ำมังกรพิษ
-WMapName_2130,Night Auction Market,ตลาดประมูลราตรี
+WMapName_2122,Jiuli Tribe - Poison Dragon Cave,เผ่าจิ่วลี่·ถ้ามังกรพิษ
+WMapName_2130,Night Auction Plaza,จัตุรัสปีศาจราตรี
 WMapName_2131,Great hall,โถงใหญ่
 WMapName_2139,
-WMapName_2140,Swallow Nest,รังนกนางแอ่น
+WMapName_2140,Nest of Swallow,รังนกนางแอ่น
 WMapName_2150,Nine Factions Sect,นิกายเก้าฝ่าย
 WMapName_2151,Nine Factions Sect·Senluo Hall,นิกายเก้าฝ่าย·โถงเสิ่นลั่ว
 WMapName_2155,Buddha Temple,อารามพุทธะ
 WMapName_2156,Buddha Temple - 1st Floor,อารามพุทธะ - ชั้น 1
 WMapName_2157,Buddha Temple - 2nd Floor,อารามพุทธะ - ชั้น 2
 WMapName_2158,Buddha Temple - 3rd Floor,อารามพุทธะ - ชั้น 3
-WMapName_2159,Buddha Temple - Last Floor,อารามพุทธะ - ชั้นบนสุด
+WMapName_2159,Buddha Temple - Lasst Floor,อารามพุทธะ - ชั้นบนสุด
 WMapName_2160,Melody House,ตำหนักบทเพลง
 WMapName_2161,Melody House·Yinfeng Tower,ตำหนักบทเพลง·หอคอยหยินเฟิง
-WMapName_2170,Bandit Chief Stronghold,ค่ายหัวหน้าโจร
+WMapName_2170,Bandit Chief Stronghold,หัวหน้าค่ายโจร
 WMapName_2998,
 WMapName_2999,Training area,ลานฝึก
-WMapName_10010,Emperor Wu Mausoleum,สุสานฮ่องเต้อู่ตี้
+WMapName_10010,Emperor Wu Mausoleum,สุสานจักรพรรดิอู่ตี้
 WMapName_10020,Ancient Ruin of Shoufang,ซากปรักหักพังโบราณสถานโชวฟาง
 WMapName_10030,Suburds,ชานเมือง
 WMapName_10031,Commander's tent,กระโจมแม่ทัพ
@@ -573,7 +573,7 @@ WMapName_10050,Mang Mountain Pit,ถ้ำหลุมภูเขาหมา�
 WMapName_10060,Longevity Tomb,สุสานอมตะ
 WMapName_10070,Palace Camp,ค่ายทัพหลวง
 WMapName_10071,Palace big tent,กระโจมใหญ่ทัพหลวง
-WMapName_10080,Yan Army Camp,ค่ายกองทัพเยี่ยน
+WMapName_10080,Yan Army Camp,ค่ายกองทัพหยาน
 WMapName_10100,Southern Camp,ค่ายทางใต้
 WMapName_10110,Forest of Broken Souls,ป่าวิญญาณสลาย
 WMapName_10120,Snowflower Valley,หุบเขาโบตั๋น
@@ -588,7 +588,7 @@ MapName_506,Back Mountain,หลังภูเขา
 MapName_5017,Forest Clearing,ที่โล่งป่า
 MapName_5031,
 MapName_5046,Imperial Palace Hall,ห้องโถงพระราชวังหลวง
-MapName_5047,Wuxian Wonderland,แดนสวรรค์อู๋เซี่ยน
+MapName_5047,Wuxian Wonderland,แดนมหัศจรรย์อู๋เซี่ยน
 MapName_5048,Fish Island,เกาะปลา
 MapName_2054,Miscellaneous Storage Room,ห้องเก็บของเบ็ดเตล็ด
 MapName_2065,Armory,คลังแสง
@@ -596,79 +596,3 @@ MapName_2169,
 WMapName_500,Abandoned Courtyard,ลานรกร้าง
 WMapName_5046,Traveling palace,พระราชวังท่องเที่ยว
 WMapName_2065,Armory,คลังแสง
-MapName_5045,Goddess Temple,วิหารเทพธิดา
-MapName_507,Main House,ตัวบ้าน
-MapName_600,Sky Breaker Tower,หอสูงเทียมฟ้า
-MapName_1005,Western Regions,แดนตะวันตก
-MapName_5032,Sea of Flowers,ทะเลบุปผา
-MapName_5049,Bamboo Forest,ป่าไผ่
-MapName_5053,
-MapName_5054,
-MapName_5055,
-MapName_5056,
-MapName_5057,
-MapName_5058,
-MapName_5059,Jade Gate,ด่านประตูหยก
-MapName_5060,Outside Jade Gate,ด้านนอกด่านประตูหยก
-MapName_5061,Plum Blossom Village,หมู่บ้านดอกท้อ
-MapName_20400,Flame City,เมืองอัคคี
-MapName_20401,Flame City - Inn,เมืองอัคคี - โรงเตี๊ยม
-MapName_20402,Flame City - Inn Guest Room,เมืองอัคคี - ห้องพักโรงเตี๊ยม
-MapName_20420,Flame Sand Cave,ถ้ำทรายอัคคี
-MapName_2055,Shenji Pavillion,ศาลาเฉินจี
-MapName_2056,Haitang Habitat,ที่อยู่อาศัยไห่ถัง
-MapName_2180,Cloud Camp,ค่ายเมฆา
-MapName_2181,Cloud Camp - Meeting Hall,ค่ายเมฆา - โถงประชุม
-MapName_2182,Cloud Camp - Bedroom,ค่ายเมฆา - ห้องนอน
-MapName_2190,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
-MapName_2191,Beast Manor·Main Hall,หมู่ตึกหมื่นอสูร·โถงหลัก
-MapName_2192,Beast Manor·Guest Room,หมู่ตึกหมื่นอสูร·ห้องรับแขก
-MapName_2200,Plant House,ตำหนักพฤกษา
-MapName_2201,Plant House - Main Hall,ตำหนักพฤกษา - โถงหลัก
-MapName_2211,Cold Skin Gang - Main Hall,พรรคมังสาเหมันต์ - โถงหลัก
-MapName_2220,Chang'an Inn,โรงเตี๊ยมฉางอัน
-MapName_2221,Chang'an Inn - Reception,โรงเตี๊ยมฉางอัน - แผนกต้อนรับ
-MapName_2222,Chang'an Inn - Hallway,โรงเตี๊ยมฉางอัน - โถงทางเดิน
-MapName_2223,Haitang Qiu's Room,ห้องของไห่ถังฉิว
-MapName_2224,Guest Room,ห้องรับแขก
-MapName_2225,Guest Room,ห้องรับแขก
-MapName_2226,Guest Room,ห้องรับแขก
-MapName_2227,Guest Room,ห้องรับแขก
-MapName_2228,Chang'an Inn - Kitchen,โรงเตี๊ยมฉางอัน - ห้องครัว
-MapName_2230,Holy Fire Sect,นิกายไฟศักดิ์สิทธิ์
-MapName_2231,Divine Flame Sect - Main Hall,นิกายไฟศักดิ์สิทธิ์ - โถงหลัก
-MapName_10140,Bailing Mountain- Foot of Mountain,ภูเขาไป๋หลิง - ตีนเขา
-MapName_10141,Bailing Mountain - Mountain Foot,ภูเขาไป๋หลิง - เชิงเขา
-MapName_10142,Bailing Mountain - Mountain Cave,ภูเขาไป๋หลิง - ถ้ำ
-MapName_10143,Bailing Mountain·Peak,ภูเขาไป๋หลิง·ยอดเขา
-MapName_10144,Bailing Mountain·Peak Cave,ภูเขาไป๋หลิง·ถ้ำบนยอดเขา
-MapName_10145,Bailing Mountain·Snow Cabin,ภูเขาไป๋หลิง - กระท่อมบนภูเขาหิมะ
-MapName_10150,Flame Toad Cave,ถ้ำคางคกอัคคี
-MapName_10160,Divine Ox Treasury,คลังสมบัติวัวศักดิ์สิทธิ์
-WMapName_600,Sky Breaker Tower,หอสูงเทียมฟ้า
-WMapName_1005,Western Regions,แดนตะวันตก
-WMapName_2200,Plant House,ตำหนักพฤกษา
-WMapName_5031,Paddy,ข้าวเปลือก
-WMapName_5032,Sea of Flowers,ทะเลบุปผา
-WMapName_5049,Bamboo Forest,ป่าไผ่
-WMapName_5053,
-WMapName_5054,
-WMapName_5055,
-WMapName_5056,
-WMapName_5057,
-WMapName_5058,
-WMapName_5059,Jade Gate,ด่านประตูหยก
-WMapName_5060,Outside Jade Gate,ด้านนอกด่านประตูหยก
-WMapName_5061,Plum Blossom Village,หมู่บ้านดอกท้อ
-WMapName_20400,Flame City,เมืองอัคคี
-WMapName_20401,Flame City - Inn,เมืองอัคคี - โรงเตี๊ยม
-WMapName_20402,Flame City - Inn Guest Room,เมืองอัคคี - ห้องพักโรงเตี๊ยม
-WMapName_20420,Flame Sand Cave,ถ้ำทรายอัคคี
-WMapName_2180,Cloud Camp,ค่ายเมฆา
-WMapName_2190,Ten Thousand Beast Manor,หมู่ตึกหมื่นอสูร
-WMapName_2220,Chang'an Inn,โรงเตี๊ยมฉางอัน
-WMapName_2230,Holy Fire Sect,นิกายไฟศักดิ์สิทธิ์
-WMapName_2231,Divine Flame Sect - Main Hall,นิกายไฟศักดิ์สิทธิ์ - โถงหลัก
-WMapName_10140,Bailing Mountain,ภูเขาไป๋หลิง
-WMapName_10150,Flame Toad Cave,ถ้ำคางคกอัคคี
-WMapName_10160,Divine Ox Treasury,คลังสมบัติวัวศักดิ์สิทธิ์
